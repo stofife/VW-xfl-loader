@@ -1,11 +1,9 @@
+ï»¿Nutzerdaten
+DÃ¡ta pouÅ¾Ã­vateÄ¾a
 
 
-Nutzerdaten
-Dáta pouívate¾a
-
-
-Übersicht Modellpflege
-Preh¾ad Modellpflege
+Ãœbersicht Modellpflege
+PrehÄ¾ad Modellpflege
 
 
 Modellpflege Details
@@ -13,483 +11,483 @@ Modellpflege - detaily
 
 
 Nutzerdaten - Detail
-Dáta pouívate¾a - detaily
+DÃ¡ta pouÅ¾Ã­vateÄ¾a - detaily
 
 
 Werkszuordnung
-Priradenie závodu
+Priradenie zÃ¡vodu
 
 
 Einbauproben
-Skúšky zabudovania
+SkÃºÅ¡ky zabudovania
 
 
 Einbauprobe bearbeiten
-Skúška zabudovania - spracovanie
+SkÃºÅ¡ka zabudovania - spracovanie
 
 
 Fahrzeug-Vormerkung
-Vozidlo - zápis
+Vozidlo - zÃ¡pis
 
 
-Fachbereiche - Übersicht
-Odborné oddelenia - preh¾ad
+Fachbereiche - Ãœbersicht
+OdbornÃ© oddelenia - prehÄ¾ad
 
 
 Fachbereiche - Details
-   Odborné oddelenia - detaily
+   OdbornÃ© oddelenia - detaily
 
 
 Ticket abschliessen
-Ukonèi tiket
+UkonÄiÅ¥ tiket
 
 
-Ticket zurücksetzen
-Obnovi tiket
+Ticket zurÃ¼cksetzen
+ObnoviÅ¥ tiket
 
 
 Abbrechen
-Preruší
+PreruÅ¡Ã­Å¥
 
 
-Löschen 
-Vymaza
+LÃ¶schen 
+VymazaÅ¥
 
 
 Speichern 
-Uloi
+UloÅ¾iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Filter "Analyse"
-Filter "Analıza"
+Filter "AnalÃ½za"
 
 
 Cancel
-Zruši
+ZruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Cancel
-Zruši
+ZruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Aktualisieren
-Aktualizova
+AktualizovaÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Filter "Vorserie"
-Filter "predséria"
+Filter "predsÃ©ria"
 
 
 Filter "Serie"
-Filter „séria“
+Filter â€sÃ©riaâ€œ
 
 
 Filter "alles"
-Filter "všetko"
+Filter "vÅ¡etko"
 
 
-Prüfliste final freigeben
-Finálne schválenie kontrolného zoznamu
+PrÃ¼fliste final freigeben
+FinÃ¡lne schvÃ¡lenie kontrolnÃ©ho zoznamu
 
 
 Erzeuge fehlende Berichte
-Vytvor chıbajúce reporty
+Vytvor chÃ½bajÃºce reporty
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Hochladen
-Nahra
+NahraÅ¥
 
 
 Hochladen
-Nahra
+NahraÅ¥
 
 
-Schließen & Aktualisieren
-Zatvori a aktualizova
-
-
-Hochladen
-Nahra
+SchlieÃŸen & Aktualisieren
+ZatvoriÅ¥ a aktualizovaÅ¥
 
 
 Hochladen
-Nahra
+NahraÅ¥
+
+
+Hochladen
+NahraÅ¥
 
 
 Kopieren
-Kopírova
+KopÃ­rovaÅ¥
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
-
-
-Abbrechen
-Preruši
-
-
-Erstellen
-Vytvori
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
+
+
+Erstellen
+VytvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
+
+
+Abbrechen
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
-Fahrzeug über FIS suchen
-H¾ada vozidlo pomocou FIS
-
-
-Erstellen
-Vytvori
+Fahrzeug Ã¼ber FIS suchen
+HÄ¾adaÅ¥ vozidlo pomocou FIS
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
-Filter zurücksetzen
-Obnovi filter
+Erstellen
+VytvoriÅ¥
+
+
+Filter zurÃ¼cksetzen
+ObnoviÅ¥ filter
 
 
 Cancel
-Zruši
+ZruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
-Zurück
-Spä
+ZurÃ¼ck
+SpÃ¤Å¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Cancel
-Zruši
+ZruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Anlegen
-Zaloi
+ZaloÅ¾iÅ¥
 
 
-Zurück
-Spä
+ZurÃ¼ck
+SpÃ¤Å¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
-Schließen
-Zatvori
+SchlieÃŸen
+ZatvoriÅ¥
 
 
-Löschen
-Vymaza
-
-
-Berechnen
-Vypoèíta
+LÃ¶schen
+VymazaÅ¥
 
 
 Berechnen
-Vypoèíta
+VypoÄÃ­taÅ¥
+
+
+Berechnen
+VypoÄÃ­taÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Zurück
-Spä
+ZurÃ¼ck
+SpÃ¤Å¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Anlegen
-Zaloi
+ZaloÅ¾iÅ¥
 
 
-Filter zurücksetzen
-Obnovi filter
+Filter zurÃ¼cksetzen
+ObnoviÅ¥ filter
 
 
-Schließen & Aktualisieren
-Zatvori a aktualizova
+SchlieÃŸen & Aktualisieren
+ZatvoriÅ¥ a aktualizovaÅ¥
 
 
-Filter zurücksetzen
-Obnovi filter
+Filter zurÃ¼cksetzen
+ObnoviÅ¥ filter
 
 
-Filter zurücksetzen
-Obnovi filter
+Filter zurÃ¼cksetzen
+ObnoviÅ¥ filter
 
 
 Cancel
-Zruši
+ZruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Kopieren & Schließen
-Kopírova a zatvori
+Kopieren & SchlieÃŸen
+KopÃ­rovaÅ¥ a zatvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Filter anwenden
-Poui filter
+PouÅ¾iÅ¥ filter
 
 
 Berechnen
-Vypoèíta
+VypoÄÃ­taÅ¥
 
 
-Prüfliste zurücksetzen
-Obnovi Prüflistiny
+PrÃ¼fliste zurÃ¼cksetzen
+ObnoviÅ¥ PrÃ¼flistiny
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
-Speichern und Schließen
-Uloi a zatvori
-
-
-Abbrechen
-Preruši
+Speichern und SchlieÃŸen
+UloÅ¾iÅ¥ a zatvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
+
+
+Abbrechen
+PreruÅ¡iÅ¥
 
 
 Hochladen
-Nahra
+NahraÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Schließen & Aktualisieren
-Zatvori a aktualizova
+SchlieÃŸen & Aktualisieren
+ZatvoriÅ¥ a aktualizovaÅ¥
 
 
 Hochladen
-Nahra
+NahraÅ¥
 
 
 Cancel
-Zruši
+ZruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 WS abfragen
@@ -497,838 +495,837 @@ Dotaz na WS
 
 
 Save
-Uloi
+UloÅ¾iÅ¥
 
 
 Filter anwenden
-Poui filter
+PouÅ¾iÅ¥ filter
 
 
-Filter zurücksetzen
-Obnovi filter
+Filter zurÃ¼cksetzen
+ObnoviÅ¥ filter
 
 
 Drucken
-Tlaèi
+TlaÄiÅ¥
 
 
-Veröffentlichen
-Zverejni
+VerÃ¶ffentlichen
+ZverejniÅ¥
 
 
 Save
-Uloi
+UloÅ¾iÅ¥
 
 
 Drucken PDF
-Tlaèi PDF
+TlaÄiÅ¥ PDF
 
 
 Fehlerplan drucken
-Tlaèi plán chıb
+TlaÄiÅ¥ plÃ¡n chÃ½b
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Löschen
-Vymaza
-
-
-Speichern
-Uloi
+LÃ¶schen
+VymazaÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
+
+
+Speichern
+UloÅ¾iÅ¥
 
 
 Fahrzeug anzeigen
-Zobrazi vozidlo
+ZobraziÅ¥ vozidlo
 
 
 Anmelden
-Prihlási
+PrihlÃ¡siÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Löschen
-Vymaza
-
-
-Speichern
-Uloi
+LÃ¶schen
+VymazaÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+Speichern
+UloÅ¾iÅ¥
+
+
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
-Speichern und Schließen
-Uloi a zatvori
+Speichern und SchlieÃŸen
+UloÅ¾iÅ¥ a zatvoriÅ¥
 
 
-Speichern und Schließen
-Uloi a zatvori
+Speichern und SchlieÃŸen
+UloÅ¾iÅ¥ a zatvoriÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Serienticket erstellen
-Vytvori sériovı tiket
+VytvoriÅ¥ sÃ©riovÃ½ tiket
 
 
 Fahrzeug anzeigen
-Zobrazi vozidlo
+ZobraziÅ¥ vozidlo
 
 
 Nutzer - Rollen
-Uívate¾ské role
+UÅ¾Ã­vateÄ¾skÃ© role
 
 
 Vorserienticket erstellen
-Vytvori predsériovı tiket
+VytvoriÅ¥ predsÃ©riovÃ½ tiket
 
 
 Vorserienticket erstellen
-Vytvori predsériovı tiket
+VytvoriÅ¥ predsÃ©riovÃ½ tiket
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-?Vytvori
+ï»¿VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
-Schließen
-Zatvori
+SchlieÃŸen
+ZatvoriÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Nutzer - Rollen
-Uívate¾ské role
+UÅ¾Ã­vateÄ¾skÃ© role
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Erstellen
-Vytvori
+VytvoriÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
-
-
-Abbrechen
-Preruši
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
+
+
+Abbrechen
+PreruÅ¡iÅ¥
 
 
 Serienticket erstellen
-Vytvori sériovı tiket
+VytvoriÅ¥ sÃ©riovÃ½ tiket
 
 
-Ticketübersicht
-Preh¾ad tiketov
+TicketÃ¼bersicht
+PrehÄ¾ad tiketov
 
 
 Ticket erstellen
-Vytvori tiket
+VytvoriÅ¥ tiket
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Prüfergebnisse drucken
-Vytlaèi vısledky kontroly
+PrÃ¼fergebnisse drucken
+VytlaÄiÅ¥ vÃ½sledky kontroly
 
 
-Prüflisten zuordnen
-Priradi kontrolné zoznamy
+PrÃ¼flisten zuordnen
+PriradiÅ¥ kontrolnÃ© zoznamy
 
 
 Ticket freigeben
-Uvo¾ni tiket
+UvoÄ¾niÅ¥ tiket
 
 
 Fahrzeug anzeigen
-Zobrazi vozidlo
+ZobraziÅ¥ vozidlo
 
 
 Ticket erstellen
-Vytvori tiket
+VytvoriÅ¥ tiket
 
 
 Serienticket erstellen
-Vytvori sériovı tiket
+VytvoriÅ¥ sÃ©riovÃ½ tiket
 
 
 Vorserienticket erstellen
-Vytvori predsériovı tiket
+VytvoriÅ¥ predsÃ©riovÃ½ tiket
 
 
 Serienticket erstellen
-Vytvori sériovı tiket
+VytvoriÅ¥ sÃ©riovÃ½ tiket
 
 
 Vorserienticket erstellen
-Vytvori predsériovı tiket
+VytvoriÅ¥ predsÃ©riovÃ½ tiket
 
 
 Serienticket erstellen
-Vytvori sériovı tiket
+VytvoriÅ¥ sÃ©riovÃ½ tiket
 
 
 Vorserienticket erstellen
-Vytvori predsériovı tiket
+VytvoriÅ¥ predsÃ©riovÃ½ tiket
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
-
-
-Abbrechen
-Preruši
-
-
-Löschen
-Vymaza
-
-
-Speichern & Schließen
-Uloi a zatvori
-
-
-Speichern & Schließen
-Uloi a zatvori
-
-
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
+
+
+LÃ¶schen
+VymazaÅ¥
+
+
+Speichern & SchlieÃŸen
+UloÅ¾iÅ¥ a zatvoriÅ¥
+
+
+Speichern & SchlieÃŸen
+UloÅ¾iÅ¥ a zatvoriÅ¥
+
+
+LÃ¶schen
+VymazaÅ¥
+
+
+Abbrechen
+PreruÅ¡iÅ¥
 
 
 Neuer Eintrag
-Novı zápis
+NovÃ½ zÃ¡pis
 
 
 Neuer Eintrag
-Novı zápis
+NovÃ½ zÃ¡pis
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Top Woche zurücksetzen
-Obnovi top tıdeò
+Top Woche zurÃ¼cksetzen
+ObnoviÅ¥ top tÃ½Å¾deÅˆ
 
 
 Cancel
-Zruši
+ZruÅ¡iÅ¥
 
 
 Delete
-Vymaza
+VymazaÅ¥
 
 
 Apply Changes
-Aplikova zmeny
+AplikovaÅ¥ zmeny
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
 Create
-Vytvori
+VytvoriÅ¥
 
 
-Prüfliste freigeben
-Uvo¾ni Prüflistiny
+PrÃ¼fliste freigeben
+UvoÄ¾niÅ¥ PrÃ¼flistiny
 
 
-Zusammenführen
-Spoji
-
-
-Abbrechen
-Preruši
+ZusammenfÃ¼hren
+SpojiÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
+
+
+Abbrechen
+PreruÅ¡iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
 Dokument hochladen
-Nahra dokument
+NahraÅ¥ dokument
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
 Speichern
-Uloi
+UloÅ¾iÅ¥
 
 
-Löschen
-Vymaza
+LÃ¶schen
+VymazaÅ¥
 
 
 Abbrechen
-Preruši
+PreruÅ¡iÅ¥
 
 
-Dieser Prüfschritt kann nicht gelöscht werden!
-Tento kontrolnı krok nemono zmaza!
+Dieser PrÃ¼fschritt kann nicht gelÃ¶scht werden!
+Tento kontrolnÃ½ krok nemoÅ¾no zmazaÅ¥!
 
 
-Die Toleranzgrenze MIN ist größer als die Toleranzgrenze MAX.
-Hranica tolerancie MIN je väèšia ako hranica tolerancie MAX.
+Die Toleranzgrenze MIN ist grÃ¶ÃŸer als die Toleranzgrenze MAX.
+Hranica tolerancie MIN je vÃ¤ÄÅ¡ia ako hranica tolerancie MAX.
 
 
 VBV muss einen Wert haben.
-VBV musí ma zadanú hodnotu.
+VBV musÃ­ maÅ¥ zadanÃº hodnotu.
 
 
-Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
-Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
+Bitte geben Sie einen gÃ¼ltigen Dateinamen ein! GÃ¼ltige Zeichen sind alle GroÃŸ- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnÃ½ nÃ¡zov sÃºboru! PlatnÃ© znaky sÃº vÅ¡etky veÄ¾kÃ© a malÃ© pÃ­smenÃ¡, ÄÃ­slice, podÄiarkovnÃ­k a pomlÄka.
 
 
-Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
-Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
-
-
-Dateiname muss einen Wert haben.
-Musí by zadanı názov súboru.
-
-
-Der Dateiname existiert bereits!
-Názov súboru u existuje!
-
-
-Bitte wählen Sie eine Datei aus!
-Vyberte súbor!
-
-
-Der Dateiname existiert bereits!
-Názov súboru u existuje!
-
-
-Der Dateiname existiert bereits!
-Názov súboru u existuje!
-
-
-Bitte wählen Sie eine Datei aus!
-Vyberte súbor!
-
-
-Bitte wählen Sie eine Datei aus!
-Vyberte súbor!
-
-
-Bitte geben Sie einen Dateinamen an!
-Zadajte názov súboru!
-
-
-Bitte geben Sie einen Dateinamen an!
-Zadajte názov súboru!
-
-
-Löschen nicht möglich. Diese Fehleransprache wird noch verwendet.
-Vymazanie nie je moné. Tento prejav chyby sa ešte pouíva.
-
-
-Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
-Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
-
-
-Die Fehleransprache existiert bereits im Ticket für diesen Prüfschritt!
-Prejav chyby u existuje v tikete pre tento testovací krok!
-
-
-Die Fehleransprache existiert bereits zu diesem Prüfschritt! Wählen Sie diese unter Fehleransprache aus!
-Prejav chyby u existuje pre tento testovací krok! Zvo¾te ho v prejavoch chıb!
-
-
-Messwert Toleranz Maximum muss größer oder gleich sein als Toleranz Minimum.
-Nameraná hodnota maximálnej tolerancie musí by väèšia alebo rovnaká ako mimimálna tolerancia.
-
-
-Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
-Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
+Bitte geben Sie einen gÃ¼ltigen Dateinamen ein! GÃ¼ltige Zeichen sind alle GroÃŸ- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnÃ½ nÃ¡zov sÃºboru! PlatnÃ© znaky sÃº vÅ¡etky veÄ¾kÃ© a malÃ© pÃ­smenÃ¡, ÄÃ­slice, podÄiarkovnÃ­k a pomlÄka.
 
 
 Dateiname muss einen Wert haben.
-Musí by zadanı názov súboru.
+MusÃ­ byÅ¥ zadanÃ½ nÃ¡zov sÃºboru.
 
 
 Der Dateiname existiert bereits!
-Názov súboru u existuje!
+NÃ¡zov sÃºboru uÅ¾ existuje!
 
 
-Bitte wählen Sie eine Datei aus!
-Vyberte súbor!
+Bitte wÃ¤hlen Sie eine Datei aus!
+Vyberte sÃºbor!
 
 
-Es konnten keine PR-Nummern ermittelt werden. Bitte prüfen Sie die Kennnummer, das Werk und das Sollbaujahr!
-Neboli zistené èísla PR. Skontrolujte identifikaèné èíslo, závod a cie¾ovı rok vıroby!
+Der Dateiname existiert bereits!
+NÃ¡zov sÃºboru uÅ¾ existuje!
 
 
-Fehler beim Ändern des Ticketstatus auf "abgeschlossen"!
-Chyba pri zmene stavú tiketu na "ukonèenı"!
+Der Dateiname existiert bereits!
+NÃ¡zov sÃºboru uÅ¾ existuje!
 
 
-Fehler beim Ändern des Ticketstatus!
+Bitte wÃ¤hlen Sie eine Datei aus!
+Vyberte sÃºbor!
+
+
+Bitte wÃ¤hlen Sie eine Datei aus!
+Vyberte sÃºbor!
+
+
+Bitte geben Sie einen Dateinamen an!
+Zadajte nÃ¡zov sÃºboru!
+
+
+Bitte geben Sie einen Dateinamen an!
+Zadajte nÃ¡zov sÃºboru!
+
+
+LÃ¶schen nicht mÃ¶glich. Diese Fehleransprache wird noch verwendet.
+Vymazanie nie je moÅ¾nÃ©. Tento prejav chyby sa eÅ¡te pouÅ¾Ã­va.
+
+
+Bitte geben Sie einen gÃ¼ltigen Dateinamen ein! GÃ¼ltige Zeichen sind alle GroÃŸ- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnÃ½ nÃ¡zov sÃºboru! PlatnÃ© znaky sÃº vÅ¡etky veÄ¾kÃ© a malÃ© pÃ­smenÃ¡, ÄÃ­slice, podÄiarkovnÃ­k a pomlÄka.
+
+
+Die Fehleransprache existiert bereits im Ticket fÃ¼r diesen PrÃ¼fschritt!
+Prejav chyby uÅ¾ existuje v tikete pre tento testovacÃ­ krok!
+
+
+Die Fehleransprache existiert bereits zu diesem PrÃ¼fschritt! WÃ¤hlen Sie diese unter Fehleransprache aus!
+Prejav chyby uÅ¾ existuje pre tento testovacÃ­ krok! ZvoÄ¾te ho vÂ prejavoch chÃ½b!
+
+
+Messwert Toleranz Maximum muss grÃ¶ÃŸer oder gleich sein als Toleranz Minimum.
+NameranÃ¡ hodnota maximÃ¡lnej tolerancie musÃ­ byÅ¥ vÃ¤ÄÅ¡ia alebo rovnakÃ¡ ako mimimÃ¡lna tolerancia.
+
+
+Bitte geben Sie einen gÃ¼ltigen Dateinamen ein! GÃ¼ltige Zeichen sind alle GroÃŸ- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnÃ½ nÃ¡zov sÃºboru! PlatnÃ© znaky sÃº vÅ¡etky veÄ¾kÃ© a malÃ© pÃ­smenÃ¡, ÄÃ­slice, podÄiarkovnÃ­k a pomlÄka.
+
+
+Dateiname muss einen Wert haben.
+MusÃ­ byÅ¥ zadanÃ½ nÃ¡zov sÃºboru.
+
+
+Der Dateiname existiert bereits!
+NÃ¡zov sÃºboru uÅ¾ existuje!
+
+
+Bitte wÃ¤hlen Sie eine Datei aus!
+Vyberte sÃºbor!
+
+
+Es konnten keine PR-Nummern ermittelt werden. Bitte prÃ¼fen Sie die Kennnummer, das Werk und das Sollbaujahr!
+Neboli zistenÃ© ÄÃ­sla PR. Skontrolujte identifikaÄnÃ© ÄÃ­slo, zÃ¡vod a cieÄ¾ovÃ½ rok vÃ½roby!
+
+
+Fehler beim Ã„ndern des Ticketstatus auf "abgeschlossen"!
+Chyba pri zmene stavÃº tiketu na "ukonÄenÃ½"!
+
+
+Fehler beim Ã„ndern des Ticketstatus!
 Chyba pri zmene stavu tiketu!
 
 
 Fehler beim Setzen der Ergebnisse auf 'io'!
-Chyba pri zadávaní vısledkov ako 'io'!
+Chyba pri zadÃ¡vanÃ­ vÃ½sledkov ako 'io'!
 
 
 Fehler beim Auslesen der Rollen: #SQLERRM#
-Chyba pri èítaní rolí: #SQLERRM#
+Chyba pri ÄÃ­tanÃ­ rolÃ­: #SQLERRM#
 
 
 Fehler beim Speichern #SQLERRM#
-Chyba pri ukladaní#SQLERRM#
+Chyba pri ukladanÃ­#SQLERRM#
 
 
-Fehler beim Löschen des Anhanges.
-Chyba pri vymazaní prílohy.
+Fehler beim LÃ¶schen des Anhanges.
+Chyba pri vymazanÃ­ prÃ­lohy.
 
 
 Fehler beim Speichern #SQLERRM#
-Chyba pri ukladaní#SQLERRM#
+Chyba pri ukladanÃ­#SQLERRM#
 
 
-Fehler beim Löschen des Anhanges.
-Chyba pri vymazaní prílohy.
+Fehler beim LÃ¶schen des Anhanges.
+Chyba pri vymazanÃ­ prÃ­lohy.
 
 
 No
 Nie
 
 Fehler beim Speichern der Fachbereichs-Zuordnungen!
-Chyba pri ukladaní priradení odbornım oddeleniam!
+Chyba pri ukladanÃ­ priradenÃ­ odbornÃ½m oddeleniam!
 
 
 Fehler beim Speichern der Nutzerdaten!
-Chyba pri ukladaní uívate¾skıch dát!
+Chyba pri ukladanÃ­ uÅ¾Ã­vateÄ¾skÃ½ch dÃ¡t!
 
 
-Fehler beim Einfügen der Fehleransprache!
-Chyba pri zadávaní prejavu chyby!
+Fehler beim EinfÃ¼gen der Fehleransprache!
+Chyba pri zadÃ¡vanÃ­ prejavu chyby!
 
 
-Fehler beim Löschen der Fehleransprache!
-Chyba pri vymazaní prejavu chyby!
+Fehler beim LÃ¶schen der Fehleransprache!
+Chyba pri vymazanÃ­ prejavu chyby!
 
 
-Fehler beim Speichern der Prüfschritte!
-Chyba pri ukladaní skúšobnıch krokov!
+Fehler beim Speichern der PrÃ¼fschritte!
+Chyba pri ukladanÃ­ skÃºÅ¡obnÃ½ch krokov!
 
 
-Fehler beim Löschen des Prüfschrittes!
-Chyba pri vymazaní kontrolného kroku!
+Fehler beim LÃ¶schen des PrÃ¼fschrittes!
+Chyba pri vymazanÃ­ kontrolnÃ©ho kroku!
 
 
 Fehler beim Speichern #SQLERRM#
-Chyba pri ukladaní#SQLERRM#
+Chyba pri ukladanÃ­#SQLERRM#
 
 
-Fehler beim Löschen des Anhanges.
-Chyba pri vymazaní prílohy.
+Fehler beim LÃ¶schen des Anhanges.
+Chyba pri vymazanÃ­ prÃ­lohy.
 
 
 Fehler beim Speichern der Fachbereiche!
-Chyba pri ukladaní odbornıch oddelení!
+Chyba pri ukladanÃ­ odbornÃ½ch oddelenÃ­!
 
 
 Aktion nicht erfolgreich! #SQLERRM#
-Akcia neúspešná! #SQLERRM#
+Akcia neÃºspeÅ¡nÃ¡! #SQLERRM#
 
 
-Fehler beim Ändern des Ticketstatus!
+Fehler beim Ã„ndern des Ticketstatus!
 Chyba pri zmene stavu tiketu!
 
 
 Fehler beim Speichern! #SQLERRM#
-Chyba pri ukladaní! #SQLERRM#
+Chyba pri ukladanÃ­! #SQLERRM#
 
 
-Fehler beim Speichern der Prüfergebnisse! #SQLERRM#
-Chyba pri ukladaní vısledkov kontroly! #SQLERRM#
+Fehler beim Speichern der PrÃ¼fergebnisse! #SQLERRM#
+Chyba pri ukladanÃ­ vÃ½sledkov kontroly! #SQLERRM#
 
 
-Fehler beim Zusammenführen!
-Chyba pri spájaní!
-	
+Fehler beim ZusammenfÃ¼hren!
+Chyba pri spÃ¡janÃ­!
 
-Fehler beim Speichern der Prüflisten! #SQLERRM#
-Chyba pri ukladaní skúšobnıch zoznamov! #SQLERRM#
+Fehler beim Speichern der PrÃ¼flisten! #SQLERRM#
+Chyba pri ukladanÃ­ skÃºÅ¡obnÃ½ch zoznamov! #SQLERRM#
 
 
-Status des Tickets wurde geändert!
+Status des Tickets wurde geÃ¤ndert!
 Status tiketu sa zmenil!
 
 
-Status des Tickets wurde geändert!
+Status des Tickets wurde geÃ¤ndert!
 Status tiketu sa zmenil!
 
 
 Ergebnisse auf 'io' gesetzt!
-Vısledky nastavené na 'io'!
+VÃ½sledky nastavenÃ© na 'io'!
 
 
 Rollen wurden ausgelesen.
-Odèítali sa role.
+OdÄÃ­tali sa role.
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Datei erfolgreich gespeichert!
-Súbor bol uspešne uloenı!
+SÃºbor bol uspeÅ¡ne uloÅ¾enÃ½!
 
 
-Anhang wurde gelöscht.
-Príloha bola zmazaná
+Anhang wurde gelÃ¶scht.
+PrÃ­loha bola zmazanÃ¡
 
 
 Datei erfolgreich gespeichert!
-Súbor bol uspešne uloenı!
+SÃºbor bol uspeÅ¡ne uloÅ¾enÃ½!
 
 
-Anhang wurde gelöscht.
-Príloha bola zmazaná
+Anhang wurde gelÃ¶scht.
+PrÃ­loha bola zmazanÃ¡
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 OKI
@@ -1336,167 +1333,167 @@ OKI
 
 
 Nutzerdaten erfolgreich gespeichert!
-Uívate¾ské dáta boli úspešne uloené!
+UÅ¾Ã­vateÄ¾skÃ© dÃ¡ta boli ÃºspeÅ¡ne uloÅ¾enÃ©!
 
 
-Fehleransprache eingefügt!
-Prejav chyby doplnenı!
+Fehleransprache eingefÃ¼gt!
+Prejav chyby doplnenÃ½!
 
 
-Fehleransprache Úspešne vymazané!
-Prejav chyby úspešne zmazanı!
+Fehleransprache ÃšspeÅ¡ne vymazanÃ©!
+Prejav chyby ÃºspeÅ¡ne zmazanÃ½!
 
 
-Prüfschritt(e) wurde(n) erfolgreich gespeichert!
-Kontrolnı(é) krok(y) bol(i) úspešne uloenı(é)!
+PrÃ¼fschritt(e) wurde(n) erfolgreich gespeichert!
+KontrolnÃ½(Ã©) krok(y) bol(i) ÃºspeÅ¡ne uloÅ¾enÃ½(Ã©)!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
-Prüfschritt wurde erfolgreich gelöscht!
-Kontrolnı krok bol úspešne vymazanı!
+PrÃ¼fschritt wurde erfolgreich gelÃ¶scht!
+KontrolnÃ½ krok bol ÃºspeÅ¡ne vymazanÃ½!
 
 
 Datei erfolgreich gespeichert!
-Súbor bol uspešne uloenı!
+SÃºbor bol uspeÅ¡ne uloÅ¾enÃ½!
 
 
-Anhang wurde gelöscht.
-Príloha bola zmazaná
+Anhang wurde gelÃ¶scht.
+PrÃ­loha bola zmazanÃ¡
 
 
-Änderungen wurden veröffentlicht!
-Zmeny boli zverejnené!
-
-
-Aktion erfolgreich!
-Akcia úspešná!
+Ã„nderungen wurden verÃ¶ffentlicht!
+Zmeny boli zverejnenÃ©!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
+
+
+Aktion erfolgreich!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Fachbereiche wurden erfolgreich gespeichert!
-Odborné oddelenia boli úspešne uloené!
+OdbornÃ© oddelenia boli ÃºspeÅ¡ne uloÅ¾enÃ©!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
-Status des Tickets wurde geändert!
+Status des Tickets wurde geÃ¤ndert!
 Status tiketu sa zmenil!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
-Erfolgreich gelöscht!
-Úspešne vymazané!
-
-
-Aktion erfolgreich!
-Akcia úspešná!
+Erfolgreich gelÃ¶scht!
+ÃšspeÅ¡ne vymazanÃ©!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
 Aktion erfolgreich!
-Akcia úspešná!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
-Erfolgreich zusammengeführt!
-Úspešne spojené!
+Aktion erfolgreich!
+Akcia ÃºspeÅ¡nÃ¡!
 
 
-Prüflisten wurden erfolgreich gespeichert!
-Kontrolné zoznamy boli úspešne uloené!
+Erfolgreich zusammengefÃ¼hrt!
+ÃšspeÅ¡ne spojenÃ©!
 
 
-Prüfcluster Detail
-Detail Prüfclustra
+PrÃ¼flisten wurden erfolgreich gespeichert!
+KontrolnÃ© zoznamy boli ÃºspeÅ¡ne uloÅ¾enÃ©!
 
 
-Zugeordnete Prüflisten
-Priradené kontrolné zoznamy
+PrÃ¼fcluster Detail
+Detail PrÃ¼fclustra
 
 
-Prüfschritt
-Kontrolnı krok
+Zugeordnete PrÃ¼flisten
+PriradenÃ© kontrolnÃ© zoznamy
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
+
+
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Export Fehleransprachen
-Export prejavov chıb
+Export prejavov chÃ½b
 
 
 Datenfilter
-Dátovı filter
+DÃ¡tovÃ½ filter
 
 
 Auftraggeber Details
-Detaily objednávate¾a
+Detaily objednÃ¡vateÄ¾a
 
 
 Report 1
@@ -1508,19 +1505,19 @@ Detaily VBV
 
 
 Katalog VBV
-Katalóg VBV
+KatalÃ³g VBV
 
 
-Prüflistenzuordnung
-Priradenie Prüflistiny
+PrÃ¼flistenzuordnung
+Priradenie PrÃ¼flistiny
 
 
-Anhänge
-Prílohy
+AnhÃ¤nge
+PrÃ­lohy
 
 
 DMS Log
-Denník DMS
+DennÃ­k DMS
 
 
 Hinweis Fahrzeug
@@ -1535,28 +1532,28 @@ Hinweis Ticket Bearbeitung
 Odkaz na spracovanie tiketu
 
 
-Prüf- und Analysezentrum
-Centrum skúšok a analız
+PrÃ¼f- und Analysezentrum
+Centrum skÃºÅ¡ok a analÃ½z
 
 
 Style ui-dialog Page 0
 Style ui-dialog Page 0
 
 
-Prüfcluster Ergebnisse 'io' setzen
-Vısledky Prüfclustra nastavi na 'io'
+PrÃ¼fcluster Ergebnisse 'io' setzen
+VÃ½sledky PrÃ¼fclustra nastaviÅ¥ na 'io'
 
 
 Produktreferenz
-Produktová referencia
+ProduktovÃ¡ referencia
 
 
 Produktreferenzen
-Produktové referencie
+ProduktovÃ© referencie
 
 
 Nutzereinstellungen
-Uívate¾ské nastavenia
+UÅ¾Ã­vateÄ¾skÃ© nastavenia
 
 
 Modelle
@@ -1564,31 +1561,31 @@ Modely
 
 
 Produktreferenzen
-Produktové referencie
+ProduktovÃ© referencie
 
 
-Anhänge zum Prüfschritt
-Prílohy kuskúšobnémukroku
+AnhÃ¤nge zum PrÃ¼fschritt
+PrÃ­lohy kuskÃºÅ¡obnÃ©mukroku
 
 
 Datei hochladen
-Nahra súbor
+NahraÅ¥ sÃºbor
 
 
 Hinweis
-Poznámka
+PoznÃ¡mka
 
 
 Laufzeitparameter
-Parameter èasu trvania
+Parameter Äasu trvania
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Laufzeitparameter
-Parameter èasu trvania
+Parameter Äasu trvania
 
 
 Umlaufliste
@@ -1596,19 +1593,19 @@ Zoznam obehu
 
 
 New
-Nové
+NovÃ©
 
 
 Vertraulichkeitshinweis
-Upozornenie na dôvernos
+Upozornenie na dÃ´vernosÅ¥
 
 
-Zugeordnete Prüflisten
-Priradené kontrolné zoznamy
+Zugeordnete PrÃ¼flisten
+PriradenÃ© kontrolnÃ© zoznamy
 
 
 Werksdetails
-Detaily závodu
+Detaily zÃ¡vodu
 
 
 Report 1
@@ -1616,7 +1613,7 @@ Report 1
 
 
 Additional User Information
-Dodatoèné informácie o uívate¾ovi
+DodatoÄnÃ© informÃ¡cie o uÅ¾Ã­vateÄ¾ovi
 
 
 Report Teilestand
@@ -1628,7 +1625,7 @@ Filter
 
 
 Report Region
-Report za región
+Report za regiÃ³n
 
 
 Hidden_Region
@@ -1636,19 +1633,19 @@ Hidden_Region
 
 
 Nutzer - Detail
-Uívate¾ - detail
+UÅ¾Ã­vateÄ¾ - detail
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Modelle BST
 Modely BST
 
 
-Geprüfte Fahrzeuge
-Odksúšané vozidlá 
+GeprÃ¼fte Fahrzeuge
+OdksÃºÅ¡anÃ© vozidlÃ¡ 
 
 
 Dashboard Fahrzeugsteuerung
@@ -1668,7 +1665,7 @@ REP_ANALYSE_DATEN
 
 
 Verursacher Details
-Spôsobite¾ - detaily
+SpÃ´sobiteÄ¾ - detaily
 
 
 Report 1
@@ -1683,56 +1680,56 @@ vro_rep_ebp_daten
 vro_rep_ebp_daten
 
 
-Report Auswertung geprüfter Fahrzeuge
-Report Vyhodnotenie kontrolovanıch vozidiel
+Report Auswertung geprÃ¼fter Fahrzeuge
+Report Vyhodnotenie kontrolovanÃ½ch vozidiel
 
 
 Fehleransprachen erfassen
-Vytvori prejavy chıb
+VytvoriÅ¥ prejavy chÃ½b
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Dialog_Footer
 Dialog_Footer
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
-Auswertung geprüfter Fahrzeuge
-Vyhodnotenie kontrolovanıch vozidiel
+Auswertung geprÃ¼fter Fahrzeuge
+Vyhodnotenie kontrolovanÃ½ch vozidiel
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
-Übersicht Analysen
-Preh¾ad analız
+Ãœbersicht Analysen
+PrehÄ¾ad analÃ½z
 
 
-Auswertung Generationsstände / Teilenummmern
-Vyhodnotenie generaènıch stavov / èísla dielov
+Auswertung GenerationsstÃ¤nde / Teilenummmern
+Vyhodnotenie generaÄnÃ½ch stavov / ÄÃ­sla dielov
 
 
-Übersicht Einbauproben
-Preh¾ad skúšok zabudovania
+Ãœbersicht Einbauproben
+PrehÄ¾ad skÃºÅ¡ok zabudovania
 
 
-Dateneinschränkungen Einbauproben
-Obmedzenia dát pre skúšky zabudovania
+DateneinschrÃ¤nkungen Einbauproben
+Obmedzenia dÃ¡t pre skÃºÅ¡ky zabudovania
 
 
 Modelljahre
-Modelové roky
+ModelovÃ© roky
 
 
-Fehleransprachen löschen
-Vymaza prejavy chyby
+Fehleransprachen lÃ¶schen
+VymazaÅ¥ prejavy chyby
 
 
 Modellpflege Details
@@ -1743,87 +1740,87 @@ Report 1
 
 
 New
-Nové
+NovÃ©
 
 
 Auswertung Analysen
-Vyhodnotenie analız
+Vyhodnotenie analÃ½z
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Modell kopieren
-Kopírova model
+KopÃ­rovaÅ¥ model
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Hidden Elemente
-Skryté elementy
+SkrytÃ© elementy
 
 
 Footer
 Footer
 
 
-Prüfschrittüberblick
-Preh¾ad skúšobnıch krokov
+PrÃ¼fschrittÃ¼berblick
+PrehÄ¾ad skÃºÅ¡obnÃ½ch krokov
 
 
 Bezeichnung bearbeiten
-Upravi oznaèenie
+UpraviÅ¥ oznaÄenie
 
 
 Fahrzeug-Vormerkung
-Vozidlo - zápis
+Vozidlo - zÃ¡pis
 
 
 Fachbereiche - Details
-Odborné oddelenia - detaily
+OdbornÃ© oddelenia - detaily
 
 
 Report 1
 Report 1
 
 
-Anhänge zum Prüfergebnis
-Prílohy k vısledku kontroly
+AnhÃ¤nge zum PrÃ¼fergebnis
+PrÃ­lohy k vÃ½sledku kontroly
 
 
 Datei hochladen
-Nahra súbor
+NahraÅ¥ sÃºbor
 
 
 Fahrzeug-Umlauf
 Obeh vozidla
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
 Report Fahrzeugumlauf
 Report obehu vozidla
 
 
-Prüflisten je Modell
-Kontrolné zoznamy pod¾a modelu
+PrÃ¼flisten je Modell
+KontrolnÃ© zoznamy podÄ¾a modelu
 
 
 Report_TICKETS_JE_MODELL_UND_PRUEFLISTE
-Report_TIKETY_POD¼A_MODELU_A_KONTROLNÉHO_ZOZNAMU
+Report_TIKETY_PODÄ½A_MODELU_A_KONTROLNÃ‰HO_ZOZNAMU
 
 
 FIS_Response
@@ -1831,11 +1828,11 @@ FIS_Response
 
 
 Vorn links
-Vpredu v¾avo
+Vpredu vÄ¾avo
 
 
 Hinten links
-Vzadu v¾avo
+Vzadu vÄ¾avo
 
 
 Button Bar
@@ -1843,7 +1840,7 @@ Button Bar
 
 
 Werke
-Závody
+ZÃ¡vody
 
 
 Mitarbeiterzuordnungen
@@ -1859,15 +1856,15 @@ Vzadu vpravo
 
 
 Fehlende Reports
-Chıbajúce reporty
+ChÃ½bajÃºce reporty
 
 
 Allgemeine Informationen
-Všeobecné informácie
+VÅ¡eobecnÃ© informÃ¡cie
 
 
 Abteilungsspezifische Informationen
-Informácie špecifické pre oddelenia
+InformÃ¡cie Å¡pecifickÃ© pre oddelenia
 
 
 TITLE1
@@ -1882,44 +1879,44 @@ Button Bar
 Button Bar
 
 
-Ländergruppen
-Skupiny krajín
+LÃ¤ndergruppen
+Skupiny krajÃ­n
 
 
-Länderzuordnung
-Priradenie krajín
+LÃ¤nderzuordnung
+Priradenie krajÃ­n
 
 
 Nutzer - Fachbereiche
-Uívatelia – odborné oddelenia
+UÅ¾Ã­vatelia â€“ odbornÃ© oddelenia
 
 
 Nutzerdaten
-Uívate¾ské dáta
+UÅ¾Ã­vateÄ¾skÃ© dÃ¡ta
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Verursacher_bearbeiten
-Spracova_spôsobite¾a
+SpracovaÅ¥_spÃ´sobiteÄ¾a
 
 
 Mittelwertbildung
-Vıpoèet priemeru
+VÃ½poÄet priemeru
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
 Fahrzeugverwendung
-Pouitie vozidla
+PouÅ¾itie vozidla
 
 
 Linien Details
@@ -1951,7 +1948,7 @@ Model - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Modelle
@@ -1963,23 +1960,23 @@ Form on V_FEHLERANSPRACHEN
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Fehleransprachen
 Prejavy chyby
 
 
-Prüfschritte
-Kontrolné kroky
+PrÃ¼fschritte
+KontrolnÃ© kroky
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
-Prüfschritte
-Kontrolné kroky
+PrÃ¼fschritte
+KontrolnÃ© kroky
 
 
 Tickets
@@ -2003,7 +2000,7 @@ Tiket - detaily
 
 
 Fachbereiche zum Ticket zuordnen
-Priradi tiketu odborné oddelenia
+PriradiÅ¥ tiketu odbornÃ© oddelenia
 
 
 Aktionen
@@ -2011,11 +2008,11 @@ Akcie
 
 
 Allgemeine Informationen
-Všeobecné informácie
+VÅ¡eobecnÃ© informÃ¡cie
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Form on V_MITARBEITER
@@ -2023,11 +2020,11 @@ Form on V_MITARBEITER
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Nutzer
-Uívate¾
+UÅ¾Ã­vateÄ¾
 
 
 Form on V_ROLLEN
@@ -2035,7 +2032,7 @@ Form on V_ROLLEN
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Rollen
@@ -2047,35 +2044,35 @@ Vozidlo - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Fahrzeuge
-Vozidlá
+VozidlÃ¡
 
 
 Fachbereiche (nur Anzeige)
-Odborné oddelenia (iba zobrazenie)
+OdbornÃ© oddelenia (iba zobrazenie)
 
 
 Systemprotokolle
-Systémové protokoly
+SystÃ©movÃ© protokoly
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
 Top5-Fehler der letzten vier Monate
-Top 5 chıb za ostatné štyri mesiace
+Top 5 chÃ½b za ostatnÃ© Å¡tyri mesiace
 
 
 Top5-Fehler der letzten vier Wochen
-Top 5 chıb za ostatné štyri tıdne
+Top 5 chÃ½b za ostatnÃ© Å¡tyri tÃ½Å¾dne
 
 
-Konfiguration zur automatischen Erstellung von Tickets für Serienfahrzeuge
-Konfigurácia na automatické vytváranie tiketov pre sériové vozidlá
+Konfiguration zur automatischen Erstellung von Tickets fÃ¼r Serienfahrzeuge
+KonfigurÃ¡cia na automatickÃ© vytvÃ¡ranie tiketov pre sÃ©riovÃ© vozidlÃ¡
 
 
 Masterliste
@@ -2083,23 +2080,23 @@ Master zoznam
 
 
 Entwicklung - Tag
-Vıvoj - deò
+VÃ½voj - deÅˆ
 
 
 Messdaten Details
-Meracie údaje - detaily
+Meracie Ãºdaje - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Messdaten
-Namerané údaje
+NameranÃ© Ãºdaje
 
 
-Häufigkeit Fehleransprachen
-Poèetnos prejavov chyby
+HÃ¤ufigkeit Fehleransprachen
+PoÄetnosÅ¥ prejavov chyby
 
 
 Form on V_UMLAUFLISTE
@@ -2107,67 +2104,67 @@ Form on V_UMLAUFLISTE
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
-Prüfumläufe / Umlaufliste
-Kontrolné obehy / Obehovı zoznam
+PrÃ¼fumlÃ¤ufe / Umlaufliste
+KontrolnÃ© obehy / ObehovÃ½ zoznam
 
 
-Prüfliste Details
-Kontrolnı zoznam - detaily
-
-
-Buttons
-Tlaèidlá
-
-
-Prüfcluster Detail
-Kontrolnı klaster - detail
+PrÃ¼fliste Details
+KontrolnÃ½ zoznam - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
+
+
+PrÃ¼fcluster Detail
+KontrolnÃ½ klaster - detail
+
+
+Buttons
+TlaÄidlÃ¡
 
 
 Masterliste Details
 Master zoznam - detaily
 
 
-Fahrzeuge zum Prüfschritt
-Vozidlá ku skúšobnému kroku
+Fahrzeuge zum PrÃ¼fschritt
+VozidlÃ¡ ku skÃºÅ¡obnÃ©mu kroku
 
 
 Top5-Fehler der akuellen Woche
-Top 5 chıb aktuálneho tıdòa
+Top 5 chÃ½b aktuÃ¡lneho tÃ½Å¾dÅˆa
 
 
 Entwicklung - Woche
-Vıvoj - tıdeò
+VÃ½voj - tÃ½Å¾deÅˆ
 
 
 Entwicklung - Monat
-Vıvoj - mesiac
+VÃ½voj - mesiac
 
 
-Prüflisten
-Kontrolné zoznamy
+PrÃ¼flisten
+KontrolnÃ© zoznamy
 
 
 Modelle und PR-Nummern
-Modely a èísla PR
+Modely aÂ ÄÃ­sla PR
 
 
-Prüfschritt Details
-Kontrolnı krok - detaily
+PrÃ¼fschritt Details
+KontrolnÃ½ krok - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
-Prüfergebnisse
-Vısledky kontroly
+PrÃ¼fergebnisse
+VÃ½sledky kontroly
 
 
 Masterliste Details
@@ -2175,7 +2172,7 @@ Master zoznam - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Uebersetzungen
@@ -2183,35 +2180,35 @@ Preklady
 
 
 Fehlerauswertung Top-Punkte Vorserie
-Vychodnotenie chıb - Top body predsérie
+Vychodnotenie chÃ½b - Top body predsÃ©rie
 
 
-Konfiguration zur autom. Erstellung von Tickets für Serie Details
-Konfigurácia na autom. vytvorenie tiketov pre sériu - detaily
+Konfiguration zur autom. Erstellung von Tickets fÃ¼r Serie Details
+KonfigurÃ¡cia na autom. vytvorenie tiketov pre sÃ©riu - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Jobverwaltung
-Správa jobov
+SprÃ¡va jobov
 
 
-Prüfergebnis Details
-Vısledok kontroly - detaily
+PrÃ¼fergebnis Details
+VÃ½sledok kontroly - detaily
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
-Nie verwendete Prüfschritte
-Nikdy nepouité kontrolné kroky
+Nie verwendete PrÃ¼fschritte
+Nikdy nepouÅ¾itÃ© kontrolnÃ© kroky
 
 
-Länderkennung - Details
-Kód krajiny - detaily
+LÃ¤nderkennung - Details
+KÃ³d krajiny - detaily
 
 
 Report 1
@@ -2223,15 +2220,15 @@ TITLE2
 
 
 Ticketerfassung Vorserie
-Evidencia tiketov predsérie 
+Evidencia tiketov predsÃ©rie 
 
 
 Abteilungsspezifische Informationen
-Informácie špecifické pre oddelenie
+InformÃ¡cie Å¡pecifickÃ© pre oddelenie
 
 
 Fahrzeugverwendung Details
-Pouitie vozidla - detaily 
+PouÅ¾itie vozidla - detaily 
 
 
 Dashboard
@@ -2239,15 +2236,15 @@ Dashboard
 
 
 Offene Tickets
-Otvorené tikety
+OtvorenÃ© tikety
 
 
 Offene Tickets
-Otvorené tikety
+OtvorenÃ© tikety
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
 Aktionen
@@ -2255,7 +2252,7 @@ Akcie
 
 
 Ticketerfassung Serie
-Evidencia tiketov - séria
+Evidencia tiketov - sÃ©ria
 
 
 Aktionen
@@ -2271,95 +2268,95 @@ Akcie
 
 
 Ticket &P2110_TICKET_NR.
-Tiket &P2110_È. TIKETU
+Tiket &P2110_ÄŒ. TIKETU
 
 
-Fehleransprachen zusammenführen
-Spoji prejavy chıb
-
-
-Buttons
-Tlaèidlá
-
-
-Prüflisten
-Kontrolné zoznamy
-
-
-Prüfcluster
-Kontrolnı klaster
-
-
-Prüfdokumente
-Kontrolné dokumenty
-
-
-Prüfdokumente
-Kontrolné dokumenty
+Fehleransprachen zusammenfÃ¼hren
+SpojiÅ¥ prejavy chÃ½b
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
+
+
+PrÃ¼flisten
+KontrolnÃ© zoznamy
+
+
+PrÃ¼fcluster
+KontrolnÃ½ klaster
+
+
+PrÃ¼fdokumente
+KontrolnÃ© dokumenty
+
+
+PrÃ¼fdokumente
+KontrolnÃ© dokumenty
+
+
+Buttons
+TlaÄidlÃ¡
 
 
 Nutzer - Rollen
-Uívate¾- role
+UÅ¾Ã­vateÄ¾- role
 
 
 Form on V_MITARBEITER_ROLLEN
-Form on V_ZAMESTNANECKÉ ROLE
+Form on V_ZAMESTNANECKÃ‰ ROLE
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Offene Tickets meines Fachbereiches
-Otvorené tikety môjho odborného oddelenia
+OtvorenÃ© tikety mÃ´jho odbornÃ©ho oddelenia
 
 
 Offene Tickets meines Fachbereiches
-Otvorené tikety môjho odborného oddelenia
+OtvorenÃ© tikety mÃ´jho odbornÃ©ho oddelenia
 
 
 Ticket
 Tiket
 
 
-Prüfliste zum Ticket zuordnen
-Priradi kontrolnı zoznam tiketu
+PrÃ¼fliste zum Ticket zuordnen
+PriradiÅ¥ kontrolnÃ½ zoznam tiketu
 
 
 Form on V_FEHLERANSPRACHEN
-Form on V_PREJAVY CHİB
+Form on V_PREJAVY CHÃB
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Form on V_MITARBEITER_FACHBEREICHE
-Form on V_ZAMESTNANCI_ODBORNÉ_ODDELENIA
+Form on V_ZAMESTNANCI_ODBORNÃ‰_ODDELENIA
 
 
 Buttons
-Tlaèidlá
+TlaÄidlÃ¡
 
 
 Abgeschlossene Tickets
-Ukonèené tikety
+UkonÄenÃ© tikety
 
 
 Abgeschlossene Tickets
-Ukonèené tikety
+UkonÄenÃ© tikety
 
 
 Mittelwertbildung
-Vıpoèet priemernej hodnoty
+VÃ½poÄet priemernej hodnoty
 
 
 Top Woche
-Top tıdeò
+Top tÃ½Å¾deÅˆ
 
 
 Top Verfolgung
@@ -2367,35 +2364,35 @@ Top sledovanie
 
 
 aggregierte Werte
-agregované hodnoty
+agregovanÃ© hodnoty
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
 Excel Export
 Export do Excelu
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
-Dateneinschränkungen
-Obmedzenia dát
+DateneinschrÃ¤nkungen
+Obmedzenia dÃ¡t
 
 
-Anhänge zum Prüfergebnis
-Prílohy k vısledku kontroly
+AnhÃ¤nge zum PrÃ¼fergebnis
+PrÃ­lohy k vÃ½sledku kontroly
 
 
-Anhänge
-Prílohy
+AnhÃ¤nge
+PrÃ­lohy
 
 
 Datei hochladen
-Nahra súbor
+NahraÅ¥ sÃºbor
 
 
 TITLE1
@@ -2407,11 +2404,11 @@ TITLE2
 
 
 Fehleransprachen Export
-Export prejavov chıb
+Export prejavov chÃ½b
 
 
 Auftraggeber
-Objednávate¾
+ObjednÃ¡vateÄ¾
 
 
 VBV
@@ -2422,16 +2419,16 @@ DMS Logging
 DMS Logging
 
 
-Nutzerpräferenzen
-Uívate¾ské preferencie
+NutzerprÃ¤ferenzen
+UÅ¾Ã­vateÄ¾skÃ© preferencie
 
 
 Korrektur Reports
-Reporty korektúr
+Reporty korektÃºr
 
 
 Nutzerdaten
-Uívate¾ské dáta
+UÅ¾Ã­vateÄ¾skÃ© dÃ¡ta
 
 
 Steuerung
@@ -2439,11 +2436,11 @@ Riadenie
 
 
 Verursacher
-Spôsobite¾
+SpÃ´sobiteÄ¾
 
 
 Auswertung Analysen
-Vyhodnotenie analız
+Vyhodnotenie analÃ½z
 
 
 Auswertung Scheinwerfer
@@ -2451,63 +2448,63 @@ Vyhodnotenie - svetlomety
 
 
 Einbauproben
-Skúšky zabudovania
+SkÃºÅ¡ky zabudovania
 
 
 Auswertung Einbauproben
-Vyhodnotenie skúšok zabudovania
+Vyhodnotenie skÃºÅ¡ok zabudovania
 
 
-Auswertung geprüfter Fahrzeuge
-Vyhodnotenie kontrolovanıch vozidiel
+Auswertung geprÃ¼fter Fahrzeuge
+Vyhodnotenie kontrolovanÃ½ch vozidiel
 
 
 Modelljahre / SPJ
-Modelové roky / SPJ
+ModelovÃ© roky / SPJ
 
 
 Einsatzdatum MP
-Dátum nasadenia MP
+DÃ¡tum nasadenia MP
 
 
 Systemeinstellungen
-Nastavenia systému
+Nastavenia systÃ©mu
 
 
 Sprachauswahl
-Vo¾ba jazyka 
+VoÄ¾ba jazyka 
 
 
 Deutsch
-Nemèina
+NemÄina
 
 
-Übersicht Prüfschrittkatalog
-Preh¾ad katalógu skúšobnıch krokov
+Ãœbersicht PrÃ¼fschrittkatalog
+PrehÄ¾ad katalÃ³gu skÃºÅ¡obnÃ½ch krokov
 
 
 Fahrzeug-Vormerkungen
-Vozidlo - zápis
+Vozidlo - zÃ¡pis
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Serien-/Vorserienbericht
-Správa o sérii/predsérii
+SprÃ¡va oÂ sÃ©rii/predsÃ©rii
 
 
 Spezifische Auswertungen
-Špecifické vyhodnotenia
+Å pecifickÃ© vyhodnotenia
 
 
-Übergreifende Auswertungen
-Komplexné hodnotenia 
+Ãœbergreifende Auswertungen
+KomplexnÃ© hodnotenia 
 
 
-Auswertung Komfortkräfte
-Vyhodnotenie komfortnıch síl
+Auswertung KomfortkrÃ¤fte
+Vyhodnotenie komfortnÃ½ch sÃ­l
 
 
 Umlauf H20
@@ -2515,23 +2512,23 @@ Obeh H20
 
 
 Werkszuordnung
-Priradenie závodu
+Priradenie zÃ¡vodu
 
 
 Datenschutz
-Ochrana osobnıch údajov
+Ochrana osobnÃ½ch Ãºdajov
 
 
 Dashboard
 Dashboard
 
 
-Typ-Prüf-Länder
-Krajiny typovej skúšky
+Typ-PrÃ¼f-LÃ¤nder
+Krajiny typovej skÃºÅ¡ky
 
 
 Abmelden
-Odhlásenie
+OdhlÃ¡senie
 
 
 Dashboard
@@ -2539,19 +2536,19 @@ Dashboard
 
 
 Administration
-Administrácia
+AdministrÃ¡cia
 
 
 Stammdaten
-Kmeòové údaje
+KmeÅˆovÃ© Ãºdaje
 
 
 Benutzerverwaltung
-Správa uívate¾ov
+SprÃ¡va uÅ¾Ã­vateÄ¾ov
 
 
 System
-Systém
+SystÃ©m
 
 
 Tickets
@@ -2567,15 +2564,15 @@ Pomoc
 
 
 Datenschutzvereinbarung
-Dohoda o ochrane osobnıch údajov
+Dohoda oÂ ochrane osobnÃ½ch Ãºdajov
 
 
 Gesamtbericht
-Súhrnná správa 
+SÃºhrnnÃ¡ sprÃ¡va 
 
 
-Ticketübersicht
-Preh¾ad tiketov
+TicketÃ¼bersicht
+PrehÄ¾ad tiketov
 
 
 Ticketerfassung
@@ -2583,11 +2580,11 @@ Evidencia tiketov
 
 
 Vorserie
-Predséria
+PredsÃ©ria
 
 
 Serie
-Séria
+SÃ©ria
 
 
 Rollen
@@ -2599,7 +2596,7 @@ Log-Files
 
 
 Fahrzeugverwendungen
-Pouitia vozidla
+PouÅ¾itia vozidla
 
 
 Linien
@@ -2623,47 +2620,47 @@ Master zoznam
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Fehleransprachen
-Prejavy chıb
+Prejavy chÃ½b
 
 
 Jobverwaltung
-Správa jobov
+SprÃ¡va jobov
 
 
 Konfiguration Serientickets
-Konfigurácia sériovıch tiketov
+KonfigurÃ¡cia sÃ©riovÃ½ch tiketov
 
 
 Produktreferenzen (PR-Nummern)
-Produktové referencie (èísla PR)
+ProduktovÃ© referencie (ÄÃ­sla PR)
 
 
 Laufzeit-Parameter
 Parametre trvania
 
 
-Prüfschrittkatalog
-Katalóg skúšobnıch krokov
+PrÃ¼fschrittkatalog
+KatalÃ³g skÃºÅ¡obnÃ½ch krokov
 
 
 Alle Tickets
-Všetky tikety
+VÅ¡etky tikety
 
 
 Offene Tickets
-Otvorené tikety
+OtvorenÃ© tikety
 
 
 Offene Tickets meines Fachbereichs
-Otvorené tikety môjho odborného oddelenia
+OtvorenÃ© tikety mÃ´jho odbornÃ©ho oddelenia
 
 
 Abgeschlossene Tickets
-Ukonèené tikety
+UkonÄenÃ© tikety
 
 
 &APP_USER.
@@ -2671,35 +2668,35 @@ Ukonèené tikety
 
 
 Fahrzeuge
-Vozidlá
+VozidlÃ¡
 
 
 Messdaten
-Namerané údaje
+NameranÃ© Ãºdaje
 
 
 Umlaufliste
 Umlaufliste
 
 
-Prüflisten
-Kontrolné zoznamy
+PrÃ¼flisten
+KontrolnÃ© zoznamy
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
-Häufigkeit Fehleransprachen
-Poèetnos prejavov chıb
+HÃ¤ufigkeit Fehleransprachen
+PoÄetnosÅ¥ prejavov chÃ½b
 
 
 Fahrzeugbezogene Kataloge
-Katalógy vzahujúce sa na vozidlá
+KatalÃ³gy vzÅ¥ahujÃºce sa na vozidlÃ¡
 
 
-Prüfbezogene Kataloge
-Katalógy vzahujúce sa na kontroly
+PrÃ¼fbezogene Kataloge
+KatalÃ³gy vzÅ¥ahujÃºce sa na kontroly
 
 
 Sprache
@@ -2707,39 +2704,39 @@ Jazyk
 
 
 Deutsch
-Nemèina
+NemÄina
 
 
 Englisch
-Angliètina
+AngliÄtina
 
 
 Spanisch
-Španielèina
+Å panielÄina
 
 
 Slowakisch
-Slovenèina
+SlovenÄina
 
 
 Mehrsprachigkeitspflege
-Viacjazièná starostlivos
+ViacjaziÄnÃ¡ starostlivosÅ¥
 
 
-nie verwendete Prüfschritte
-nikdy nepouité kontrolné kroky
+nie verwendete PrÃ¼fschritte
+nikdy nepouÅ¾itÃ© kontrolnÃ© kroky
 
 
-Länderkennungen
-Kódy krajín
+LÃ¤nderkennungen
+KÃ³dy krajÃ­n
 
 
 Keine Daten vorhanden!
-Dáta nie sú k dispozícii!
+DÃ¡ta nie sÃº k dispozÃ­cii!
 
 
-Keine Anhänge.
-iadne prílohy.
+Keine AnhÃ¤nge.
+Å½iadne prÃ­lohy.
 
 
 Search Dialog
@@ -2778,25 +2775,24 @@ Next &gt;
 &lt; Previous
 
 
-Wollen Sie wirklich löschen?
-Chcete naozaj vymaza?
-
+Wollen Sie wirklich lÃ¶schen?
+Chcete naozaj vymazaÅ¥?
 
 
 Hardware
-Hardvér
+HardvÃ©r
 
 
 Software
-Softvér
+SoftvÃ©r
 
 
 Serie
-Séria
+SÃ©ria
 
 
 Vorserie
-Predséria
+PredsÃ©ria
 
 
 kein Fehler
@@ -2804,11 +2800,11 @@ bez chyby
 
 
 erforderlich
-potrebné
+potrebnÃ©
 
 
 optional
-volite¾ne
+voliteÄ¾ne
 
 
 A
@@ -2832,11 +2828,11 @@ i.O.
 
 
 Dateiname
-Názov súboru
+NÃ¡zov sÃºboru
 
 
 druckbar?
-mono vytlaèi?
+moÅ¾no vytlaÄiÅ¥?
 
 
 Beschreibung
@@ -2844,19 +2840,19 @@ Popis
 
 
 Bildvorschau
-Obrazovı preh¾ad
+ObrazovÃ½ prehÄ¾ad
 
 
 Fehleransprachen
-Prejavy chıb
+Prejavy chÃ½b
 
 
 Dateiname
-Názov súboru
+NÃ¡zov sÃºboru
 
 
 druckbar?
-mono vytlaèi?
+moÅ¾no vytlaÄiÅ¥?
 
 
 Beschreibung
@@ -2864,7 +2860,7 @@ Popis
 
 
 Bildvorschau
-Obrazovı preh¾ad
+ObrazovÃ½ prehÄ¾ad
 
 
 <a style="color:red;font-size:15px;" href="javascript:loescheAnhang(#PDOK_ID#)">#LOESCHEN#</a>
@@ -2875,8 +2871,8 @@ Obrazovı preh¾ad
 <a #TARGET# href="#LINK#">Download</<a>
 
 
-<a href="javascript:apex.confirm('Wollen Sie wirklich löschen!', #DEL#" title="Fehleransprache löschen"><span style="color:red; font-size: 20px; ">x</span></a>
-<a href="javascript:apex.confirm('Wollen Sie wirklich löschen!', #DEL#" title="Fehleransprache löschen"><span style="color:red; font-size: 20px; ">x</span></a>
+<a href="javascript:apex.confirm('Wollen Sie wirklich lÃ¶schen!', #DEL#" title="Fehleransprache lÃ¶schen"><span style="color:red; font-size: 20px; ">x</span></a>
+<a href="javascript:apex.confirm('Wollen Sie wirklich lÃ¶schen!', #DEL#" title="Fehleransprache lÃ¶schen"><span style="color:red; font-size: 20px; ">x</span></a>
 
 
 <a style="color:red;font-size:15px;" href="javascript:loescheAnhang(#PDOK_ID#)" >#LOESCHEN#</a>
@@ -2888,11 +2884,11 @@ Obrazovı preh¾ad
 
 
 Fehler beim Auslesen der URL zum Drucken der Reports.
-Chyba pri èítaní adresy URL na tlaè reportu.
+Chyba pri ÄÃ­tanÃ­ adresy URL na tlaÄ reportu.
 
 
 Export Fehleransprachen
-Export prejavov chıb
+Export prejavov chÃ½b
 
 
 Report 1
@@ -2900,19 +2896,19 @@ Report 1
 
 
 Katalog VBV
-Katalóg VBV
+KatalÃ³g VBV
 
 
-Prüflistenzuordnung
-Priradenie Prüflistiny
+PrÃ¼flistenzuordnung
+Priradenie PrÃ¼flistiny
 
 
 DMS Log
 DMS Log
 
 
-Zugeordnete Prüflisten
-Priradené kontrolné zoznamy
+Zugeordnete PrÃ¼flisten
+PriradenÃ© kontrolnÃ© zoznamy
 
 
 Report 1
@@ -2924,15 +2920,15 @@ Report stavu dielov
 
 
 Report Region
-Report za región
+Report za regiÃ³n
 
 
 Modelle BST
 Modely BST
 
 
-Geprüfte Fahrzeuge
-Kontrolované vozidlá
+GeprÃ¼fte Fahrzeuge
+KontrolovanÃ© vozidlÃ¡
 
 
 Dashboard Fahrzeugsteuerung
@@ -2940,11 +2936,11 @@ Dashboard - riadenie vozidla
 
 
 REP_ANALYSEN
-REP_ANALİZY
+REP_ANALÃZY
 
 
 REP_ANALYSE_DATEN
-REP_ANALİZY_DÁTA
+REP_ANALÃZY_DÃTA
 
 
 Report 1
@@ -2956,31 +2952,31 @@ vro_rep_ebp_matrix
 
 
 vro_rep_ebp_daten
-vro_rep_ebp_dáta
+vro_rep_ebp_dÃ¡ta
 
 
-Report Auswertung geprüfter Fahrzeuge
-Report Vyhodnotenie odksúšanıch vozidiel
+Report Auswertung geprÃ¼fter Fahrzeuge
+Report Vyhodnotenie odksÃºÅ¡anÃ½ch vozidiel
 
 
 Modelljahre
-Modelové roky
+ModelovÃ© roky
 
 
 Report 1
 Report 1
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfschrittüberblick
-Preh¾ad skúšobnıch krokov
+PrÃ¼fschrittÃ¼berblick
+PrehÄ¾ad skÃºÅ¡obnÃ½ch krokov
 
 
 Fahrzeug-Vormerkung
-Vozidlo - zápis
+Vozidlo - zÃ¡pis
 
 
 Report 1
@@ -2988,11 +2984,11 @@ Report 1
 
 
 Report_TICKETS_JE_MODELL_UND_PRUEFLISTE
-Report_TIKETY_ZA_MODEL_A_KONTROLNİ_ZOZNAM
+Report_TIKETY_ZA_MODEL_A_KONTROLNÃ_ZOZNAM
 
 
 Werke
-Závody
+ZÃ¡vody
 
 
 Mitarbeiterzuordnungen
@@ -3000,35 +2996,35 @@ Priradenie zamestnancom
 
 
 Fehlende Reports
-Chıbajúce reporty
+ChÃ½bajÃºce reporty
 
 
 Fahrzeugumlauf PAZ H20
 Obeh vozidla PAZ H20
 
 
-Ländergruppen
-Skupiny krajín
+LÃ¤ndergruppen
+Skupiny krajÃ­n
 
 
-Länderzuordnung
-Priradenie krajín
+LÃ¤nderzuordnung
+Priradenie krajÃ­n
 
 
 Nutzerdaten
-Uívate¾ské dáta
+UÅ¾Ã­vateÄ¾skÃ© dÃ¡ta
 
 
-Prüfergebnisse
-Kontrolné vısledky
+PrÃ¼fergebnisse
+KontrolnÃ© vÃ½sledky
 
 
 Uebersetzungen
 Preklady
 
 
-Nie verwendete Prüfschritte
-Nikdy nepouité kontrolné kroky
+Nie verwendete PrÃ¼fschritte
+Nikdy nepouÅ¾itÃ© kontrolnÃ© kroky
 
 
 Report 1
@@ -3040,7 +3036,7 @@ Dashboard
 
 
 Top Woche
-Top tıdeò
+Top tÃ½Å¾deÅˆ
 
 
 Top Verfolgung
@@ -3048,7 +3044,7 @@ Top sledovanie
 
 
 aggregierte Werte
-agregované hodnoty
+agregovanÃ© hodnoty
 
 
 Excel Export
@@ -3107,59 +3103,19 @@ The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a f
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov. Pouite,  prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov. PouÅ¾ite,  prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
-
-
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-
-
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-
-
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
-
-
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.Speichern
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.Uloi.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
@@ -3174,40 +3130,32 @@ The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a f
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 
 
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je#MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.Speichern
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.UloÅ¾iÅ¥.
 
 
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
-
-
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
@@ -3222,36 +3170,84 @@ The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a f
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je#MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
-Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
-Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
+
+
+Die maximale Zeilenanzahl fÃ¼r diesen Bericht betrÃ¤gt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der DatensÃ¤tze in Ihrer Abfrage zu reduzieren.
+MaximÃ¡lny poÄet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  PouÅ¾ite, prosÃ­m, filter na znÃ­Å¾enie poÄtu zÃ¡znamov vo VaÅ¡ej poÅ¾iadavke.
 
 
 The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
@@ -3319,7 +3315,7 @@ No data found.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 No data found.
@@ -3327,11 +3323,11 @@ No data found.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 No data found.
@@ -3347,7 +3343,7 @@ No data found.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 No data found.
@@ -3355,23 +3351,23 @@ No data found.
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 No data found.
@@ -3391,7 +3387,7 @@ No data found.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 No data found.
@@ -3399,19 +3395,19 @@ No data found.
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 No data found.
@@ -3419,7 +3415,7 @@ No data found.
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 No data found.
@@ -3435,39 +3431,39 @@ No data found.
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 Keine Daten gefunden.
-Nenašli sa dáta.
+NenaÅ¡li sa dÃ¡ta.
 
 
 Keine Dokumente vorhanden!
-iadne dokumenty k dispozícii!
+Å½iadne dokumenty k dispozÃ­cii!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 Keine Daten gefunden!
-Nenašli sa dáta!
+NenaÅ¡li sa dÃ¡ta!
 
 
 No data found.
@@ -3482,16 +3478,16 @@ No data found.
 No data found.
 
 
-Hütchen
-Klobúèik
+HÃ¼tchen
+KlobÃºÄik
 
 
 Erstelldatum
-Dátum vytvorenia
+DÃ¡tum vytvorenia
 
 
 Freigabe
-Uvo¾nenie
+UvoÄ¾nenie
 
 
 Reihenfolge
@@ -3499,15 +3495,15 @@ Poradie
 
 
 Analyse
-Analıza
+AnalÃ½za
 
 
 Uhrzeit
-Èas
+ÄŒas
 
 
 Ticket Nr.
-Tiket è.
+Tiket Ä.
 
 
 Massnahme
@@ -3523,15 +3519,15 @@ Model
 
 
 Modell-Bezeichnung
-Názov modelu
+NÃ¡zov modelu
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
-Püfschritt
-Kontrolnı krok
+PÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Fehleransprache
@@ -3543,19 +3539,19 @@ Baustufe
        
 
 Fzg.-Kennnummer
-Identifikaèné èíslo vozidla
+IdentifikaÄnÃ© ÄÃ­slo vozidla
 
 
 Sollbaujahr
-Plánovanı rok vıroby
+PlÃ¡novanÃ½ rok vÃ½roby
 
 
 Fahrzeugverwendung
-Pouitie vozidla
+PouÅ¾itie vozidla
 
 
 Werk
-Závod
+ZÃ¡vod
 
 
 Pr-String
@@ -3563,7 +3559,7 @@ Pr-String
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 IO-Status
@@ -3579,19 +3575,19 @@ Chyba SW
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
 Auftraggeber
-Objednávate¾
+ObjednÃ¡vateÄ¾
 
 
 Verantwortlicher
-Zodpovedná osoba
+ZodpovednÃ¡ osoba
 
 
 Termin Massnahme
-Termín opatrenia
+TermÃ­n opatrenia
 
 
 Status
@@ -3610,20 +3606,20 @@ Halle
 Hala
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Datum Freigabe Prüfliste
-Dátum Uvo¾nenia Prüflistiny
+Datum Freigabe PrÃ¼fliste
+DÃ¡tum UvoÄ¾nenia PrÃ¼flistiny
 
 
 Freitext Fehleransprache
-Vo¾nı text prejavu chyby
+VoÄ¾nÃ½ text prejavu chyby
 
 
-Hinweis Prüfergebnis
-Odkaz na vısledok skúšky
+Hinweis PrÃ¼fergebnis
+Odkaz na vÃ½sledok skÃºÅ¡ky
 
 
 VBV
@@ -3639,7 +3635,7 @@ Druh chyby
 
 
 Ausdruck im Fehlerprotokoll unterbinden
-Zakáza vıraz v chybovom protokole
+ZakÃ¡zaÅ¥ vÃ½raz vÂ chybovom protokole
 
 
 VBV
@@ -3659,7 +3655,7 @@ Top sledovanie
 
 
 Top Woche
-Top tıdeò
+Top tÃ½Å¾deÅˆ
 
 
 Top Verfolgung
@@ -3667,7 +3663,7 @@ Top sledovanie
 
 
 Top Woche
-Top tıdeò
+Top tÃ½Å¾deÅˆ
 
 
 Top Verfolgung
@@ -3675,7 +3671,7 @@ Top sledovanie
 
 
 Top Woche
-Top tıdeò
+Top tÃ½Å¾deÅˆ
 
 
 Ticketart
@@ -3683,15 +3679,15 @@ Druh tiketu
 
 
 Ticket Serienart
-Tiket druhu série
+Tiket druhu sÃ©rie
 
 
 Ticket Datum Abschluss
-Ticket - dátum ukonèenia
+Ticket - dÃ¡tum ukonÄenia
 
 
 Color Freigabe
-Color Uvo¾nenie
+Color UvoÄ¾nenie
 
 
 Dokument
@@ -3703,7 +3699,7 @@ Ag Id
 
 
 Auftraggeber
-Objednávate¾
+ObjednÃ¡vateÄ¾
 
 
 Vbv Id
@@ -3711,11 +3707,11 @@ Vbv Id
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Pdok Id
@@ -3727,11 +3723,11 @@ Pdok Tiket Id
 
 
 Dateiname
-Názov súboru
+NÃ¡zov sÃºboru
 
 
 Dateityp
-Typ súboru
+Typ sÃºboru
 
 
 Status Code
@@ -3743,11 +3739,11 @@ Metadata
 
 
 Fehlerursache
-Príèina chyby
+PrÃ­Äina chyby
 
 
 Ticket Nr
-Tiket è.
+Tiket Ä.
 
 
 Display
@@ -3763,15 +3759,15 @@ Triedenie
 
 
 Proz. Anteil an Bauzahl vom Vortag
-Perc. podiel na poèet vyrobenıch voz. z návrhu
+Perc. podiel na poÄet vyrobenÃ½ch voz. z nÃ¡vrhu
 
 
-Prüflisten
-Kontrolné zoznamy
+PrÃ¼flisten
+KontrolnÃ© zoznamy
 
 
-Bemerkung (für Ticket)
-Poznámka (pre tiket)
+Bemerkung (fÃ¼r Ticket)
+PoznÃ¡mka (pre tiket)
 	
 
 Fzg analyse beanstandung
@@ -3783,11 +3779,11 @@ Poradie
 
 
 Fb Bezeichnung
-Fb - oznaèenie
+Fb - oznaÄenie
 
 
 Interieur / Exterieur
-Interiér / exteriér
+InteriÃ©r / exteriÃ©r
 
 
 E / E / HV
@@ -3795,15 +3791,15 @@ E / E / HV
 
 
 Datum Abschluss Ticket
-Dátum ukonèenia tiketu
+DÃ¡tum ukonÄenia tiketu
 
 
-ungültig ab
-neplatné od
+ungÃ¼ltig ab
+neplatnÃ© od
 
 
 Nutzer gesperrt ab
-Uívate¾ blokovanı od
+UÅ¾Ã­vateÄ¾ blokovanÃ½ od
 
 
 KPM
@@ -3823,7 +3819,7 @@ Kpmcfs
 
 
 Sichtbar?
-Vidite¾né?
+ViditeÄ¾nÃ©?
 
 
 Pr Id
@@ -3835,7 +3831,7 @@ Rodina
 
 
 Nummer
-Èíslo
+ÄŒÃ­slo
 
 
 Beschreibung
@@ -3843,15 +3839,15 @@ Popis
 
 
 Nenngroesse Kwh
-Menovitá velièina Kwh
+MenovitÃ¡ veliÄina Kwh
 
 
 &nbsp;
 &nbsp;
 
 
-Anz. Anhänge
-Poèet príloh
+Anz. AnhÃ¤nge
+PoÄet prÃ­loh
 
 
 Pc id
@@ -3863,7 +3859,7 @@ Status
 
 
 Verantwortlicher
-Zodpovedná osoba
+ZodpovednÃ¡ osoba
 
 
 Ticket label
@@ -3883,27 +3879,27 @@ Meno
 
 
 Wert (alphanumerisch)
-Hodnota (alfanumerická)
+Hodnota (alfanumerickÃ¡)
 
 
 Wert (numerisch)
-Hodnota (numerická)
+Hodnota (numerickÃ¡)
 
 
 Wert (Datum)
-Hodnota (dátum)
+Hodnota (dÃ¡tum)
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
-Prüfnummern Beschreibung
-Kontrolné èísla - popis
+PrÃ¼fnummern Beschreibung
+KontrolnÃ© ÄÃ­sla - popis
 
 
 Fzg analyse beanstandung
-Analıza vozidla - nedostatky
+AnalÃ½za vozidla - nedostatky
 
 
 Ticket mod id
@@ -3911,11 +3907,11 @@ Ticket mod id
 
 
 Serie
-Séria
+SÃ©ria
 
 
 Pruefschrittkatalog id
-Katalóg skúšobnıch krokov - id
+KatalÃ³g skÃºÅ¡obnÃ½ch krokov - id
 
 
 Modell
@@ -3923,31 +3919,31 @@ Model
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 Modell
@@ -3967,43 +3963,43 @@ Model
 
 
 Bg color zieltermin
-Bg color cie¾ovı termín
+Bg color cieÄ¾ovÃ½ termÃ­n
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Verwendungszweck
-Úèel pouitia
+ÃšÄel pouÅ¾itia
 
 
 Ticket Nr
-Tiket è.
+Tiket Ä.
 
 
 Werk Id
-Závod - Id 
+ZÃ¡vod - Id 
 
 
 Werk Nr
-Závod è.
+ZÃ¡vod Ä.
 
 
 Werk Bezeichnung
-Závod – názov 
+ZÃ¡vod â€“ nÃ¡zov 
 
 
 PrNummern
-Pr. Nr. èísla
+Pr. Nr. ÄÃ­sla
 
 
 PrNummer (lang)
-Pr. Nr. èíslo (dlhé)
+Pr. Nr. ÄÃ­slo (dlhÃ©)
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Fahrzeugseite
@@ -4015,7 +4011,7 @@ Stav dielov
 
 
 Ergebnis
-Vısledok
+VÃ½sledok
 
 
 Ps Ticket Id
@@ -4038,16 +4034,16 @@ Fahrzeug
 Vozidlo
 
 
-Prüfbericht Name
-Názov Prüfberichtu
+PrÃ¼fbericht Name
+NÃ¡zov PrÃ¼fberichtu
 
 
-Prüfbericht Link
-Link na Prüfbericht
+PrÃ¼fbericht Link
+Link na PrÃ¼fbericht
 
 
 Abschlussdatum
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 ID
@@ -4063,7 +4059,7 @@ Popis
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Hinweis Auswertung
@@ -4087,15 +4083,15 @@ E-mail
 
 
 Letzte Anmeldung
-Posledné prihlásenie
+PoslednÃ© prihlÃ¡senie
 
 
 Aktualisierung Dashboard
-Aktualizácia dashboardu
+AktualizÃ¡cia dashboardu
 
 
 Sperre ab
-Blokácia od
+BlokÃ¡cia od
 
 
 Rolle
@@ -4103,7 +4099,7 @@ Rola
 
 
 Werke
-Závody
+ZÃ¡vody
 
 
 Jahr
@@ -4131,35 +4127,35 @@ Suma
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Datum Abschluss
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 Datum Abschluss
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 Datum Abschluss
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 Datum Abschluss
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 Dichtigkeit
-Tesnos
+TesnosÅ¥
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Modell
@@ -4219,11 +4215,11 @@ Druh tiketu
 
 
 Analyse
-Analıza
+AnalÃ½za
 
 
 Analyse EE
-Analıza EE
+AnalÃ½za EE
 
 
 E E HV
@@ -4235,31 +4231,31 @@ Podvozok / Aggregate
 
 
 Ursach Id
-Id príèiny
+Id prÃ­Äiny
 
 
 Verursacher
-Spôsobite¾
+SpÃ´sobiteÄ¾
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Akustik
 Akustika
 
 
-Komfortkräfte
-Komfortné sily
+KomfortkrÃ¤fte
+KomfortnÃ© sily
 
 
 Dichtigkeit
-Tesnos
+TesnosÅ¥
 
 
 Serie H6
-Séria H6
+SÃ©ria H6
 
 
 DKA
@@ -4267,7 +4263,7 @@ DKA
 
 
 Strassenfahrt
-Jazda na komunikácii
+Jazda na komunikÃ¡cii
 
 
 Ee Hv Alt
@@ -4283,19 +4279,19 @@ Id tiketu
 
 
 Analysezeit SB
-Èas analızy SB
+ÄŒas analÃ½zy SB
 
 
-Analysezeit Prüfer
-Èas analızy - kontrolór
+Analysezeit PrÃ¼fer
+ÄŒas analÃ½zy - kontrolÃ³r
 
 
 Verursacher
-Spôsobite¾
+SpÃ´sobiteÄ¾
 
 
 Datum Abschluss
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 Jahr
@@ -4303,19 +4299,19 @@ Rok
 
 
 Ticket Serienart
-Tiket druhu série
+Tiket druhu sÃ©rie
 
 
 Ergebniss
-Vısledok
+VÃ½sledok
 
 
 Fachbereich (aus Cluster)
-Odborné oddelenie (z klastra)
+OdbornÃ© oddelenie (z klastra)
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Fehleransprache
@@ -4347,11 +4343,11 @@ Druh tiketu
 
 
 Analyse
-Analıza
+AnalÃ½za
 
 
 Interieur/Exterieur
-Interiér/exteriér
+InteriÃ©r/exteriÃ©r
 
 
 E/E/HV
@@ -4359,23 +4355,23 @@ E/E/HV
 
 
 Fahrwerk / Aggregate
-Podvozok / agregáty
+Podvozok / agregÃ¡ty
 
 
 Akustik
 Akustika
 
 
-Komfortkräfte
-Komfortné sily
+KomfortkrÃ¤fte
+KomfortnÃ© sily
 
 
 Dichtigkeit
-Tesnos
+TesnosÅ¥
 
 
 Serie H6
-Séria H6
+SÃ©ria H6
 
 
 DKA
@@ -4383,7 +4379,7 @@ DKA
 
 
 Strassenfahrt
-Jazda na komunikácii
+Jazda na komunikÃ¡cii
 
 
 EE/HV (alt)
@@ -4399,15 +4395,15 @@ Id tiketu
 
 
 Einbauprobe lfd. Nr.
-Skúška zabudovania - prieb. è.
+SkÃºÅ¡ka zabudovania - prieb. Ä.
 
 
 Einbauprobe Lang
-Skúška zabudovania - dlhá
+SkÃºÅ¡ka zabudovania - dlhÃ¡
 
 
 Ticket Datum Abschluss
-Tiket - dátum ukonèenia
+Tiket - dÃ¡tum ukonÄenia
 
 
 Jahr
@@ -4419,7 +4415,7 @@ Druh tiketu
 
 
 Ergebnis
-Vısledok
+VÃ½sledok
 
 
 Fb Kuerzel
@@ -4427,7 +4423,7 @@ Skratka Fb
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Fehleransprache
@@ -4446,8 +4442,8 @@ Fahrzeug
 Vozidlo
 
 
-Hinweise Prüfergebniss
-Odkazy na vısledok kontroly
+Hinweise PrÃ¼fergebniss
+Odkazy na vÃ½sledok kontroly
 
 
 Mod Id
@@ -4467,11 +4463,11 @@ Druh tiketu
 
 
 Analyse
-Analıza
+AnalÃ½za
 
 
 Interieur / Exterieur
-Interiér / exteriér
+InteriÃ©r / exteriÃ©r
 
 
 E/E/HV
@@ -4479,19 +4475,19 @@ E/E/HV
 
 
 Fahrwerk / Aggregate
-Podvozok / agregáty
+Podvozok / agregÃ¡ty
 
 
 Akustik
 Akustika
 
 
-Komfortkräfte
-Komfortné sily
+KomfortkrÃ¤fte
+KomfortnÃ© sily
 
 
 Serie H6
-Séria H6
+SÃ©ria H6
 
 
 DKA
@@ -4499,7 +4495,7 @@ DKA
 
 
 Strassenfahrt
-Jazda na komunikácii
+Jazda na komunikÃ¡cii
 
 
 Pfa Fans Id
@@ -4511,11 +4507,11 @@ Mp Id
 
 
 Einsatzdatum
-Dátum nasadenia
+DÃ¡tum nasadenia
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Anzeige
@@ -4523,39 +4519,39 @@ Zobrazenie
 
 
 PrNummer 02
-Èíslo Pr 02
+ÄŒÃ­slo Pr 02
 
 
 PrNummer 03
-Èíslo Pr 03
+ÄŒÃ­slo Pr 03
 
 
 PrNummer 04
-Èíslo Pr 04
+ÄŒÃ­slo Pr 04
 
 
 PrNummer 05
-Èíslo Pr 05
+ÄŒÃ­slo Pr 05
 
 
 PrNummer 06
-Èíslo Pr 06
+ÄŒÃ­slo Pr 06
 
 
 PrNummer 07
-Èíslo Pr 07
+ÄŒÃ­slo Pr 07
 
 
 PrNummer 08
-Èíslo Pr 08
+ÄŒÃ­slo Pr 08
 
 
 PrNummer 09
-Èíslo Pr 09
+ÄŒÃ­slo Pr 09
 
 
 PrNummer 10
-Èíslo Pr 10
+ÄŒÃ­slo Pr 10
 
 
 Kpm Url
@@ -4567,11 +4563,11 @@ Kpmcfs Url
 
 
 Pr Nummern Kombination
-Pr. Nr. èísla- kombinácia 
+Pr. Nr. ÄÃ­sla- kombinÃ¡cia 
 
 
 Pr Nummern Kombination
-Pr. Nr. èísla - kombinácie
+Pr. Nr. ÄÃ­sla - kombinÃ¡cie
 
 
 Ma Pl Id Liste
@@ -4579,7 +4575,7 @@ Zoznam Ma Pl Id
 
 
 Ma Prueflisten
-Kontrolné zoznamy Ma 
+KontrolnÃ© zoznamy Ma 
 
 
 Scheinwerfer
@@ -4599,52 +4595,51 @@ Svetlomety
 
 
 in Reports drucken? 
-vytlaèi v reportoch?
-
+vytlaÄiÅ¥ v reportoch?
 
 
 in Reports ausdrucken?
-   vytlaèi v reportoch?
+vytlaÄiÅ¥ v reportoch?
 
 
 Aktiv?
-Aktívny?
+AktÃ­vny?
 
 
 Ticket Nr.
-Tiket è.
+Tiket Ä.
 
 
 Ticket Nr.
-Tiket è.
+Tiket Ä.
 
 
 Ticket Nr.
-Tiket è.
+Tiket Ä.
 
 
-Prüfliste 01
-Kontrolnı zoznam 01
+PrÃ¼fliste 01
+KontrolnÃ½ zoznam 01
 
 
-Prüfliste 02
-Kontrolnı zoznam 02
+PrÃ¼fliste 02
+KontrolnÃ½ zoznam 02
 
 
-Prüfliste 03
-Kontrolnı zoznam 03
+PrÃ¼fliste 03
+KontrolnÃ½ zoznam 03
 
 
-Prüfliste 04
-Kontrolnı zoznam 04
+PrÃ¼fliste 04
+KontrolnÃ½ zoznam 04
 
 
-Prüfliste 05
-Kontrolnı zoznam 05
+PrÃ¼fliste 05
+KontrolnÃ½ zoznam 05
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 &nbsp;
@@ -4655,36 +4650,36 @@ Oznaèenie
 &nbsp;
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Fb Id
 Fb Id
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Fb Email
-Fb – e-mail
+Fb â€“ e-mail
 
 
 Modell
@@ -4692,43 +4687,43 @@ Model
 
 
 Analyse EE
-Analıza EE
+AnalÃ½za EE
 
 
 Analyse FW
-Analıza FW
+AnalÃ½za FW
 
 
 Analyse KK
-Analıza KK
+AnalÃ½za KK
 
 
 Analyse DK
-Analıza DK
+AnalÃ½za DK
 
 
 Analyse AK
-Analıza AK
+AnalÃ½za AK
 
 
 KK - lang
-KK - dlhé
+KK - dlhÃ©
 
 
 KK - kurz
-KK - krátke
+KK - krÃ¡tke
 
 
-SW-Prüfung
+SW-PrÃ¼fung
 Kontrola SW
 
 
-PTC-Prüfung
+PTC-PrÃ¼fung
 Kontrola PTC
 
 
-Standhöhe/Gewichte
-Vıšky/ Váhy
+StandhÃ¶he/Gewichte
+VÃ½Å¡ky/ VÃ¡hy
 
 
 HV-Check
@@ -4748,11 +4743,11 @@ KPM / KPMCFS
 
 
 Ticket Nr.
-Tiket è.
+Tiket Ä.
 
 
 Ticket Nr.
-Tiket è.
+Tiket Ä.
 
 
 Ticket ID
@@ -4768,11 +4763,11 @@ Opatrenie
 
 
 Verantwortlicher
-Zodpovedná osoba
+ZodpovednÃ¡ osoba
 
 
 Termin
-Termín
+TermÃ­n
 
 
 Fehlerart
@@ -4780,19 +4775,19 @@ Druh chyby
 
 
 Perg Datum
-Perg - dátum
+Perg - dÃ¡tum
 
 
 Ps Datum Freigabe
-Ps - dátum uvo¾nenia
+Ps - dÃ¡tum uvoÄ¾nenia
 
 
 Kalenderwoche
-Kalendárny tıdeò
+KalendÃ¡rny tÃ½Å¾deÅˆ
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 VBV
@@ -4804,7 +4799,7 @@ Fans Flag Top sledovanie
 
 
 Fans Flag Top Woche
-Fans Flag Top tıdeò
+Fans Flag Top tÃ½Å¾deÅˆ
 
 
 Pl Fb Id
@@ -4812,7 +4807,7 @@ Pl Fb Id
 
 
 Ticket Serienart
-Tiket - druh série
+Tiket - druh sÃ©rie
 
 
 Ticket Vbv Id
@@ -4844,11 +4839,11 @@ Opatrenie
 
 
 Verantwortlicher
-Zodpovedná osoba
+ZodpovednÃ¡ osoba
 
 
 Termin
-Termín
+TermÃ­n
 
 
 Fehlerart
@@ -4856,19 +4851,19 @@ Druh chyby
 
 
 Perg Datum
-Perg - dátum
+Perg - dÃ¡tum
 
 
 Ps Datum Freigabe
-Ps - dátum uvo¾nenia
+Ps - dÃ¡tum uvoÄ¾nenia
 
 
 Kalenderwoche
-Kalendárny tıdeò
+KalendÃ¡rny tÃ½Å¾deÅˆ
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 VBV
@@ -4880,7 +4875,7 @@ Fans Flag Top sledovanie
 
 
 Fans Flag Top Woche
-Fans Flag Top tıdeò
+Fans Flag Top tÃ½Å¾deÅˆ
 
 
 Pl Fb Id
@@ -4888,7 +4883,7 @@ Pl Fb Id
 
 
 Ticket Serienart
-Tiket - druh série
+Tiket - druh sÃ©rie
 
 
 Ticket Vbv Id
@@ -4908,31 +4903,31 @@ Psk Pc Id
 
 
 Kalendertag
-Kalendárny deò
+KalendÃ¡rny deÅˆ
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Kennnummer
-Identifikaèné èíslo
+IdentifikaÄnÃ© ÄÃ­slo
 
 
 Wochentag
-Deò v tıdni
+DeÅˆ v tÃ½Å¾dni
 
 
 Kalenderwoche
-Kalendárny tıdeò
+KalendÃ¡rny tÃ½Å¾deÅˆ
 
 
 Kalenderwoche Label
-Kalendárny tıdeò - label
+KalendÃ¡rny tÃ½Å¾deÅˆ - label
 
 
 Kalendermonat
-Kalendárny mesiac
+KalendÃ¡rny mesiac
 
 
 Monat
@@ -4944,7 +4939,7 @@ Rok
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 VBV
@@ -4955,12 +4950,12 @@ Modell
 Model
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Ps Ticket Id
@@ -4971,20 +4966,20 @@ Fehler
 Chyba
 
 
-Prüfliste geändert am
-Kontrolnı zoznam zmenenı dòa
+PrÃ¼fliste geÃ¤ndert am
+KontrolnÃ½ zoznam zmenenÃ½ dÅˆa
 
 
-Fachbereich geändert am
-Odborné oddelenie zmenené dòa
+Fachbereich geÃ¤ndert am
+OdbornÃ© oddelenie zmenenÃ© dÅˆa
 
 
-Prüfliste freigegeben
-Kontrolnı zoznam schválenı
+PrÃ¼fliste freigegeben
+KontrolnÃ½ zoznam schvÃ¡lenÃ½
 
 
 Hochvolt
-Vysoké napätie
+VysokÃ© napÃ¤tie
 
 
 Klappern
@@ -4992,58 +4987,58 @@ Chrastenie
 
 
 Karosserie
-Karoséria
+KarosÃ©ria
 
 
-TypPrüfLand
-Krajina typovej skúšky
+TypPrÃ¼fLand
+Krajina typovej skÃºÅ¡ky
 
 
 Analyse?
-Analıza?
+AnalÃ½za?
 
 
 Modellpflege?
        Modellpflege? 
 
 Einbauprobe?
-Skúška zabudovania?
+SkÃºÅ¡ka zabudovania?
 
 
 Sichtbar?
-Vidite¾né?
+ViditeÄ¾nÃ©?
 
 
 Vorserie <br><br>Kennnummer
-Predséria <br><br>Identifikaèné èíslo
+PredsÃ©ria <br><br>IdentifikaÄnÃ© ÄÃ­slo
 
 
 Serie <br>Kennnummer
-Séria <br>Identifikaèné èíslo
+SÃ©ria <br>IdentifikaÄnÃ© ÄÃ­slo
 
 
 Analyse <br>Kennnummer
-Analıza <br>Identifikaèné èíslo
+AnalÃ½za <br>IdentifikaÄnÃ© ÄÃ­slo
 
 
 Analyse <br>Bemerkung
-Analıza <br>Poznámka
+AnalÃ½za <br>PoznÃ¡mka
 
 
 Analyse <br>Beschreibung
-Analıza <br>Popis
+AnalÃ½za <br>Popis
 
 
 Ticket ungesehen flag
-Tiket nevidenı flag
+Tiket nevidenÃ½ flag
 
 
-(Prüf)-Datum
-(Kontrolnı) Dátum
+(PrÃ¼f)-Datum
+(KontrolnÃ½) DÃ¡tum
 
 
 druckbar?
-mono vytlaèi?
+moÅ¾no vytlaÄiÅ¥?
 
 
 Beschreibung
@@ -5067,7 +5062,7 @@ Rola
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Mitarbeiter
@@ -5083,7 +5078,7 @@ Ident
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Lin Id
@@ -5095,7 +5090,7 @@ Ident
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Var Id
@@ -5107,7 +5102,7 @@ Ident
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Bst Id
@@ -5119,19 +5114,19 @@ Baustufe - ident
 
 
 Baustufe Bezeichnung
-Baustufe - oznaèenie
+Baustufe - oznaÄenie
 
 
 Mod Id
 Mod Id
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Fans Id
@@ -5143,7 +5138,7 @@ Popis chyby
 
 
 PrNummer 01
-Èíslo Pr 01
+ÄŒÃ­slo Pr 01
 
 
 Modell
@@ -5155,7 +5150,7 @@ Psk Id
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 &nbsp;
@@ -5167,7 +5162,7 @@ Popis
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 &nbsp;
@@ -5187,15 +5182,15 @@ Podvozok
 
 
 Dichtigkeit
-Tesnos
+TesnosÅ¥
 
 
-Komfortkräfte
-Komfortné sily
+KomfortkrÃ¤fte
+KomfortnÃ© sily
 
 
-Straßenfahrt
-Jazda na komunikácii
+StraÃŸenfahrt
+Jazda na komunikÃ¡cii
 
 
 ticket id
@@ -5203,7 +5198,7 @@ tiket id
 
 
 Ticket-Nr.
-Tiket è.
+Tiket Ä.
 
 
 Fahrzeug
@@ -5219,11 +5214,11 @@ Status
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Beschreibung (Fachbereich)
-Popis (odborné oddelenie)
+Popis (odbornÃ© oddelenie)
 
 
 &nbsp;
@@ -5231,7 +5226,7 @@ Popis (odborné oddelenie)
 
 
 Ticket-Nr.
-Tiket è.
+Tiket Ä.
 
 
 Fahrzeug
@@ -5247,11 +5242,11 @@ Status
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Beschreibung (Fachbereich)
-Popis (odborné oddelenie)
+Popis (odbornÃ© oddelenie)
 
 
 Ticket Id
@@ -5259,7 +5254,7 @@ Id tiketu
 
 
 Ticket-Nr.
-Tiket è.
+Tiket Ä.
 
 
 Fahrzeug
@@ -5275,11 +5270,11 @@ Status
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Beschreibung (Fachbereich)
-Popis (odborné oddelenie)
+Popis (odbornÃ© oddelenie)
 
 
 Ticket Id
@@ -5287,7 +5282,7 @@ Tiket Id
 
 
 Ticket-Nr.
-Tiket è.
+Tiket Ä.
 
 
 Fahrzeug
@@ -5303,15 +5298,15 @@ Status
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Beschreibung<br>(Fachbereich)
-Popis<br>(odborné oddelenie)
+Popis<br>(odbornÃ© oddelenie)
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Ticket id
@@ -5319,7 +5314,7 @@ Ticket id
 
 
 Produktreferenzen (PR-Nummern)
-Produktové referencie (Pr. Nr. èísla)
+ProduktovÃ© referencie (Pr. Nr. ÄÃ­sla)
 
 
 &nbsp;
@@ -5327,11 +5322,11 @@ Produktové referencie (Pr. Nr. èísla)
 
 
 Ticket Nr.
-Tiket è.
+Tiket Ä.
 
 
-Prüfnummern
-Kontrolné èísla
+PrÃ¼fnummern
+KontrolnÃ© ÄÃ­sla
 
 
 Ma Id
@@ -5351,7 +5346,7 @@ E-mail
 
 
 Ma Letzte Anmeldung
-Ma - posledné prihlásenie
+Ma - poslednÃ© prihlÃ¡senie
 
 
 Rol Id
@@ -5379,10 +5374,10 @@ Ident
 
 
 Fahrzeugsteuerer
-Vodiè vozidla
+VodiÄ vozidla
 
 
-Modell Kürzel
+Modell KÃ¼rzel
 Model - skratka
 
 
@@ -5391,15 +5386,15 @@ Ma - ident
 
 
 Kennnummer
-Identifikaèné èíslo
+IdentifikaÄnÃ© ÄÃ­slo
 
 
 Modelljahr
-Modelovı rok
+ModelovÃ½ rok
 
 
 Sollbaujahr
-Plánovanı rok vıroby
+PlÃ¡novanÃ½ rok vÃ½roby
 
 
 VIN
@@ -5411,23 +5406,23 @@ Linka
 
 
 Verwendung
-Pouitie
+PouÅ¾itie
 
 
 Fb Id
 Fb Id
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Emailadresse
-E-mailová adresa
+E-mailovÃ¡ adresa
 
 
 ID
@@ -5439,7 +5434,7 @@ Text
 
 
 Datum
-Dátum
+DÃ¡tum
 
 
 Art
@@ -5455,19 +5450,19 @@ Strana v APEX
 
 
 Prot Nummer
-Prot - èíslo
+Prot - ÄÃ­slo
 
 
 User
-Uívate¾
+UÅ¾Ã­vateÄ¾
 
 
 Anzahl
-Poèet
+PoÄet
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Fehleransprache
@@ -5475,11 +5470,11 @@ Prejav chyby
 
 
 Anzahl
-Poèet
+PoÄet
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Fehleransprache
@@ -5491,31 +5486,31 @@ Pv Id
 
 
 Anz. Tickets je Tag
-Poèet tiketov za deò
+PoÄet tiketov za deÅˆ
 
 
 Anz. Tickets je Woche
-Poèet tiketov za tıdeò
+PoÄet tiketov za tÃ½Å¾deÅˆ
 
 
 Anz. Tickets je Quartal
-Poèet tiketov za kvartál
+PoÄet tiketov za kvartÃ¡l
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Psk Id
 Psk Id
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Baustufe
@@ -5523,23 +5518,23 @@ Baustufe
 
 
 laufende Nummer
-priebené èíslo
+priebeÅ¾nÃ© ÄÃ­slo
 
 
 Analyse Gewichtung
-Analıza závanosti
+AnalÃ½za zÃ¡vaÅ¾nosti
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Massnahme
 Opatrenie
 
 
-Termin für Massnahme
-Termín na opatrenie
+Termin fÃ¼r Massnahme
+TermÃ­n na opatrenie
 
 
 Status
@@ -5547,11 +5542,11 @@ Status
 
 
 Messwert Obergrenze
-Nameraná hodnota - horná hranica
+NameranÃ¡ hodnota - hornÃ¡ hranica
 
 
 Messwert Untergrenze
-Nameraná hodnota - dolná hranica
+NameranÃ¡ hodnota - dolnÃ¡ hranica
 
 
 Elektronik
@@ -5567,7 +5562,7 @@ ID merania
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Beschreibung
@@ -5587,7 +5582,7 @@ Opatrenie
 
 
 Termin zur Massnahme
-Termín na opatrenie
+TermÃ­n na opatrenie
 
 
 Status
@@ -5595,26 +5590,26 @@ Status
 
 
 neuer Fehler
-nová chyba
+novÃ¡ chyba
 
 
 Fzg. gesamt
-Vozidlá spolu
+VozidlÃ¡ spolu
 
 
-Fzg. geprüft
-Kontrolované vozidlá
+Fzg. geprÃ¼ft
+KontrolovanÃ© vozidlÃ¡
 
 Fzg. mit Fehler
-Vozidlá s chybou
+VozidlÃ¡ s chybou
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Modell
@@ -5626,19 +5621,19 @@ Ul Id
 
 
 Verwendungszweck
-Úèel pouitia
+ÃšÄel pouÅ¾itia
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Status
 Status
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 Pl Id
@@ -5646,11 +5641,11 @@ Pl Id
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Pc Id
@@ -5658,7 +5653,7 @@ Pc Id
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Ident
@@ -5666,15 +5661,15 @@ Ident
 
 
 Kennnummer
-Identifikaèné èíslo
+IdentifikaÄnÃ© ÄÃ­slo
 
 
 Modelljahr
-Modelovı rok
+ModelovÃ½ rok
 
 
 PrNummern FIS
-Pr. èísla - FIS
+Pr. ÄÃ­sla - FIS
 
 
 Lfd.-Nr.
@@ -5682,7 +5677,7 @@ Lfd.-Nr.
 
 
 Analyse Gewichtung
-Analıza závanosti
+AnalÃ½za zÃ¡vaÅ¾nosti
 
 
 DKA
@@ -5690,7 +5685,7 @@ DKA
 
 
 Serie Halle 6
-Séria Hala 6
+SÃ©ria Hala 6
 
 
 Sortierreihenfolge
@@ -5698,7 +5693,7 @@ Poradie triedenia
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Modelle
@@ -5710,43 +5705,43 @@ Psk id2
 
 
 Fachbereiche (IDs)
-Odborné oddelenia (IDs)
+OdbornÃ© oddelenia (IDs)
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
 Attachment
-Príloha
+PrÃ­loha
 
 
-Termin überschritten
-Termín prekroèenı
+Termin Ã¼berschritten
+TermÃ­n prekroÄenÃ½
 
 
 PR Nummer
-Pr. èíslo
+Pr. ÄÃ­slo
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
 Anzahl
-Poèet
+PoÄet
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Fehleransprache
@@ -5754,15 +5749,15 @@ Prejav chyby
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 Pl id
@@ -5790,54 +5785,54 @@ Model
 
 
 Ml anhang
-Ml - príloha
+Ml - prÃ­loha
 
 
 Anhang
-Príloha
+PrÃ­loha
 
 
 Fehleranzahl
-Poèet chıb
+PoÄet chÃ½b
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Gültig ab
-Platí od
+GÃ¼ltig ab
+PlatÃ­ od
 
 
-Gültig bis
-Platí do
+GÃ¼ltig bis
+PlatÃ­ do
 
 
 je Modell?
-pod¾a modelu?
+podÄ¾a modelu?
 
 
 je Linie?
-pod¾a linky?
+podÄ¾a linky?
 
 
 je Variante?
-pod¾a variantu?
+podÄ¾a variantu?
 
 
 Fans Id
 Fans Id
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
@@ -5846,7 +5841,7 @@ Opatrenie
 
 
 Termin
-Termín
+TermÃ­n
 
 
 Status
@@ -5861,12 +5856,12 @@ PEVA
 PEVA
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Modell
@@ -5878,11 +5873,11 @@ Fb  - zoznam
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
-Prüflisten
-Kontrolné zoznamy
+PrÃ¼flisten
+KontrolnÃ© zoznamy
 
 
 Psk Id
@@ -5901,12 +5896,12 @@ Rohbau Pin
 Rohbau Pin
 
 
-Typprüfland
-Krajina typovej skúšky
+TypprÃ¼fland
+Krajina typovej skÃºÅ¡ky
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Col3
@@ -5926,7 +5921,7 @@ Krajina
 
 
 Flagge
-Zástava
+ZÃ¡stava
 
 
 &nbsp;
@@ -5950,7 +5945,7 @@ Status
 
 
 Pdok dateiname
-Pdok - názov súboru
+Pdok - nÃ¡zov sÃºboru
 
 
 Pdok ticket id
@@ -5993,8 +5988,8 @@ Pdok id tiketu
 <span #TICKET_STATUS_SCHEINWERFER#></span>
 
 
-<a href="javascript:apex.confirm('Wollen Sie wirklich löschen? Es werden alle Daten zum Prüfschritt gelöscht!', { request:'DELETE_PS', set:{'P4180_PSK_ID': #PSK_ID#}});">     <span class="fa fa-trash-o"></span> </a>
-<a href="javascript:apex.confirm('Wollen Sie wirklich löschen? Es werden alle Daten zum Prüfschritt gelöscht!', { request:'DELETE_PS', set:{'P4180_PSK_ID': #PSK_ID#}});">     <span class="fa fa-trash-o"></span> </a>
+<a href="javascript:apex.confirm('Wollen Sie wirklich lÃ¶schen? Es werden alle Daten zum PrÃ¼fschritt gelÃ¶scht!', { request:'DELETE_PS', set:{'P4180_PSK_ID': #PSK_ID#}});">     <span class="fa fa-trash-o"></span> </a>
+<a href="javascript:apex.confirm('Wollen Sie wirklich lÃ¶schen? Es werden alle Daten zum PrÃ¼fschritt gelÃ¶scht!', { request:'DELETE_PS', set:{'P4180_PSK_ID': #PSK_ID#}});">     <span class="fa fa-trash-o"></span> </a>
 
 
 <span #TICKET_STATUS_INT_HOCHVOLT#></span>
@@ -6098,171 +6093,171 @@ IR Column Grouping
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
 Keine Berechtigung!
-Nemáte oprávnenie!
+NemÃ¡te oprÃ¡vnenie!
 
 
-Wollen Sie das Ticket wirklich abschließen?
-Chcete skutoène ukonèi tiket?
+Wollen Sie das Ticket wirklich abschlieÃŸen?
+Chcete skutoÄne ukonÄiÅ¥ tiket?
 
 
 Wollen Sie alle fehlenden Reports erzeugen?
-Chcete vytvori všetky chıbajúce reporty?
+Chcete vytvoriÅ¥ vÅ¡etky chÃ½bajÃºce reporty?
 
 
-Bitte wählen Sie einen Filter aus!
-Prosím, zvo¾te filter!
+Bitte wÃ¤hlen Sie einen Filter aus!
+ProsÃ­m, zvoÄ¾te filter!
 
 
-Bitte wählen Sie Jahr und Kalenderwoche aus!
-Prosím, zvo¾te rok a kalendárny tıdeò !
+Bitte wÃ¤hlen Sie Jahr und Kalenderwoche aus!
+ProsÃ­m, zvoÄ¾te rok a kalendÃ¡rny tÃ½Å¾deÅˆ !
 
 
 Desktop
 Desktop
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 Plc Pc Id
 Plc Pc Id
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 Reihenfolge
@@ -6270,7 +6265,7 @@ Poradie
 
 
 PR-Nummern
-Èísla PR
+ÄŒÃ­sla PR
 
 
 Prnummern tooltipp
@@ -6278,14 +6273,15 @@ Prnummern tooltipp
 
 
 Messwert Toleranz  Min.
-Nameraná hodnota - tolerancia min.
+NameranÃ¡ hodnota - tolerancia min.
 
 
 Messwert Toleranz Max.
-   Nameraná hodnota - tolerancia max.
+NameranÃ¡ hodnota - tolerancia max.
 
-Prüfcluster
-Kontrolnı klaster
+
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Beschreibung
@@ -6300,8 +6296,8 @@ Status
 Status
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 Modell
@@ -6309,19 +6305,19 @@ Model
 
 
 Sollbauzahl
-Plánovanı poèet vyrobenıch vozidiel
+PlÃ¡novanÃ½ poÄet vyrobenÃ½ch vozidiel
 
 
 Teilestand
 Stav dielov
 
 
-Gültig ab
-Platí od
+GÃ¼ltig ab
+PlatÃ­ od
 
 
-Gültig bis
-Platí do
+GÃ¼ltig bis
+PlatÃ­ do
 
 
 Ticket
@@ -6329,7 +6325,7 @@ Tiket
 
 
 Ticket Nr
-Tiket è.
+Tiket Ä.
 
 
 Beschreibung
@@ -6337,11 +6333,11 @@ Popis
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Fahrzeug
@@ -6353,15 +6349,15 @@ Vozidlo
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 Datum Freigabe
-Dátum uvo¾nenia
+DÃ¡tum uvoÄ¾nenia
 
 
-Hütchen
-Hütchen
+HÃ¼tchen
+HÃ¼tchen
 
 
 Modell
@@ -6369,11 +6365,11 @@ Model
 
 
 Erstelldatum
-Dátum vytvorenia
+DÃ¡tum vytvorenia
 
 
 Datum Abschluss
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 Jahr
@@ -6385,47 +6381,47 @@ Model
 
 
 Nr. 1
-È. 1
+ÄŒ. 1
 
 
 Nr. 2
-È. 2
+ÄŒ. 2
 
 
 Nr. 3
-È. 3
+ÄŒ. 3
 
 
 Nr. 4
-È. 4
+ÄŒ. 4
 
 
 Nr. 5
-È. 5
+ÄŒ. 5
 
 
 Nr. 6
-È. 6
+ÄŒ. 6
 
 
 Nr. 7
-È. 7
+ÄŒ. 7
 
 
 Nr. 8
-È. 8
+ÄŒ. 8
 
 
 Nr. 9
-È. 9
+ÄŒ. 9
 
 
 Nr. 10
-È. 10
+ÄŒ. 10
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 MIN
@@ -6437,15 +6433,15 @@ MAX
 
 
 Einsatzdatum MP
-Dátum nasadenia MP
+DÃ¡tum nasadenia MP
 
 
-Gültig von
-Platí od
+GÃ¼ltig von
+PlatÃ­ od
 
 
-Gültig bis
-Platí do
+GÃ¼ltig bis
+PlatÃ­ do
 
 
 Wert
@@ -6457,7 +6453,7 @@ Perg Fans Id
 
 
 Fehleransprachen
-Prejavy chıb
+Prejavy chÃ½b
 
 
 Reihenfolge
@@ -6465,19 +6461,19 @@ Poradie
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
-Anhänge
-Prílohy
+AnhÃ¤nge
+PrÃ­lohy
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Verwendungszweck
-Úèel pouitia
+ÃšÄel pouÅ¾itia
 
 
 Toleranzen
@@ -6485,71 +6481,71 @@ Tolerancie
 
 
 zu messender Wert
-meraná hodnota
+meranÃ¡ hodnota
 
 
 Sichtbar?
-Vidite¾né?
+ViditeÄ¾nÃ©?
 
 
 Sollbaujahr
-Plánovanı rok vıroby
+PlÃ¡novanÃ½ rok vÃ½roby
 
 
 Fzg.-Kennnummer (7stellig)
-Voz. - identifikaèné èíslo (7-miestne)
+Voz. - identifikaÄnÃ© ÄÃ­slo (7-miestne)
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Umrechnung Proz.?
-Prepoèet na perc.?
+PrepoÄet na perc.?
 
 
 Mittelwertbildung?
-Vıpoèet priemernej hodnoty?
+VÃ½poÄet priemernej hodnoty?
 
 
 Werk Nr
-Závod è.
+ZÃ¡vod Ä.
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Mitarbeiter
 Zamestnanec
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
 Messwert (Bezeichnung)
-Meraná hodnota (oznaèenie)
+MeranÃ¡ hodnota (oznaÄenie)
 
 
-Ländergruppe
-Skupina krajín
+LÃ¤ndergruppe
+Skupina krajÃ­n
 
 
-zgh. Typprüfland
-príslušná krajina typovej skúšky
+zgh. TypprÃ¼fland
+prÃ­sluÅ¡nÃ¡ krajina typovej skÃºÅ¡ky
 
 
-Hinweise zum Prüfergebnis
-Odkazy na vısledok skúšky
+Hinweise zum PrÃ¼fergebnis
+Odkazy na vÃ½sledok skÃºÅ¡ky
 
 
 Ergebnis
-Vısledok
+VÃ½sledok
 
 
 Messergebnis
-Vısledok merania
+VÃ½sledok merania
 
 
 Sprache
@@ -6561,19 +6557,19 @@ Strana v APEX
 
 
 Attribut
-Atribút
+AtribÃºt
 
 
 Original-Text
-Originálny text
+OriginÃ¡lny text
 
 
-Übersetzung
+Ãœbersetzung
 Preklad
 
 
-bereits übersetzt?
-u preloené?
+bereits Ã¼bersetzt?
+uÅ¾ preloÅ¾enÃ©?
 
 
 Name
@@ -6589,11 +6585,11 @@ Rutina
 
 
 Aktiv
-Aktívne
+AktÃ­vne
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Start Initial
@@ -6604,12 +6600,12 @@ Intervall
 Interval
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 &nbsp;
@@ -6617,7 +6613,7 @@ Kontrolnı krok
 
 
 Mittelwert
-Priemerná hodnota
+PriemernÃ¡ hodnota
 
 
 Minimum
@@ -6688,16 +6684,16 @@ Actions
 <span class="fa fa-paperclip"></span><span style="display:&DISPLAY_ANHAENGE_PRUEFERGEBNIS.">&nbsp;(&ANZ_ANHAENGE_PRUEFERGEBNIS.)</span>
 
 
-Prüfnummern
-Kontrolné èísla
+PrÃ¼fnummern
+KontrolnÃ© ÄÃ­sla
 
 
 Messwert Toleranzgrenze
-Nameraná hodnota – hranica tolerancie
+NameranÃ¡ hodnota â€“ hranica tolerancie
 
 
-Stichprobenhäufigk.
-Poèet námatkovıch vzoriek
+StichprobenhÃ¤ufigk.
+PoÄet nÃ¡matkovÃ½ch vzoriek
 
 
 &nbsp;
@@ -6705,71 +6701,71 @@ Poèet námatkovıch vzoriek
 
 
 New
-Nové
+NovÃ©
 
 
 Keine Modelle zugeordnet!
-Nie sú priradené modely!
+Nie sÃº priradenÃ© modely!
 
 
-Keine Prüfergebnisse vorhanden!
-Skúšobné vısledky nie sú k dispozícii!
+Keine PrÃ¼fergebnisse vorhanden!
+SkÃºÅ¡obnÃ© vÃ½sledky nie sÃº k dispozÃ­cii!
 
 
 Neue Zeile
-Novı riadok
+NovÃ½ riadok
 
 
 Anzahl Fehler / Anzahl Fzg.
-Poèet chıb / Poèet voz.
+PoÄet chÃ½b / PoÄet voz.
 
 
 Wochentag
-Deò v tıdni
+DeÅˆ v tÃ½Å¾dni
 
 
 Durchschn. Anz. an Fehlern pro Fzg.
-Priem. poèet chıb na vozidlo
+Priem. poÄet chÃ½b na vozidlo
 
 
 Kalenderwochen
-Kalendárne tıdne
+KalendÃ¡rne tÃ½Å¾dne
 
 
 Durchschn. Anz. an Fehlern pro Fzg.
-   Priem. poèet chıb na vozidlo
+Priem. poÄet chÃ½b na vozidlo
 
 
 Anzahl Fehler / Anzahl Fzg.
-Poèet chıb / Poèet voz.
+PoÄet chÃ½b / PoÄet voz.
 
 
 Kalendermonate
-Kalendárne mesiace
+KalendÃ¡rne mesiace
 
 
 Durchschn. Anz. an Fehlern pro Fzg.
-   Priem. poèet chıb na vozidlo
+Priem. poÄet chÃ½b na vozidlo
 
 
 Anzahl Fehler / Anzahl Fzg.
-Poèet chıb / Poèet voz.
+PoÄet chÃ½b / PoÄet voz.
 
 
 Messwerte
-Namerané hodnoty
+NameranÃ© hodnoty
 
 
 Messwerte
-Namerané hodnoty
+NameranÃ© hodnoty
 
 
 Messwerte
-Namerané hodnoty
+NameranÃ© hodnoty
 
 
 Messwerte
-Namerané hodnoty
+NameranÃ© hodnoty
 
 
 Minimum
@@ -6805,39 +6801,40 @@ Maximum
 
 
 Anzahl Fahrzeuge
-Poèet vozidiel
+PoÄet vozidiel
 
 
 Anzahl Fehler
-Poèet chıb
+PoÄet chÃ½b
 
 
 Durchschn. Anzahl an Fehlern pro Fahrzeug
-Priemernı poèet chıb na vozidlo
+PriemernÃ½ poÄet chÃ½b na vozidlo
 
 
 Anzahl Fahrzeuge
-Poèet vozidiel
+PoÄet vozidiel
 
 
 Durchschn. Anzahl an Fehlern pro Fahrzeug
-Priemernı poèet chıb na vozidlo
+PriemernÃ½ poÄet chÃ½b na vozidlo
 
 
 Anzahl Fehler
-Poèet chıb
+PoÄet chÃ½b
 
 
 Anzahl Fahrzeuge
-Poèet vozidiel
+PoÄet vozidiel
 
 
 Anzahl Fehler
-Poèet chıb
+PoÄet chÃ½b
 
 
 Durchschn. Anzahl an Fehlern pro Fahrzeug
-   Priemernı poèet chıb na vozidlo
+PriemernÃ½ poÄet chÃ½b na vozidlo
+
 
 <span style="color:red;font-weight:bold;font-size: 20px;">Es wurde noch kein Fahrzeug erfasst!</span>
 <span style="color:red;font-weight:bold;font-size: 20px;">Es wurde noch kein Fahrzeug erfasst!</span>
@@ -6847,20 +6844,20 @@ Durchschn. Anzahl an Fehlern pro Fahrzeug
 <span style="color:red;font-weight:bold;font-size: 20px;">Es wurde noch kein Modell erfasst!</span>
 
 
-<span style="color:red;font-weight:bold;font-size: 20px;">Bearbeitung des Tickets nicht möglich!</span>
-<span style="color:red;font-weight:bold;font-size: 20px;">Bearbeitung des Tickets nicht möglich!</span>
+<span style="color:red;font-weight:bold;font-size: 20px;">Bearbeitung des Tickets nicht mÃ¶glich!</span>
+<span style="color:red;font-weight:bold;font-size: 20px;">Bearbeitung des Tickets nicht mÃ¶glich!</span>
 
 
 <style> .ui-dialog.ui-dialog--notification .ui-dialog-content {   padding: 10px; } </style>
 <style> .ui-dialog.ui-dialog--notification .ui-dialog-content {   padding: 10px; } </style>
 
 
-<span style="color:red"> Achtung! Daten sind vertraulich!!! Freitextfelder dürfen keine personenbezogenen Daten enthalten!</span>
-<span style="color:red"> Achtung! Daten sind vertraulich!!! Freitextfelder dürfen keine personenbezogenen Daten enthalten!</span>
+<span style="color:red"> Achtung! Daten sind vertraulich!!! Freitextfelder dÃ¼rfen keine personenbezogenen Daten enthalten!</span>
+<span style="color:red"> Achtung! Daten sind vertraulich!!! Freitextfelder dÃ¼rfen keine personenbezogenen Daten enthalten!</span>
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Reihenfolge
@@ -6868,19 +6865,19 @@ Poradie
 
 
 Verwendungszweck
-Úèel pouitia
+ÃšÄel pouÅ¾itia
 
 
 Messwert vorhanden
-Nameraná hodnota je k dispozícii
+NameranÃ¡ hodnota je k dispozÃ­cii
 
 
-Stichprobenhäufigkeit
-Poèet námatkovıch vzoriek
+StichprobenhÃ¤ufigkeit
+PoÄet nÃ¡matkovÃ½ch vzoriek
 
 
-Bezeichnung Prüfschritt
-Oznaèenie kontrolného kroku
+Bezeichnung PrÃ¼fschritt
+OznaÄenie kontrolnÃ©ho kroku
 
 
 Modelle
@@ -6888,7 +6885,7 @@ Modely
 
 
 Pr.-Nummern
-Èísla Pr.
+ÄŒÃ­sla Pr.
 
 
 Toleranzgrenze MIN
@@ -6904,23 +6901,23 @@ Hodnota
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Datum Abschluss Prüfliste von
-Dátum ukonèenia kontrolného zoznamu od
+Datum Abschluss PrÃ¼fliste von
+DÃ¡tum ukonÄenia kontrolnÃ©ho zoznamu od
 
 
-Datum Abschluss Prüfliste bis
-Dátum ukonèenia kontrolného zoznamu do
+Datum Abschluss PrÃ¼fliste bis
+DÃ¡tum ukonÄenia kontrolnÃ©ho zoznamu do
 
 
 Modell
@@ -6932,11 +6929,11 @@ VBV
 
 
 Ausdruck im Fehlerprotokoll unterbinden?
-Zakáza vıraz v chybovom protokole?
+ZakÃ¡zaÅ¥ vÃ½raz vÂ chybovom protokole?
 
 
 Top Woche?
-Top tıdeò?
+Top tÃ½Å¾deÅˆ?
 
 
 Ticketart
@@ -6948,31 +6945,31 @@ Druh tiketu
 
 
 Ticket Serienart
-Tiket - druh série
+Tiket - druh sÃ©rie
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
-Prüfschrittergebnisse
-Vısledky kontrolného kroku
+PrÃ¼fschrittergebnisse
+VÃ½sledky kontrolnÃ©ho kroku
 
 
 nur Summenzeile
-iba súètovı riadok
+iba sÃºÄtovÃ½ riadok
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Sortierung
@@ -6980,23 +6977,23 @@ Triedenie
 
 
 Auftraggeber
-Objednávate¾
+ObjednÃ¡vateÄ¾
 
 
 Auftraggeber
-Objednávate¾
+ObjednÃ¡vateÄ¾
 
 
 Fahrzeugverwendung
-Pouitie vozidla
+PouÅ¾itie vozidla
 
 
-proz. Anteil an Stückzahl vom Vortag
-perc. podiel na poète voz. z predch. dòa
+proz. Anteil an StÃ¼ckzahl vom Vortag
+perc. podiel na poÄte voz. zÂ predch. dÅˆa
 
 
-Prüfcluster neu
-Kontrolnı klaster - novı
+PrÃ¼fcluster neu
+KontrolnÃ½ klaster - novÃ½
 
 
 Zeitraum von
@@ -7007,12 +7004,12 @@ Zeitraum bis
 Obdobie do
 
 
-ungültig ab
-neplatné od
+ungÃ¼ltig ab
+neplatnÃ© od
 
 
 Zugang gesperrt ab
-Prístup blokovanı od
+PrÃ­stup blokovanÃ½ od
 
 
 KPM
@@ -7024,15 +7021,15 @@ KPMcfs
 
 
 Sichtbar?
-Vidite¾né?
+ViditeÄ¾nÃ©?
 
 
 Analysezeit SB
-Èas analızy SB
+ÄŒas analÃ½zy SB
 
 
-Analysezeit Prüfer
-Èas analızy - Prüfer
+Analysezeit PrÃ¼fer
+ÄŒas analÃ½zy - PrÃ¼fer
 
 
 PR-Familie
@@ -7040,18 +7037,19 @@ Pr- rodina
 
 
 PR-Nummer
-Pr-èíslo
+Pr-ÄÃ­slo
 
 
 Beschreibung
 Popis
 
 
-Nenngröße Kwh
-   Menovitá velièina Kwh
+NenngrÃ¶ÃŸe Kwh
+MenovitÃ¡ veliÄina Kwh
+
 
 New
-Nové
+NovÃ©
 
 
 Ident
@@ -7070,28 +7068,28 @@ Auto Refresh Dashboard
 Auto Refresh Dashboard
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Dateiname
-Názov súboru
+NÃ¡zov sÃºboru
 
 
-Datei auswählen
-Vybra súbor
+Datei auswÃ¤hlen
+VybraÅ¥ sÃºbor
 
 
 Drucken im Anhang
-Tlaè v prílohe
+TlaÄ v prÃ­lohe
 
 
 Beschreibung
@@ -7099,19 +7097,19 @@ Popis
 
 
 Dateiname
-Názov súboru
+NÃ¡zov sÃºboru
 
 
-Datei auswählen
-   Vybra súbor
+Datei auswÃ¤hlen
+VybraÅ¥ sÃºbor
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Modell
@@ -7119,7 +7117,7 @@ Model
 
 
 Verantwortlicher
-Zodpovedná osoba
+ZodpovednÃ¡ osoba
 
 
 Name
@@ -7127,19 +7125,19 @@ Meno
 
 
 Wert (alphanumerisch)
-Hodnota (alfanumerická)
+Hodnota (alfanumerickÃ¡)
 
 
 Wert (numerisch)
-Hodnota (numerická)
+Hodnota (numerickÃ¡)
 
 
 Wert (Datum)
-Hodnota (dátum)
+Hodnota (dÃ¡tum)
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Modell
@@ -7155,19 +7153,19 @@ Druh tiketu
 
 
 Verwendungszweck
-Úèel pouitia
+ÃšÄel pouÅ¾itia
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Kennnummer
-Identifikaèné èíslo
+IdentifikaÄnÃ© ÄÃ­slo
 
 
 Werk
-Závod
+ZÃ¡vod
 
 
 SPJ
@@ -7179,39 +7177,39 @@ Vozidlo
 
 
 Fachbereichsauswahl
-Vıber odborného oddelenia
+VÃ½ber odbornÃ©ho oddelenia
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Hütchen
-Hütchen
+HÃ¼tchen
+HÃ¼tchen
 
 
-Hütchen
-Hütchen
+HÃ¼tchen
+HÃ¼tchen
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
-Hütchen
-Hütchen
+HÃ¼tchen
+HÃ¼tchen
 
 
 Werk Nr.
-Závod è.
+ZÃ¡vod Ä.
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Rolle
@@ -7231,7 +7229,7 @@ Odkaz na vyhodnotenie
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Tickets
@@ -7251,11 +7249,11 @@ E-mail
 
 
 Gesperrt ab
-Blokované od
+BlokovanÃ© od
 
 
-Prüflisten
-Kontrolné zoznamy
+PrÃ¼flisten
+KontrolnÃ© zoznamy
 
 
 Rolle
@@ -7263,11 +7261,11 @@ Rola
 
 
 Werke
-Závody
+ZÃ¡vody
 
 
-ungültig ab
-neplatné od
+ungÃ¼ltig ab
+neplatnÃ© od
 
 
 Refresh Dashboard
@@ -7275,18 +7273,19 @@ Refresh Dashboard
 
 
 Datum Abschluss
-Dátum ukonèenia
+DÃ¡tum ukonÄenia
 
 
 Modellpflege
-       Modellpflege
+Modellpflege
+
 
 aktuelle Werkszuordnung
-aktuálne priradenie závodu
+aktuÃ¡lne priradenie zÃ¡vodu
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Jahr
@@ -7294,11 +7293,11 @@ Rok
 
 
 Verursacher
-Spôsobite¾
+SpÃ´sobiteÄ¾
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Ticketart
@@ -7306,11 +7305,11 @@ Druh tiketu
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Ticketart
@@ -7318,27 +7317,27 @@ Druh tiketu
 
 
 Verursacher
-Spôsobite¾
+SpÃ´sobiteÄ¾
 
 
 Verursacher
-Spôsobite¾
+SpÃ´sobiteÄ¾
 
 
 Messbezeichnung
-Oznaèenie merania
+OznaÄenie merania
 
 
 Messwert 1
-Nameraná hodnota 1
+NameranÃ¡ hodnota 1
 
 
 Messwert 2
-Nameraná hodnota 2
+NameranÃ¡ hodnota 2
 
 
 Messwert 3
-Nameraná hodnota 3
+NameranÃ¡ hodnota 3
 
 
 Fehleransprache
@@ -7346,15 +7345,15 @@ Prejav chyby
 
 
 Fehleransprache Freitext
-Prejav chyby – vo¾nı text 
+Prejav chyby â€“ voÄ¾nÃ½ text 
 
 
 Verursacher
-Spôsobite¾
+SpÃ´sobiteÄ¾
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Ticketart
@@ -7390,54 +7389,54 @@ Obdobie do
 
 
 Einsatzdatum
-Dátum nasadenia
+DÃ¡tum nasadenia
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Anzeige?
 Oznam?
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 nach Model
-pod¾a modelu
+podÄ¾a modelu
 
 
-neuer Prüfschritt
-novı kontrolnı krok
+neuer PrÃ¼fschritt
+novÃ½ kontrolnÃ½ krok
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Messbezeichnung
-Oznaèenie merania
+OznaÄenie merania
 
 
 Messwert 1
-Nameraná hodnota 1
+NameranÃ¡ hodnota 1
 
 
 Messwert 2
-Nameraná hodnota 2
+NameranÃ¡ hodnota 2
 
 
 Messwert 3
-Nameraná hodnota 3
+NameranÃ¡ hodnota 3
 
 
 Datei
-Súbor
+SÃºbor
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
@@ -7446,123 +7445,123 @@ Model
 
 
 Produktreferenz 02
-Produktová referencia  02
+ProduktovÃ¡ referencia  02
 
 
 Produktreferenz 03
-Produktová referencia 03
+ProduktovÃ¡ referencia 03
 
 
 Produktreferenz 04
-Produktová referencia 04
+ProduktovÃ¡ referencia 04
 
 
 Produktreferenz 05
-Produktová referencia 05
+ProduktovÃ¡ referencia 05
 
 
 Produktreferenz 06
-Produktová referencia 06
+ProduktovÃ¡ referencia 06
 
 
 Produktreferenz 07
-Produktová referencia 07
+ProduktovÃ¡ referencia 07
 
 
 Produktreferenz 08
-Produktová referencia 08
+ProduktovÃ¡ referencia 08
 
 
 Produktreferenz 09
-Produktová referencia 09
+ProduktovÃ¡ referencia 09
 
 
 Produktreferenz 10
-Produktová referencia 10
+ProduktovÃ¡ referencia 10
 
 
 Druck in Reports?
-Tlaè do reportov?
+TlaÄ do reportov?
 
 
 in Reports audrucken?
-vytlaèi v reportoch?
+vytlaÄiÅ¥ v reportoch?
 
 
 Aktiv?
-aktívne?
+aktÃ­vne?
 
 
 Bemerkung Fzg-Vormerkung
-Poznámka k zápisu vozidla
+PoznÃ¡mka kÂ zÃ¡pisu vozidla
 
 
-Prüfliste 02
-Kontrolnı zoznam 02
+PrÃ¼fliste 02
+KontrolnÃ½ zoznam 02
 
 
-Prüfliste 03
-Kontrolnı zoznam 03
+PrÃ¼fliste 03
+KontrolnÃ½ zoznam 03
 
 
-Prüfliste 04
-Kontrolnı zoznam 04
+PrÃ¼fliste 04
+KontrolnÃ½ zoznam 04
 
 
-Prüfliste 05
-Kontrolnı zoznam 05
+PrÃ¼fliste 05
+KontrolnÃ½ zoznam 05
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 <a href="javascript:location.href='f?p=&APP_ID.:4165:&APP_SESSION.:APPLICATION_PROCESS=DOWNLOAD_BLOB_FEHLERANSPRACHE:::FANS_ID: &P4165_FANS_ID.'">&P4165_FANS_DATEINAME.</a>
 <a href="javascript:location.href='f?p=&APP_ID.:4165:&APP_SESSION.:APPLICATION_PROCESS=DOWNLOAD_BLOB_FEHLERANSPRACHE:::FANS_ID: &P4165_FANS_ID.'">&P4165_FANS_DATEINAME.</a>
 
 
-ungültig ab
-neplatné od
+ungÃ¼ltig ab
+neplatnÃ© od
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Einbauproben
-Skúšky zabudovania
+SkÃºÅ¡ky zabudovania
 
 
-Datei auswählen
-Vybra súbor
+Datei auswÃ¤hlen
+VybraÅ¥ sÃºbor
 
 
 Dateiname
-Názov súboru
+NÃ¡zov sÃºboru
 
 
 druckbar?
-mono vytlaèi?
+moÅ¾no vytlaÄiÅ¥?
 
 
 Beschreibung
 Popis
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 ungueltig ab
-neplatné od
+neplatnÃ© od
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Modell
@@ -7582,59 +7581,59 @@ do
 
 
 Eingang Vorserie
-Vstup - predséria
+Vstup - predsÃ©ria
 
 
 Eingang Serie
-Vstup - séria
+Vstup - sÃ©ria
 
 
 Eingang Analyse / EBP
-Vstup – analıza / EBP
+Vstup â€“ analÃ½za / EBP
 
 
 Ausgang Vorserie
-Vıstup - predséria
+VÃ½stup - predsÃ©ria
 
 
 Ausgang Serie
-Vıstup - séria
+VÃ½stup - sÃ©ria
 
 
 Umlauf Vorserie
-Obeh - predséria
+Obeh - predsÃ©ria
 
 
 Ausgang Analyse / EBP
-Vıstup - analıza / EBP
+VÃ½stup - analÃ½za / EBP
 
 
 Umlauf Analysen / EBP
-Obeh – analızy / EBP
+Obeh â€“ analÃ½zy / EBP
 
 
 Umlauf Serie
-Obeh - séria
+Obeh - sÃ©ria
 
-- 
+
 Jahr
 Rok
 
 
 Kalenderwoche
-Kalendárny tıdeò
+KalendÃ¡rny tÃ½Å¾deÅˆ
 
 
 Ticketart
 Druh tiketu
 
 
-Prüflisten
-Kontrolné zoznamy
+PrÃ¼flisten
+KontrolnÃ© zoznamy
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 VBV
@@ -7658,7 +7657,7 @@ Rok
 
 
 Werk
-Závod
+ZÃ¡vod
 
 
 Return Value
@@ -7677,8 +7676,8 @@ Modell
 Model
 
 
-Prüfschritte
-Kontrolné kroky
+PrÃ¼fschritte
+KontrolnÃ© kroky
 
 
 Zeitraum von
@@ -7686,7 +7685,7 @@ Obdobie od
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Baustufe
@@ -7697,31 +7696,33 @@ Variante
 Variante
 
 
-TypPrüfLand
-Krajina typovej skúšky
+TypPrÃ¼fLand
+Krajina typovej skÃºÅ¡ky
 
 
-TypPrüfland
-   Krajina typovej skúšky
+TypPrÃ¼fland
+Krajina typovej skÃºÅ¡ky
 
-Typprüfland
-Krajina typovej skúšky
+
+TypprÃ¼fland
+Krajina typovej skÃºÅ¡ky
 
 
 Sichtbar?
-Vidite¾né?
+ViditeÄ¾nÃ©?
 
 
 Analyse?
-Analıza?
+AnalÃ½za?
 
 
 Einbauprobe
-Skúška zabudovania
+SkÃºÅ¡ka zabudovania
 
 
 Modellpflege
-       Modellpflege
+Modellpflege
+
 
 Rohbau-PIN
 Rohbau-PIN
@@ -7731,12 +7732,12 @@ Title 1
 Title 1
 
 
-Prüfschritt:
-Kontrolnı krok:
+PrÃ¼fschritt:
+KontrolnÃ½ krok:
 
 
 Drucken im Anhang
-Tlaèi v prílohe
+TlaÄiÅ¥ v prÃ­lohe
 
 
 Beschreibung
@@ -7748,7 +7749,7 @@ Zamestnanec
 
 
 Fachbereiche
-Odborné oddelenia
+OdbornÃ© oddelenia
 
 
 Mitarbeiter
@@ -7764,11 +7765,11 @@ Model
 
 
 Werk
-Závod
+ZÃ¡vod
 
 
 username
-uívate¾ské meno
+uÅ¾Ã­vateÄ¾skÃ© meno
 
 
 password
@@ -7780,7 +7781,7 @@ Ident
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Ident
@@ -7788,7 +7789,7 @@ Ident
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Ident
@@ -7796,7 +7797,7 @@ Ident
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Ident
@@ -7804,15 +7805,15 @@ Ident
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
-Kürzel
+KÃ¼rzel
 Skratka
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Fehlerbeschreibung
@@ -7820,7 +7821,7 @@ Popis chyby
 
 
 Produktreferenz 01
-Produktová referencia 01
+ProduktovÃ¡ referencia 01
 
 
 Modell
@@ -7828,11 +7829,11 @@ Model
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 New
-Nové
+NovÃ©
 
 
 Ticket:
@@ -7840,7 +7841,7 @@ Tiket:
 
 
 Ticket Nr
-Tiket è.
+Tiket Ä.
 
 
 Fahrzeug
@@ -7852,7 +7853,7 @@ Status
 
 
 Erstellt am
-Vytvorené dòa
+VytvorenÃ© dÅˆa
 
 
 Modell
@@ -7860,11 +7861,11 @@ Model
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Baustufe
-Stupeò zabudovania
+StupeÅˆ zabudovania
 
 
 Linie
@@ -7880,11 +7881,11 @@ Popis
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Produktreferenzen (PR-Nummern)
-Produktové referencie (Pr. èísla)
+ProduktovÃ© referencie (Pr. ÄÃ­sla)
 
 
 SPJ
@@ -7892,15 +7893,15 @@ SPJ
 
 
 Werk
-Závod
+ZÃ¡vod
 
 
 Verwendungszweck
-Úèel pouitia
+ÃšÄel pouÅ¾itia
 
 
 Kennnummer
-Identifikaèné èíslo
+IdentifikaÄnÃ© ÄÃ­slo
 
 
 Ident
@@ -7932,7 +7933,7 @@ Ident
 
 
 Kennnummer
-Identifikaèné èíslo
+IdentifikaÄnÃ© ÄÃ­slo
 
 
 SPJ
@@ -7944,15 +7945,15 @@ Linka
 
 
 Verwendung
-Pouitie
+PouÅ¾itie
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Toleranzgrenze (Min.)
@@ -7963,36 +7964,36 @@ Toleranzgrenze (Max.)
 Hranica tolerancie (max.)
 
 
-Häufigkeit der Stichprobe (%)
-Poèetnos námatkovej vzorky (%)
+HÃ¤ufigkeit der Stichprobe (%)
+PoÄetnosÅ¥ nÃ¡matkovej vzorky (%)
 
 
 Messwert
-Nameraná hodnota
+NameranÃ¡ hodnota
 
 
 Auftraggeber
-Objednávate¾
+ObjednÃ¡vateÄ¾
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
 Baustufe
 Baustufe
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Massnahme
 Opatrenie
 
 
-Termin für Massnahme
-Termín na opatrenie
+Termin fÃ¼r Massnahme
+TermÃ­n na opatrenie
 
 
 Status
@@ -8004,15 +8005,15 @@ Druh chyby
 
 
 Messwert Untergrenze
-Nameraná hodnota - dolná hranica
+NameranÃ¡ hodnota - dolnÃ¡ hranica
 
 
 Messwert Obergrenze
-Nameraná hodnota - horná hranica
+NameranÃ¡ hodnota - hornÃ¡ hranica
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Beschreibung
@@ -8020,31 +8021,31 @@ Popis
 
 
 Verwendungszweck
-Úèel pouitia
+ÃšÄel pouÅ¾itia
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Status
 Status
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
 Bezeichnung
-Oznaèenie
+OznaÄenie
 
 
 Sortierreihenfolge
@@ -8052,7 +8053,7 @@ Poradie triedenia
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
 Top Verfolgung?
@@ -8060,7 +8061,7 @@ Top sledovanie?
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Beschreibung
@@ -8068,7 +8069,7 @@ Popis
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Baustufe
@@ -8076,19 +8077,19 @@ Baustufe
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 Serienart
-Druh série
+Druh sÃ©rie
 
 
 Kennnummer
-Identifikaèné èíslo
+IdentifikaÄnÃ© ÄÃ­slo
 
 
 Werk
-Závod
+ZÃ¡vod
 
 
 SPJ
@@ -8096,7 +8097,7 @@ SPJ
 
 
 Zieltermin
-Cie¾ovı termín
+CieÄ¾ovÃ½ termÃ­n
 
 
 Beschreibung
@@ -8104,7 +8105,7 @@ Popis
 
 
 Bemerkung
-Poznámka
+PoznÃ¡mka
 
 
 Status
@@ -8112,19 +8113,19 @@ Status
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfdatum
-Dátum kontroly
+PrÃ¼fdatum
+DÃ¡tum kontroly
 
 
-Stichprobe Häufigkeit
-Poèetnos skúšanej vzorky
+Stichprobe HÃ¤ufigkeit
+PoÄetnosÅ¥ skÃºÅ¡anej vzorky
 
 
 Messung
@@ -8132,11 +8133,11 @@ Meranie
 
 
 Messwert Toleranz Min.
-Nameraná hodnota min. tolerancie
+NameranÃ¡ hodnota min. tolerancie
 
 
 Messwert Toleranz Max.
-Nameraná hodnota max. tolerancie
+NameranÃ¡ hodnota max. tolerancie
 
 
 Reihenfolge
@@ -8144,15 +8145,15 @@ Poradie
 
 
 Freigabedatum
-Dátum uvo¾nenia
+DÃ¡tum uvoÄ¾nenia
 
 
 Anhang
-Príloha
+PrÃ­loha
 
 
 PR-Nr.
-PR-è.
+PR-Ä.
 
 
 Modell
@@ -8160,31 +8161,31 @@ Model
 
 
 Anhang
-Príloha
+PrÃ­loha
 
 
 Anhang Link
-Príloha - link
+PrÃ­loha - link
 
 
-Gültig ab
-Platí od
+GÃ¼ltig ab
+PlatÃ­ od
 
 
-Gültig bis
-Platí do
+GÃ¼ltig bis
+PlatÃ­ do
 
 
-Prüfcluster
-Kontrolnı klaster
+PrÃ¼fcluster
+KontrolnÃ½ klaster
 
 
-Prüfliste
-Kontrolnı zoznam
+PrÃ¼fliste
+KontrolnÃ½ zoznam
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
 Reihenfolge
@@ -8192,35 +8193,35 @@ Poradie
 
 
 Fachbereich
-Odborné oddelenie
+OdbornÃ© oddelenie
 
 
-Prüfliste 01
-Kontrolnı zoznam 01
+PrÃ¼fliste 01
+KontrolnÃ½ zoznam 01
 
 
 Anz. Tickets je Tag
-Poèet tiketov za deò
+PoÄet tiketov za deÅˆ
 
 
 Anz. Tickets je Woche
-Poèet tiketov za tıdeò
+PoÄet tiketov za tÃ½Å¾deÅˆ
 
 
 Anz. Tickets je Quartal
-Poèet tiketov za kvartál
+PoÄet tiketov za kvartÃ¡l
 
 
 je Modell?
-pod¾a modelu?
+podÄ¾a modelu?
 
 
 je Linie?
-pod¾a linky?
+podÄ¾a linky?
 
 
 je Variante?
-pod¾a variantu?
+podÄ¾a variantu?
 
 
 Messung
@@ -8231,32 +8232,32 @@ Mitarbeiter
 Zamestnanec
 
 
-Hinweise zum Prüfergebnis
-Odkazy k vısledku skúšky
+Hinweise zum PrÃ¼fergebnis
+Odkazy kÂ vÃ½sledku skÃºÅ¡ky
 
 
 Ergebnis
-Vısledok
+VÃ½sledok
 
 
 Messwert
-Nameraná hodnota
+NameranÃ¡ hodnota
 
 
 Fehlermeldung
-Chybové hlásenie
+ChybovÃ© hlÃ¡senie
 
 
-Prüfschritt
-Kontrolnı krok
+PrÃ¼fschritt
+KontrolnÃ½ krok
 
 
-Prüfdatum
-Dátum kontroly
+PrÃ¼fdatum
+DÃ¡tum kontroly
 
 
 Wichtung
-Závanos
+ZÃ¡vaÅ¾nosÅ¥
 
 
 KPM
@@ -8268,15 +8269,15 @@ KPMCFS
 
 
 PrNummer
-Èíslo Pr
+ÄŒÃ­slo Pr
 
 
 und PrNummer
-a èíslo Pr
+a ÄÃ­slo Pr
 
 
 und PrNummer
-a èíslo Pr
+a ÄÃ­slo Pr
 
 
 VBV
@@ -8288,11 +8289,11 @@ Krajina
 
 
 Flagge
-Zástava
+ZÃ¡stava
 
 
 Abteilungsspezifische Informationen
-Informácie špecifické pre oddelenie
+InformÃ¡cie Å¡pecifickÃ© pre oddelenie
 
 
 Title 1
@@ -8300,7 +8301,7 @@ Title 1
 
 
 Abteilungsspezifische Informationen
-Informácie špecifické pre oddelenie
+InformÃ¡cie Å¡pecifickÃ© pre oddelenie
 
 
 Fehleransprache alt
@@ -8316,55 +8317,55 @@ Tiket:
 
 
 Dateiname
-Názov súboru
+NÃ¡zov sÃºboru
 
 
-Dokument auswählen
-Vybra dokument
-
-
-<span class="t-Login-iconValidation a-Icon icon-check"></span>
-<span class="t-Login-iconValidation a-Icon icon-check"></span>
+Dokument auswÃ¤hlen
+VybraÅ¥ dokument
 
 
 <span class="t-Login-iconValidation a-Icon icon-check"></span>
 <span class="t-Login-iconValidation a-Icon icon-check"></span>
 
 
-- bitte wählen -
-- zvo¾te, prosím -
+<span class="t-Login-iconValidation a-Icon icon-check"></span>
+<span class="t-Login-iconValidation a-Icon icon-check"></span>
 
 
-- bitte wählen -
-- zvo¾te, prosím -
+- bitte wÃ¤hlen -
+- zvoÄ¾te, prosÃ­m -
 
 
---- alle ---
---- všetky ---
-
-
---- alle ---
---- všetky ---
-
-
-- bitte auswählen -
-- vyberte, prosím -
-
-
-- bitte auswählen -
-- vyberte, prosím -
+- bitte wÃ¤hlen -
+- zvoÄ¾te, prosÃ­m -
 
 
 --- alle ---
---- všetky ---
+--- vÅ¡etky ---
 
 
 --- alle ---
---- všetky ---
+--- vÅ¡etky ---
 
 
-<a id="anhang" href="javascript:javascript:apex.confirm(htmldb_delete_message,'DELETE_ATTACHMENT');" id="delete" title="Anhang löschen" style="margin-left: 10px;color:red;font-size:20px;">x</a>
-<a id="anhang" href="javascript:javascript:apex.confirm(htmldb_delete_message,'DELETE_ATTACHMENT');" id="delete" title="Anhang löschen" style="margin-left: 10px;color:red;font-size:20px;">x</a>
+- bitte auswÃ¤hlen -
+- vyberte, prosÃ­m -
+
+
+- bitte auswÃ¤hlen -
+- vyberte, prosÃ­m -
+
+
+--- alle ---
+--- vÅ¡etky ---
+
+
+--- alle ---
+--- vÅ¡etky ---
+
+
+<a id="anhang" href="javascript:javascript:apex.confirm(htmldb_delete_message,'DELETE_ATTACHMENT');" id="delete" title="Anhang lÃ¶schen" style="margin-left: 10px;color:red;font-size:20px;">x</a>
+<a id="anhang" href="javascript:javascript:apex.confirm(htmldb_delete_message,'DELETE_ATTACHMENT');" id="delete" title="Anhang lÃ¶schen" style="margin-left: 10px;color:red;font-size:20px;">x</a>
 
 
 username
@@ -8375,12 +8376,5 @@ password
 password
 
 
-ab wann soll der Prüfschritt nicht mehr zu Tickets zugeordnet werden?
-odkedy sa kontrolnı krok u nemá priradi k tiketom?
-
-
-
-
-
-
-
+ab wann soll der PrÃ¼fschritt nicht mehr zu Tickets zugeordnet werden?
+odkedy sa kontrolnÃ½ krok uÅ¾ nemÃ¡ priradiÅ¥ k tiketom?

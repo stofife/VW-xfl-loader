@@ -9427,7 +9427,7 @@ Bitte prüfen Sie die Kennnummer, das Werk und das Sollbaujahr!</target>
 <trans-unit id="S-105-29914054838363634-200">
 <source>--- alle ---</source>
 <target>--- alle ---</target>
-</trans-unit>
+</trans-unit> 
 <trans-unit id="S-126-18224975067774013-200">
 <source>
 &lt;a id="anhang" href="javascript:javascript:apex.confirm(htmldb_delete_message,'DELETE_ATTACHMENT');" id="delete" title="Anhang löschen" style="margin-left: 10px;color:red;font-size:20px;">x&lt;/a></source>
