@@ -1,0 +1,8386 @@
+
+
+Nutzerdaten
+Dáta pouívate¾a
+
+
+Übersicht Modellpflege
+Preh¾ad Modellpflege
+
+
+Modellpflege Details
+Modellpflege - detaily
+
+
+Nutzerdaten - Detail
+Dáta pouívate¾a - detaily
+
+
+Werkszuordnung
+Priradenie závodu
+
+
+Einbauproben
+Skúšky zabudovania
+
+
+Einbauprobe bearbeiten
+Skúška zabudovania - spracovanie
+
+
+Fahrzeug-Vormerkung
+Vozidlo - zápis
+
+
+Fachbereiche - Übersicht
+Odborné oddelenia - preh¾ad
+
+
+Fachbereiche - Details
+   Odborné oddelenia - detaily
+
+
+Ticket abschliessen
+Ukonèi tiket
+
+
+Ticket zurücksetzen
+Obnovi tiket
+
+
+Abbrechen
+Preruší
+
+
+Löschen 
+Vymaza
+
+
+Speichern 
+Uloi
+
+
+Erstellen
+Vytvori
+
+
+Filter "Analyse"
+Filter "Analıza"
+
+
+Cancel
+Zruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Create
+Vytvori
+
+
+Create
+Vytvori
+
+
+Cancel
+Zruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Create
+Vytvori
+
+
+Create
+Vytvori
+
+
+Aktualisieren
+Aktualizova
+
+
+Speichern
+Uloi
+
+
+Filter "Vorserie"
+Filter "predséria"
+
+
+Filter "Serie"
+Filter „séria“
+
+
+Filter "alles"
+Filter "všetko"
+
+
+Prüfliste final freigeben
+Finálne schválenie kontrolného zoznamu
+
+
+Erzeuge fehlende Berichte
+Vytvor chıbajúce reporty
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Hochladen
+Nahra
+
+
+Hochladen
+Nahra
+
+
+Schließen & Aktualisieren
+Zatvori a aktualizova
+
+
+Hochladen
+Nahra
+
+
+Hochladen
+Nahra
+
+
+Kopieren
+Kopírova
+
+
+Create
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Abbrechen
+Preruši
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Fahrzeug über FIS suchen
+H¾ada vozidlo pomocou FIS
+
+
+Erstellen
+Vytvori
+
+
+Erstellen
+Vytvori
+
+
+Filter zurücksetzen
+Obnovi filter
+
+
+Cancel
+Zruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Create
+Vytvori
+
+
+Create
+Vytvori
+
+
+Erstellen
+Vytvori
+
+
+Zurück
+Spä
+
+
+Speichern
+Uloi
+
+
+Cancel
+Zruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Create
+Vytvori
+
+
+Anlegen
+Zaloi
+
+
+Zurück
+Spä
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Schließen
+Zatvori
+
+
+Löschen
+Vymaza
+
+
+Berechnen
+Vypoèíta
+
+
+Berechnen
+Vypoèíta
+
+
+Abbrechen
+Preruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Speichern
+Uloi
+
+
+Zurück
+Spä
+
+
+Löschen
+Vymaza
+
+
+Speichern
+Uloi
+
+
+Anlegen
+Zaloi
+
+
+Filter zurücksetzen
+Obnovi filter
+
+
+Schließen & Aktualisieren
+Zatvori a aktualizova
+
+
+Filter zurücksetzen
+Obnovi filter
+
+
+Filter zurücksetzen
+Obnovi filter
+
+
+Cancel
+Zruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Create
+Vytvori
+
+
+Create
+Vytvori
+
+
+Abbrechen
+Preruši
+
+
+Kopieren & Schließen
+Kopírova a zatvori
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Abbrechen
+Preruši
+
+
+Filter anwenden
+Poui filter
+
+
+Berechnen
+Vypoèíta
+
+
+Prüfliste zurücksetzen
+Obnovi Prüflistiny
+
+
+Abbrechen
+Preruši
+
+
+Löschen
+Vymaza
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Speichern und Schließen
+Uloi a zatvori
+
+
+Abbrechen
+Preruši
+
+
+Abbrechen
+Preruši
+
+
+Hochladen
+Nahra
+
+
+Abbrechen
+Preruši
+
+
+Schließen & Aktualisieren
+Zatvori a aktualizova
+
+
+Hochladen
+Nahra
+
+
+Cancel
+Zruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Create
+Vytvori
+
+
+Create
+Vytvori
+
+
+WS abfragen
+Dotaz na WS
+
+
+Save
+Uloi
+
+
+Filter anwenden
+Poui filter
+
+
+Filter zurücksetzen
+Obnovi filter
+
+
+Drucken
+Tlaèi
+
+
+Veröffentlichen
+Zverejni
+
+
+Save
+Uloi
+
+
+Drucken PDF
+Tlaèi PDF
+
+
+Fehlerplan drucken
+Tlaèi plán chıb
+
+
+Abbrechen
+Preruši
+
+
+Speichern
+Uloi
+
+
+Erstellen
+Vytvori
+
+
+Abbrechen
+Preruši
+
+
+Löschen
+Vymaza
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Fahrzeug anzeigen
+Zobrazi vozidlo
+
+
+Anmelden
+Prihlási
+
+
+Erstellen
+Vytvori
+
+
+Abbrechen
+Preruši
+
+
+Löschen
+Vymaza
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Speichern und Schließen
+Uloi a zatvori
+
+
+Speichern und Schließen
+Uloi a zatvori
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Abbrechen
+Preruši
+
+
+Speichern
+Uloi
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Serienticket erstellen
+Vytvori sériovı tiket
+
+
+Fahrzeug anzeigen
+Zobrazi vozidlo
+
+
+Nutzer - Rollen
+Uívate¾ské role
+
+
+Vorserienticket erstellen
+Vytvori predsériovı tiket
+
+
+Vorserienticket erstellen
+Vytvori predsériovı tiket
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+?Vytvori
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Schließen
+Zatvori
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Nutzer - Rollen
+Uívate¾ské role
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Erstellen
+Vytvori
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Abbrechen
+Preruši
+
+
+Serienticket erstellen
+Vytvori sériovı tiket
+
+
+Ticketübersicht
+Preh¾ad tiketov
+
+
+Ticket erstellen
+Vytvori tiket
+
+
+Abbrechen
+Preruši
+
+
+Abbrechen
+Preruši
+
+
+Prüfergebnisse drucken
+Vytlaèi vısledky kontroly
+
+
+Prüflisten zuordnen
+Priradi kontrolné zoznamy
+
+
+Ticket freigeben
+Uvo¾ni tiket
+
+
+Fahrzeug anzeigen
+Zobrazi vozidlo
+
+
+Ticket erstellen
+Vytvori tiket
+
+
+Serienticket erstellen
+Vytvori sériovı tiket
+
+
+Vorserienticket erstellen
+Vytvori predsériovı tiket
+
+
+Serienticket erstellen
+Vytvori sériovı tiket
+
+
+Vorserienticket erstellen
+Vytvori predsériovı tiket
+
+
+Serienticket erstellen
+Vytvori sériovı tiket
+
+
+Vorserienticket erstellen
+Vytvori predsériovı tiket
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Löschen
+Vymaza
+
+
+Speichern & Schließen
+Uloi a zatvori
+
+
+Speichern & Schließen
+Uloi a zatvori
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Neuer Eintrag
+Novı zápis
+
+
+Neuer Eintrag
+Novı zápis
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Top Woche zurücksetzen
+Obnovi top tıdeò
+
+
+Cancel
+Zruši
+
+
+Delete
+Vymaza
+
+
+Apply Changes
+Aplikova zmeny
+
+
+Create
+Vytvori
+
+
+Create
+Vytvori
+
+
+Prüfliste freigeben
+Uvo¾ni Prüflistiny
+
+
+Zusammenführen
+Spoji
+
+
+Abbrechen
+Preruši
+
+
+Abbrechen
+Preruši
+
+
+Speichern
+Uloi
+
+
+Abbrechen
+Preruši
+
+
+Dokument hochladen
+Nahra dokument
+
+
+Speichern
+Uloi
+
+
+Speichern
+Uloi
+
+
+Löschen
+Vymaza
+
+
+Abbrechen
+Preruši
+
+
+Dieser Prüfschritt kann nicht gelöscht werden!
+Tento kontrolnı krok nemono zmaza!
+
+
+Die Toleranzgrenze MIN ist größer als die Toleranzgrenze MAX.
+Hranica tolerancie MIN je väèšia ako hranica tolerancie MAX.
+
+
+VBV muss einen Wert haben.
+VBV musí ma zadanú hodnotu.
+
+
+Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
+
+
+Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
+
+
+Dateiname muss einen Wert haben.
+Musí by zadanı názov súboru.
+
+
+Der Dateiname existiert bereits!
+Názov súboru u existuje!
+
+
+Bitte wählen Sie eine Datei aus!
+Vyberte súbor!
+
+
+Der Dateiname existiert bereits!
+Názov súboru u existuje!
+
+
+Der Dateiname existiert bereits!
+Názov súboru u existuje!
+
+
+Bitte wählen Sie eine Datei aus!
+Vyberte súbor!
+
+
+Bitte wählen Sie eine Datei aus!
+Vyberte súbor!
+
+
+Bitte geben Sie einen Dateinamen an!
+Zadajte názov súboru!
+
+
+Bitte geben Sie einen Dateinamen an!
+Zadajte názov súboru!
+
+
+Löschen nicht möglich. Diese Fehleransprache wird noch verwendet.
+Vymazanie nie je moné. Tento prejav chyby sa ešte pouíva.
+
+
+Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
+
+
+Die Fehleransprache existiert bereits im Ticket für diesen Prüfschritt!
+Prejav chyby u existuje v tikete pre tento testovací krok!
+
+
+Die Fehleransprache existiert bereits zu diesem Prüfschritt! Wählen Sie diese unter Fehleransprache aus!
+Prejav chyby u existuje pre tento testovací krok! Zvo¾te ho v prejavoch chıb!
+
+
+Messwert Toleranz Maximum muss größer oder gleich sein als Toleranz Minimum.
+Nameraná hodnota maximálnej tolerancie musí by väèšia alebo rovnaká ako mimimálna tolerancia.
+
+
+Bitte geben Sie einen gültigen Dateinamen ein! Gültige Zeichen sind alle Groß- und Kleinbuchstaben, Zahlen sowie Unterstrich und Bindestrich.
+Zadajte platnı názov súboru! Platné znaky sú všetky ve¾ké a malé písmená, èíslice, podèiarkovník a pomlèka.
+
+
+Dateiname muss einen Wert haben.
+Musí by zadanı názov súboru.
+
+
+Der Dateiname existiert bereits!
+Názov súboru u existuje!
+
+
+Bitte wählen Sie eine Datei aus!
+Vyberte súbor!
+
+
+Es konnten keine PR-Nummern ermittelt werden. Bitte prüfen Sie die Kennnummer, das Werk und das Sollbaujahr!
+Neboli zistené èísla PR. Skontrolujte identifikaèné èíslo, závod a cie¾ovı rok vıroby!
+
+
+Fehler beim Ändern des Ticketstatus auf "abgeschlossen"!
+Chyba pri zmene stavú tiketu na "ukonèenı"!
+
+
+Fehler beim Ändern des Ticketstatus!
+Chyba pri zmene stavu tiketu!
+
+
+Fehler beim Setzen der Ergebnisse auf 'io'!
+Chyba pri zadávaní vısledkov ako 'io'!
+
+
+Fehler beim Auslesen der Rollen: #SQLERRM#
+Chyba pri èítaní rolí: #SQLERRM#
+
+
+Fehler beim Speichern #SQLERRM#
+Chyba pri ukladaní#SQLERRM#
+
+
+Fehler beim Löschen des Anhanges.
+Chyba pri vymazaní prílohy.
+
+
+Fehler beim Speichern #SQLERRM#
+Chyba pri ukladaní#SQLERRM#
+
+
+Fehler beim Löschen des Anhanges.
+Chyba pri vymazaní prílohy.
+
+
+No
+Nie
+
+Fehler beim Speichern der Fachbereichs-Zuordnungen!
+Chyba pri ukladaní priradení odbornım oddeleniam!
+
+
+Fehler beim Speichern der Nutzerdaten!
+Chyba pri ukladaní uívate¾skıch dát!
+
+
+Fehler beim Einfügen der Fehleransprache!
+Chyba pri zadávaní prejavu chyby!
+
+
+Fehler beim Löschen der Fehleransprache!
+Chyba pri vymazaní prejavu chyby!
+
+
+Fehler beim Speichern der Prüfschritte!
+Chyba pri ukladaní skúšobnıch krokov!
+
+
+Fehler beim Löschen des Prüfschrittes!
+Chyba pri vymazaní kontrolného kroku!
+
+
+Fehler beim Speichern #SQLERRM#
+Chyba pri ukladaní#SQLERRM#
+
+
+Fehler beim Löschen des Anhanges.
+Chyba pri vymazaní prílohy.
+
+
+Fehler beim Speichern der Fachbereiche!
+Chyba pri ukladaní odbornıch oddelení!
+
+
+Aktion nicht erfolgreich! #SQLERRM#
+Akcia neúspešná! #SQLERRM#
+
+
+Fehler beim Ändern des Ticketstatus!
+Chyba pri zmene stavu tiketu!
+
+
+Fehler beim Speichern! #SQLERRM#
+Chyba pri ukladaní! #SQLERRM#
+
+
+Fehler beim Speichern der Prüfergebnisse! #SQLERRM#
+Chyba pri ukladaní vısledkov kontroly! #SQLERRM#
+
+
+Fehler beim Zusammenführen!
+Chyba pri spájaní!
+	
+
+Fehler beim Speichern der Prüflisten! #SQLERRM#
+Chyba pri ukladaní skúšobnıch zoznamov! #SQLERRM#
+
+
+Status des Tickets wurde geändert!
+Status tiketu sa zmenil!
+
+
+Status des Tickets wurde geändert!
+Status tiketu sa zmenil!
+
+
+Ergebnisse auf 'io' gesetzt!
+Vısledky nastavené na 'io'!
+
+
+Rollen wurden ausgelesen.
+Odèítali sa role.
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Datei erfolgreich gespeichert!
+Súbor bol uspešne uloenı!
+
+
+Anhang wurde gelöscht.
+Príloha bola zmazaná
+
+
+Datei erfolgreich gespeichert!
+Súbor bol uspešne uloenı!
+
+
+Anhang wurde gelöscht.
+Príloha bola zmazaná
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+OKI
+OKI
+
+
+Nutzerdaten erfolgreich gespeichert!
+Uívate¾ské dáta boli úspešne uloené!
+
+
+Fehleransprache eingefügt!
+Prejav chyby doplnenı!
+
+
+Fehleransprache Úspešne vymazané!
+Prejav chyby úspešne zmazanı!
+
+
+Prüfschritt(e) wurde(n) erfolgreich gespeichert!
+Kontrolnı(é) krok(y) bol(i) úspešne uloenı(é)!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Prüfschritt wurde erfolgreich gelöscht!
+Kontrolnı krok bol úspešne vymazanı!
+
+
+Datei erfolgreich gespeichert!
+Súbor bol uspešne uloenı!
+
+
+Anhang wurde gelöscht.
+Príloha bola zmazaná
+
+
+Änderungen wurden veröffentlicht!
+Zmeny boli zverejnené!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Fachbereiche wurden erfolgreich gespeichert!
+Odborné oddelenia boli úspešne uloené!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Status des Tickets wurde geändert!
+Status tiketu sa zmenil!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Erfolgreich gelöscht!
+Úspešne vymazané!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Aktion erfolgreich!
+Akcia úspešná!
+
+
+Erfolgreich zusammengeführt!
+Úspešne spojené!
+
+
+Prüflisten wurden erfolgreich gespeichert!
+Kontrolné zoznamy boli úspešne uloené!
+
+
+Prüfcluster Detail
+Detail Prüfclustra
+
+
+Zugeordnete Prüflisten
+Priradené kontrolné zoznamy
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Export Fehleransprachen
+Export prejavov chıb
+
+
+Datenfilter
+Dátovı filter
+
+
+Auftraggeber Details
+Detaily objednávate¾a
+
+
+Report 1
+Report 1
+
+
+VBV Details
+Detaily VBV 
+
+
+Katalog VBV
+Katalóg VBV
+
+
+Prüflistenzuordnung
+Priradenie Prüflistiny
+
+
+Anhänge
+Prílohy
+
+
+DMS Log
+Denník DMS
+
+
+Hinweis Fahrzeug
+Odkaz na vozidlo
+
+
+Hinweis Modell
+Odkaz na model
+
+
+Hinweis Ticket Bearbeitung
+Odkaz na spracovanie tiketu
+
+
+Prüf- und Analysezentrum
+Centrum skúšok a analız
+
+
+Style ui-dialog Page 0
+Style ui-dialog Page 0
+
+
+Prüfcluster Ergebnisse 'io' setzen
+Vısledky Prüfclustra nastavi na 'io'
+
+
+Produktreferenz
+Produktová referencia
+
+
+Produktreferenzen
+Produktové referencie
+
+
+Nutzereinstellungen
+Uívate¾ské nastavenia
+
+
+Modelle
+Modely
+
+
+Produktreferenzen
+Produktové referencie
+
+
+Anhänge zum Prüfschritt
+Prílohy kuskúšobnémukroku
+
+
+Datei hochladen
+Nahra súbor
+
+
+Hinweis
+Poznámka
+
+
+Laufzeitparameter
+Parameter èasu trvania
+
+
+Buttons
+Tlaèidlá
+
+
+Laufzeitparameter
+Parameter èasu trvania
+
+
+Umlaufliste
+Zoznam obehu
+
+
+New
+Nové
+
+
+Vertraulichkeitshinweis
+Upozornenie na dôvernos
+
+
+Zugeordnete Prüflisten
+Priradené kontrolné zoznamy
+
+
+Werksdetails
+Detaily závodu
+
+
+Report 1
+Report 1
+
+
+Additional User Information
+Dodatoèné informácie o uívate¾ovi
+
+
+Report Teilestand
+Report stavu dielov
+
+
+Filter
+Filter
+
+
+Report Region
+Report za región
+
+
+Hidden_Region
+Hidden_Region
+
+
+Nutzer - Detail
+Uívate¾ - detail
+
+
+Buttons
+Tlaèidlá
+
+
+Modelle BST
+Modely BST
+
+
+Geprüfte Fahrzeuge
+Odksúšané vozidlá 
+
+
+Dashboard Fahrzeugsteuerung
+Dashboard - riadenie vozidla 
+
+
+Filter
+Filter
+
+
+REP_ANALYSEN
+REP_ANALYSEN
+
+
+REP_ANALYSE_DATEN
+REP_ANALYSE_DATEN
+
+
+Verursacher Details
+Spôsobite¾ - detaily
+
+
+Report 1
+Report 1
+
+
+vro_rep_ebp_matrix
+vro_rep_ebp_matrix
+
+
+vro_rep_ebp_daten
+vro_rep_ebp_daten
+
+
+Report Auswertung geprüfter Fahrzeuge
+Report Vyhodnotenie kontrolovanıch vozidiel
+
+
+Fehleransprachen erfassen
+Vytvori prejavy chıb
+
+
+Buttons
+Tlaèidlá
+
+
+Dialog_Footer
+Dialog_Footer
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Auswertung geprüfter Fahrzeuge
+Vyhodnotenie kontrolovanıch vozidiel
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Übersicht Analysen
+Preh¾ad analız
+
+
+Auswertung Generationsstände / Teilenummmern
+Vyhodnotenie generaènıch stavov / èísla dielov
+
+
+Übersicht Einbauproben
+Preh¾ad skúšok zabudovania
+
+
+Dateneinschränkungen Einbauproben
+Obmedzenia dát pre skúšky zabudovania
+
+
+Modelljahre
+Modelové roky
+
+
+Fehleransprachen löschen
+Vymaza prejavy chyby
+
+
+Modellpflege Details
+Modellpflege
+
+Report 1
+Report 1
+
+
+New
+Nové
+
+
+Auswertung Analysen
+Vyhodnotenie analız
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Modell kopieren
+Kopírova model
+
+
+Buttons
+Tlaèidlá
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Buttons
+Tlaèidlá
+
+
+Hidden Elemente
+Skryté elementy
+
+
+Footer
+Footer
+
+
+Prüfschrittüberblick
+Preh¾ad skúšobnıch krokov
+
+
+Bezeichnung bearbeiten
+Upravi oznaèenie
+
+
+Fahrzeug-Vormerkung
+Vozidlo - zápis
+
+
+Fachbereiche - Details
+Odborné oddelenia - detaily
+
+
+Report 1
+Report 1
+
+
+Anhänge zum Prüfergebnis
+Prílohy k vısledku kontroly
+
+
+Datei hochladen
+Nahra súbor
+
+
+Fahrzeug-Umlauf
+Obeh vozidla
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Report Fahrzeugumlauf
+Report obehu vozidla
+
+
+Prüflisten je Modell
+Kontrolné zoznamy pod¾a modelu
+
+
+Report_TICKETS_JE_MODELL_UND_PRUEFLISTE
+Report_TIKETY_POD¼A_MODELU_A_KONTROLNÉHO_ZOZNAMU
+
+
+FIS_Response
+FIS_Response
+
+
+Vorn links
+Vpredu v¾avo
+
+
+Hinten links
+Vzadu v¾avo
+
+
+Button Bar
+Button Bar
+
+
+Werke
+Závody
+
+
+Mitarbeiterzuordnungen
+Priradenie zamestnancom
+
+
+Vorn rechts
+Vpredu vpravo
+
+
+Hinten rechts
+Vzadu vpravo
+
+
+Fehlende Reports
+Chıbajúce reporty
+
+
+Allgemeine Informationen
+Všeobecné informácie
+
+
+Abteilungsspezifische Informationen
+Informácie špecifické pre oddelenia
+
+
+TITLE1
+TITLE1
+
+
+Fahrzeugumlauf PAZ H20
+Obeh vozidla PAZ H20
+
+
+Button Bar
+Button Bar
+
+
+Ländergruppen
+Skupiny krajín
+
+
+Länderzuordnung
+Priradenie krajín
+
+
+Nutzer - Fachbereiche
+Uívatelia – odborné oddelenia
+
+
+Nutzerdaten
+Uívate¾ské dáta
+
+
+Buttons
+Tlaèidlá
+
+
+Verursacher_bearbeiten
+Spracova_spôsobite¾a
+
+
+Mittelwertbildung
+Vıpoèet priemeru
+
+
+Buttons
+Tlaèidlá
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Fahrzeugverwendung
+Pouitie vozidla
+
+
+Linien Details
+Linky - detaily
+
+
+Linien
+Linky
+
+
+Variante Details
+Variant - detaily
+
+
+Varianten
+Varianty
+
+
+Baustufe Details
+Baustufe  - detaily
+
+
+Baustufen
+Baustufen
+
+
+Modell Details
+Model - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Modelle
+Modely
+
+
+Form on V_FEHLERANSPRACHEN
+Form on V_FEHLERANSPRACHEN
+
+
+Buttons
+Tlaèidlá
+
+
+Fehleransprachen
+Prejavy chyby
+
+
+Prüfschritte
+Kontrolné kroky
+
+
+Buttons
+Tlaèidlá
+
+
+Prüfschritte
+Kontrolné kroky
+
+
+Tickets
+Tikety
+
+
+Ticket
+Tiket
+
+
+Session Context
+Session Context
+
+
+Tickets
+Tikety
+
+
+Ticket Details
+Tiket - detaily
+
+
+Fachbereiche zum Ticket zuordnen
+Priradi tiketu odborné oddelenia
+
+
+Aktionen
+Akcie
+
+
+Allgemeine Informationen
+Všeobecné informácie
+
+
+Buttons
+Tlaèidlá
+
+
+Form on V_MITARBEITER
+Form on V_MITARBEITER
+
+
+Buttons
+Tlaèidlá
+
+
+Nutzer
+Uívate¾
+
+
+Form on V_ROLLEN
+Form on V_ROLLEN
+
+
+Buttons
+Tlaèidlá
+
+
+Rollen
+Role
+
+
+Fahrzeug Details
+Vozidlo - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Fahrzeuge
+Vozidlá
+
+
+Fachbereiche (nur Anzeige)
+Odborné oddelenia (iba zobrazenie)
+
+
+Systemprotokolle
+Systémové protokoly
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Top5-Fehler der letzten vier Monate
+Top 5 chıb za ostatné štyri mesiace
+
+
+Top5-Fehler der letzten vier Wochen
+Top 5 chıb za ostatné štyri tıdne
+
+
+Konfiguration zur automatischen Erstellung von Tickets für Serienfahrzeuge
+Konfigurácia na automatické vytváranie tiketov pre sériové vozidlá
+
+
+Masterliste
+Master zoznam
+
+
+Entwicklung - Tag
+Vıvoj - deò
+
+
+Messdaten Details
+Meracie údaje - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Messdaten
+Namerané údaje
+
+
+Häufigkeit Fehleransprachen
+Poèetnos prejavov chyby
+
+
+Form on V_UMLAUFLISTE
+Form on V_UMLAUFLISTE
+
+
+Buttons
+Tlaèidlá
+
+
+Prüfumläufe / Umlaufliste
+Kontrolné obehy / Obehovı zoznam
+
+
+Prüfliste Details
+Kontrolnı zoznam - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Prüfcluster Detail
+Kontrolnı klaster - detail
+
+
+Buttons
+Tlaèidlá
+
+
+Masterliste Details
+Master zoznam - detaily
+
+
+Fahrzeuge zum Prüfschritt
+Vozidlá ku skúšobnému kroku
+
+
+Top5-Fehler der akuellen Woche
+Top 5 chıb aktuálneho tıdòa
+
+
+Entwicklung - Woche
+Vıvoj - tıdeò
+
+
+Entwicklung - Monat
+Vıvoj - mesiac
+
+
+Prüflisten
+Kontrolné zoznamy
+
+
+Modelle und PR-Nummern
+Modely a èísla PR
+
+
+Prüfschritt Details
+Kontrolnı krok - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Prüfergebnisse
+Vısledky kontroly
+
+
+Masterliste Details
+Master zoznam - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Uebersetzungen
+Preklady
+
+
+Fehlerauswertung Top-Punkte Vorserie
+Vychodnotenie chıb - Top body predsérie
+
+
+Konfiguration zur autom. Erstellung von Tickets für Serie Details
+Konfigurácia na autom. vytvorenie tiketov pre sériu - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Jobverwaltung
+Správa jobov
+
+
+Prüfergebnis Details
+Vısledok kontroly - detaily
+
+
+Buttons
+Tlaèidlá
+
+
+Nie verwendete Prüfschritte
+Nikdy nepouité kontrolné kroky
+
+
+Länderkennung - Details
+Kód krajiny - detaily
+
+
+Report 1
+Report 1
+
+
+TITLE2
+TITLE2
+
+
+Ticketerfassung Vorserie
+Evidencia tiketov predsérie 
+
+
+Abteilungsspezifische Informationen
+Informácie špecifické pre oddelenie
+
+
+Fahrzeugverwendung Details
+Pouitie vozidla - detaily 
+
+
+Dashboard
+Dashboard
+
+
+Offene Tickets
+Otvorené tikety
+
+
+Offene Tickets
+Otvorené tikety
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Aktionen
+Akcie
+
+
+Ticketerfassung Serie
+Evidencia tiketov - séria
+
+
+Aktionen
+Akcie
+
+
+Aktionen
+Akcie
+
+
+Aktionen
+Akcie
+
+
+Ticket &P2110_TICKET_NR.
+Tiket &P2110_È. TIKETU
+
+
+Fehleransprachen zusammenführen
+Spoji prejavy chıb
+
+
+Buttons
+Tlaèidlá
+
+
+Prüflisten
+Kontrolné zoznamy
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Prüfdokumente
+Kontrolné dokumenty
+
+
+Prüfdokumente
+Kontrolné dokumenty
+
+
+Buttons
+Tlaèidlá
+
+
+Nutzer - Rollen
+Uívate¾- role
+
+
+Form on V_MITARBEITER_ROLLEN
+Form on V_ZAMESTNANECKÉ ROLE
+
+
+Buttons
+Tlaèidlá
+
+
+Offene Tickets meines Fachbereiches
+Otvorené tikety môjho odborného oddelenia
+
+
+Offene Tickets meines Fachbereiches
+Otvorené tikety môjho odborného oddelenia
+
+
+Ticket
+Tiket
+
+
+Prüfliste zum Ticket zuordnen
+Priradi kontrolnı zoznam tiketu
+
+
+Form on V_FEHLERANSPRACHEN
+Form on V_PREJAVY CHİB
+
+
+Buttons
+Tlaèidlá
+
+
+Form on V_MITARBEITER_FACHBEREICHE
+Form on V_ZAMESTNANCI_ODBORNÉ_ODDELENIA
+
+
+Buttons
+Tlaèidlá
+
+
+Abgeschlossene Tickets
+Ukonèené tikety
+
+
+Abgeschlossene Tickets
+Ukonèené tikety
+
+
+Mittelwertbildung
+Vıpoèet priemernej hodnoty
+
+
+Top Woche
+Top tıdeò
+
+
+Top Verfolgung
+Top sledovanie
+
+
+aggregierte Werte
+agregované hodnoty
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Excel Export
+Export do Excelu
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Dateneinschränkungen
+Obmedzenia dát
+
+
+Anhänge zum Prüfergebnis
+Prílohy k vısledku kontroly
+
+
+Anhänge
+Prílohy
+
+
+Datei hochladen
+Nahra súbor
+
+
+TITLE1
+TITLE1
+
+
+TITLE2
+TITLE2
+
+
+Fehleransprachen Export
+Export prejavov chıb
+
+
+Auftraggeber
+Objednávate¾
+
+
+VBV
+VBV
+
+
+DMS Logging
+DMS Logging
+
+
+Nutzerpräferenzen
+Uívate¾ské preferencie
+
+
+Korrektur Reports
+Reporty korektúr
+
+
+Nutzerdaten
+Uívate¾ské dáta
+
+
+Steuerung
+Riadenie
+
+
+Verursacher
+Spôsobite¾
+
+
+Auswertung Analysen
+Vyhodnotenie analız
+
+
+Auswertung Scheinwerfer
+Vyhodnotenie - svetlomety
+
+
+Einbauproben
+Skúšky zabudovania
+
+
+Auswertung Einbauproben
+Vyhodnotenie skúšok zabudovania
+
+
+Auswertung geprüfter Fahrzeuge
+Vyhodnotenie kontrolovanıch vozidiel
+
+
+Modelljahre / SPJ
+Modelové roky / SPJ
+
+
+Einsatzdatum MP
+Dátum nasadenia MP
+
+
+Systemeinstellungen
+Nastavenia systému
+
+
+Sprachauswahl
+Vo¾ba jazyka 
+
+
+Deutsch
+Nemèina
+
+
+Übersicht Prüfschrittkatalog
+Preh¾ad katalógu skúšobnıch krokov
+
+
+Fahrzeug-Vormerkungen
+Vozidlo - zápis
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Serien-/Vorserienbericht
+Správa o sérii/predsérii
+
+
+Spezifische Auswertungen
+Špecifické vyhodnotenia
+
+
+Übergreifende Auswertungen
+Komplexné hodnotenia 
+
+
+Auswertung Komfortkräfte
+Vyhodnotenie komfortnıch síl
+
+
+Umlauf H20
+Obeh H20
+
+
+Werkszuordnung
+Priradenie závodu
+
+
+Datenschutz
+Ochrana osobnıch údajov
+
+
+Dashboard
+Dashboard
+
+
+Typ-Prüf-Länder
+Krajiny typovej skúšky
+
+
+Abmelden
+Odhlásenie
+
+
+Dashboard
+Dashboard
+
+
+Administration
+Administrácia
+
+
+Stammdaten
+Kmeòové údaje
+
+
+Benutzerverwaltung
+Správa uívate¾ov
+
+
+System
+Systém
+
+
+Tickets
+Tikety
+
+
+Auswertungen
+Vyhodnotenia
+
+
+Hilfe
+Pomoc
+
+
+Datenschutzvereinbarung
+Dohoda o ochrane osobnıch údajov
+
+
+Gesamtbericht
+Súhrnná správa 
+
+
+Ticketübersicht
+Preh¾ad tiketov
+
+
+Ticketerfassung
+Evidencia tiketov
+
+
+Vorserie
+Predséria
+
+
+Serie
+Séria
+
+
+Rollen
+Role
+
+
+Log-Files
+Log-Files
+
+
+Fahrzeugverwendungen
+Pouitia vozidla
+
+
+Linien
+Linky
+
+
+Varianten
+Varianty
+
+
+Baustufen
+Baustufen
+
+
+Modelle
+Modely
+
+
+Masterliste
+Master zoznam
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Fehleransprachen
+Prejavy chıb
+
+
+Jobverwaltung
+Správa jobov
+
+
+Konfiguration Serientickets
+Konfigurácia sériovıch tiketov
+
+
+Produktreferenzen (PR-Nummern)
+Produktové referencie (èísla PR)
+
+
+Laufzeit-Parameter
+Parametre trvania
+
+
+Prüfschrittkatalog
+Katalóg skúšobnıch krokov
+
+
+Alle Tickets
+Všetky tikety
+
+
+Offene Tickets
+Otvorené tikety
+
+
+Offene Tickets meines Fachbereichs
+Otvorené tikety môjho odborného oddelenia
+
+
+Abgeschlossene Tickets
+Ukonèené tikety
+
+
+&APP_USER.
+&APP_USER.
+
+
+Fahrzeuge
+Vozidlá
+
+
+Messdaten
+Namerané údaje
+
+
+Umlaufliste
+Umlaufliste
+
+
+Prüflisten
+Kontrolné zoznamy
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Häufigkeit Fehleransprachen
+Poèetnos prejavov chıb
+
+
+Fahrzeugbezogene Kataloge
+Katalógy vzahujúce sa na vozidlá
+
+
+Prüfbezogene Kataloge
+Katalógy vzahujúce sa na kontroly
+
+
+Sprache
+Jazyk
+
+
+Deutsch
+Nemèina
+
+
+Englisch
+Angliètina
+
+
+Spanisch
+Španielèina
+
+
+Slowakisch
+Slovenèina
+
+
+Mehrsprachigkeitspflege
+Viacjazièná starostlivos
+
+
+nie verwendete Prüfschritte
+nikdy nepouité kontrolné kroky
+
+
+Länderkennungen
+Kódy krajín
+
+
+Keine Daten vorhanden!
+Dáta nie sú k dispozícii!
+
+
+Keine Anhänge.
+iadne prílohy.
+
+
+Search Dialog
+Search Dialog
+
+
+<div class="t-PopupLOV-actions t-Form--large">
+<div class="t-PopupLOV-actions t-Form--large">
+
+
+</div>
+</div>
+
+
+<div class="t-PopupLOV-links">
+<div class="t-PopupLOV-links">
+
+
+</div>
+</div>
+
+
+Search
+Search
+
+
+Close
+Close
+
+
+Next &gt;
+Next &gt;
+
+
+&lt; Previous
+&lt; Previous
+
+
+Wollen Sie wirklich löschen?
+Chcete naozaj vymaza?
+
+
+
+Hardware
+Hardvér
+
+
+Software
+Softvér
+
+
+Serie
+Séria
+
+
+Vorserie
+Predséria
+
+
+kein Fehler
+bez chyby
+
+
+erforderlich
+potrebné
+
+
+optional
+volite¾ne
+
+
+A
+A
+
+
+B
+B
+
+
+C
+C
+
+
+n.i.O.
+n.i.O.
+
+
+i.O.
+i.O.
+
+
+Dateiname
+Názov súboru
+
+
+druckbar?
+mono vytlaèi?
+
+
+Beschreibung
+Popis
+
+
+Bildvorschau
+Obrazovı preh¾ad
+
+
+Fehleransprachen
+Prejavy chıb
+
+
+Dateiname
+Názov súboru
+
+
+druckbar?
+mono vytlaèi?
+
+
+Beschreibung
+Popis
+
+
+Bildvorschau
+Obrazovı preh¾ad
+
+
+<a style="color:red;font-size:15px;" href="javascript:loescheAnhang(#PDOK_ID#)">#LOESCHEN#</a>
+<a style="color:red;font-size:15px;" href="javascript:loescheAnhang(#PDOK_ID#)">#LOESCHEN#</a>
+
+
+<a #TARGET# href="#LINK#">Download</<a>
+<a #TARGET# href="#LINK#">Download</<a>
+
+
+<a href="javascript:apex.confirm('Wollen Sie wirklich löschen!', #DEL#" title="Fehleransprache löschen"><span style="color:red; font-size: 20px; ">x</span></a>
+<a href="javascript:apex.confirm('Wollen Sie wirklich löschen!', #DEL#" title="Fehleransprache löschen"><span style="color:red; font-size: 20px; ">x</span></a>
+
+
+<a style="color:red;font-size:15px;" href="javascript:loescheAnhang(#PDOK_ID#)" >#LOESCHEN#</a>
+<a style="color:red;font-size:15px;" href="javascript:loescheAnhang(#PDOK_ID#)" >#LOESCHEN#</a>
+
+
+<div class="t-PopupLOV-pagination">Row(s) #FIRST_ROW# - #LAST_ROW#</div>
+<div class="t-PopupLOV-pagination">Row(s) #FIRST_ROW# - #LAST_ROW#</div>
+
+
+Fehler beim Auslesen der URL zum Drucken der Reports.
+Chyba pri èítaní adresy URL na tlaè reportu.
+
+
+Export Fehleransprachen
+Export prejavov chıb
+
+
+Report 1
+Report 1
+
+
+Katalog VBV
+Katalóg VBV
+
+
+Prüflistenzuordnung
+Priradenie Prüflistiny
+
+
+DMS Log
+DMS Log
+
+
+Zugeordnete Prüflisten
+Priradené kontrolné zoznamy
+
+
+Report 1
+Report 1
+
+
+Report Teilestand
+Report stavu dielov
+
+
+Report Region
+Report za región
+
+
+Modelle BST
+Modely BST
+
+
+Geprüfte Fahrzeuge
+Kontrolované vozidlá
+
+
+Dashboard Fahrzeugsteuerung
+Dashboard - riadenie vozidla 
+
+
+REP_ANALYSEN
+REP_ANALİZY
+
+
+REP_ANALYSE_DATEN
+REP_ANALİZY_DÁTA
+
+
+Report 1
+Report 1
+
+
+vro_rep_ebp_matrix
+vro_rep_ebp_matrix
+
+
+vro_rep_ebp_daten
+vro_rep_ebp_dáta
+
+
+Report Auswertung geprüfter Fahrzeuge
+Report Vyhodnotenie odksúšanıch vozidiel
+
+
+Modelljahre
+Modelové roky
+
+
+Report 1
+Report 1
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfschrittüberblick
+Preh¾ad skúšobnıch krokov
+
+
+Fahrzeug-Vormerkung
+Vozidlo - zápis
+
+
+Report 1
+Report 1
+
+
+Report_TICKETS_JE_MODELL_UND_PRUEFLISTE
+Report_TIKETY_ZA_MODEL_A_KONTROLNİ_ZOZNAM
+
+
+Werke
+Závody
+
+
+Mitarbeiterzuordnungen
+Priradenie zamestnancom
+
+
+Fehlende Reports
+Chıbajúce reporty
+
+
+Fahrzeugumlauf PAZ H20
+Obeh vozidla PAZ H20
+
+
+Ländergruppen
+Skupiny krajín
+
+
+Länderzuordnung
+Priradenie krajín
+
+
+Nutzerdaten
+Uívate¾ské dáta
+
+
+Prüfergebnisse
+Kontrolné vısledky
+
+
+Uebersetzungen
+Preklady
+
+
+Nie verwendete Prüfschritte
+Nikdy nepouité kontrolné kroky
+
+
+Report 1
+Report 1
+
+
+Dashboard
+Dashboard
+
+
+Top Woche
+Top tıdeò
+
+
+Top Verfolgung
+Top sledovanie
+
+
+aggregierte Werte
+agregované hodnoty
+
+
+Excel Export
+Export do Excelu
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov. Pouite,  prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.Speichern
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.Uloi.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je#MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+Die maximale Zeilenanzahl für diesen Bericht beträgt #MAX_ROW_COUNT# Zeilen.  Bitte wenden Sie einen Filter an, um die Anzahl der Datensätze in Ihrer Abfrage zu reduzieren.
+Maximálny poèet riadkov pre tento report je #MAX_ROW_COUNT# riadkov.  Pouite, prosím, filter na zníenie poètu záznamov vo Vašej poiadavke.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+The maximum row count for this report is #MAX_ROW_COUNT# rows.  Please apply a filter to reduce the number of records in your query.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+Keine Daten gefunden.
+Nenašli sa dáta.
+
+
+Keine Dokumente vorhanden!
+iadne dokumenty k dispozícii!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+Keine Daten gefunden!
+Nenašli sa dáta!
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+No data found.
+No data found.
+
+
+Hütchen
+Klobúèik
+
+
+Erstelldatum
+Dátum vytvorenia
+
+
+Freigabe
+Uvo¾nenie
+
+
+Reihenfolge
+Poradie
+
+
+Analyse
+Analıza
+
+
+Uhrzeit
+Èas
+
+
+Ticket Nr.
+Tiket è.
+
+
+Massnahme
+Opatrenie
+
+
+Modell Id
+Model - Id
+
+
+Modell
+Model
+
+
+Modell-Bezeichnung
+Názov modelu
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Püfschritt
+Kontrolnı krok
+
+
+Fehleransprache
+Prejav chyby
+
+
+Baustufe
+Baustufe
+       
+
+Fzg.-Kennnummer
+Identifikaèné èíslo vozidla
+
+
+Sollbaujahr
+Plánovanı rok vıroby
+
+
+Fahrzeugverwendung
+Pouitie vozidla
+
+
+Werk
+Závod
+
+
+Pr-String
+Pr-String
+
+
+Fachbereich
+Odborné oddelenie
+
+
+IO-Status
+Status IO
+
+
+HW-Fehler
+Chyba HW
+
+
+SW-Fehler
+Chyba SW
+
+
+Wichtung
+Závanos
+
+
+Auftraggeber
+Objednávate¾
+
+
+Verantwortlicher
+Zodpovedná osoba
+
+
+Termin Massnahme
+Termín opatrenia
+
+
+Status
+Status
+
+
+Land
+Krajina
+
+
+Land
+Krajina
+
+
+Halle
+Hala
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Datum Freigabe Prüfliste
+Dátum Uvo¾nenia Prüflistiny
+
+
+Freitext Fehleransprache
+Vo¾nı text prejavu chyby
+
+
+Hinweis Prüfergebnis
+Odkaz na vısledok skúšky
+
+
+VBV
+VBV
+
+
+Fehlerart
+Druh chyby
+
+
+Fehlerart
+Druh chyby
+
+
+Ausdruck im Fehlerprotokoll unterbinden
+Zakáza vıraz v chybovom protokole
+
+
+VBV
+VBV
+
+
+Linie
+Linka
+
+
+Baustufe
+Baustufe
+
+
+Top Verfolgung
+Top sledovanie
+
+
+Top Woche
+Top tıdeò
+
+
+Top Verfolgung
+Top sledovanie
+
+
+Top Woche
+Top tıdeò
+
+
+Top Verfolgung
+Top sledovanie
+
+
+Top Woche
+Top tıdeò
+
+
+Ticketart
+Druh tiketu
+
+
+Ticket Serienart
+Tiket druhu série
+
+
+Ticket Datum Abschluss
+Ticket - dátum ukonèenia
+
+
+Color Freigabe
+Color Uvo¾nenie
+
+
+Dokument
+Dokument
+
+
+Ag Id
+Ag Id
+
+
+Auftraggeber
+Objednávate¾
+
+
+Vbv Id
+Vbv Id
+
+
+Bezeichnung
+Oznaèenie
+
+
+Bemerkung
+Poznámka
+
+
+Pdok Id
+Pdok Id
+
+
+Pdok Tiket Id
+Pdok Tiket Id
+
+
+Dateiname
+Názov súboru
+
+
+Dateityp
+Typ súboru
+
+
+Status Code
+Status Code
+
+
+Metadata
+Metadata
+
+
+Fehlerursache
+Príèina chyby
+
+
+Ticket Nr
+Tiket è.
+
+
+Display
+Displej
+
+
+&nbsp;
+&nbsp;
+
+
+Sortierung
+Triedenie
+
+
+Proz. Anteil an Bauzahl vom Vortag
+Perc. podiel na poèet vyrobenıch voz. z návrhu
+
+
+Prüflisten
+Kontrolné zoznamy
+
+
+Bemerkung (für Ticket)
+Poznámka (pre tiket)
+	
+
+Fzg analyse beanstandung
+Fzg analyse beanstandung
+
+
+Reihenfolge
+Poradie
+
+
+Fb Bezeichnung
+Fb - oznaèenie
+
+
+Interieur / Exterieur
+Interiér / exteriér
+
+
+E / E / HV
+E / E / HV
+
+
+Datum Abschluss Ticket
+Dátum ukonèenia tiketu
+
+
+ungültig ab
+neplatné od
+
+
+Nutzer gesperrt ab
+Uívate¾ blokovanı od
+
+
+KPM
+KPM
+
+
+KPMCFS
+KPMCFS
+
+
+Kpm
+Kpm
+
+
+Kpmcfs
+Kpmcfs
+
+
+Sichtbar?
+Vidite¾né?
+
+
+Pr Id
+Pr Id
+
+
+Familie
+Rodina
+
+
+Nummer
+Èíslo
+
+
+Beschreibung
+Popis
+
+
+Nenngroesse Kwh
+Menovitá velièina Kwh
+
+
+&nbsp;
+&nbsp;
+
+
+Anz. Anhänge
+Poèet príloh
+
+
+Pc id
+Pc id
+
+
+Status
+Status
+
+
+Verantwortlicher
+Zodpovedná osoba
+
+
+Ticket label
+Ticket label
+
+
+Ticket label
+Ticket label
+
+
+Para Id
+Para Id
+
+
+Name
+Meno
+
+
+Wert (alphanumerisch)
+Hodnota (alfanumerická)
+
+
+Wert (numerisch)
+Hodnota (numerická)
+
+
+Wert (Datum)
+Hodnota (dátum)
+
+
+Bemerkung
+Poznámka
+
+
+Prüfnummern Beschreibung
+Kontrolné èísla - popis
+
+
+Fzg analyse beanstandung
+Analıza vozidla - nedostatky
+
+
+Ticket mod id
+Ticket mod id
+
+
+Serie
+Séria
+
+
+Pruefschrittkatalog id
+Katalóg skúšobnıch krokov - id
+
+
+Modell
+Model
+
+
+Bemerkung
+Poznámka
+
+
+Bemerkung
+Poznámka
+
+
+Bemerkung
+Poznámka
+
+
+Bemerkung
+Poznámka
+
+
+Serienart
+Druh série
+
+
+Serienart
+Druh série
+
+
+Serienart
+Druh série
+
+
+Modell
+Model
+
+
+Modell
+Model
+
+
+Modell
+Model
+
+
+Modell
+Model
+
+
+Bg color zieltermin
+Bg color cie¾ovı termín
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Verwendungszweck
+Úèel pouitia
+
+
+Ticket Nr
+Tiket è.
+
+
+Werk Id
+Závod - Id 
+
+
+Werk Nr
+Závod è.
+
+
+Werk Bezeichnung
+Závod – názov 
+
+
+PrNummern
+Pr. Nr. èísla
+
+
+PrNummer (lang)
+Pr. Nr. èíslo (dlhé)
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Fahrzeugseite
+Strana vozidla
+
+
+Teilestand
+Stav dielov
+
+
+Ergebnis
+Vısledok
+
+
+Ps Ticket Id
+Ps Ticket Id
+
+
+Perg Ps Id
+Perg Ps Id
+
+
+Perg Id
+Perg Id
+
+
+Ps Psk Id
+Ps Psk Id
+
+
+Fahrzeug
+Vozidlo
+
+
+Prüfbericht Name
+Názov Prüfberichtu
+
+
+Prüfbericht Link
+Link na Prüfbericht
+
+
+Abschlussdatum
+Dátum ukonèenia
+
+
+ID
+ID
+
+
+Ident
+Ident
+
+
+Beschreibung
+Popis
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Hinweis Auswertung
+Odkaz na vyhodnotenie
+
+
+&nbsp;
+&nbsp;
+
+
+Ident
+Ident
+
+
+Name
+Meno
+
+
+Email
+E-mail
+
+
+Letzte Anmeldung
+Posledné prihlásenie
+
+
+Aktualisierung Dashboard
+Aktualizácia dashboardu
+
+
+Sperre ab
+Blokácia od
+
+
+Rolle
+Rola
+
+
+Werke
+Závody
+
+
+Jahr
+Rok
+
+
+Gruppierung
+Zoskupenie
+
+
+Ticketart
+Druh tiketu
+
+
+Modell
+Model
+
+
+Summe
+Suma
+
+
+Summe
+Suma
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Datum Abschluss
+Dátum ukonèenia
+
+
+Datum Abschluss
+Dátum ukonèenia
+
+
+Datum Abschluss
+Dátum ukonèenia
+
+
+Datum Abschluss
+Dátum ukonèenia
+
+
+Dichtigkeit
+Tesnos
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Modell
+Model
+
+
+Modell01
+Model01
+
+
+Modell02
+Model02
+
+
+Modell04
+Model04
+
+
+Modell05
+Model05
+
+
+Modell06
+Model06
+
+
+Modell07
+Model07
+
+
+Modell08
+Model08
+
+
+Modell09
+Model09
+
+
+Modell10
+Model10
+
+
+Modell03
+Model03
+
+
+Zeile
+Riadok
+
+
+Ta
+Ta
+
+
+Ticketart
+Druh tiketu
+
+
+Analyse
+Analıza
+
+
+Analyse EE
+Analıza EE
+
+
+E E HV
+E E HV
+
+
+Fahrwerk / Aggregate
+Podvozok / Aggregate
+
+
+Ursach Id
+Id príèiny
+
+
+Verursacher
+Spôsobite¾
+
+
+Bemerkung
+Poznámka
+
+
+Akustik
+Akustika
+
+
+Komfortkräfte
+Komfortné sily
+
+
+Dichtigkeit
+Tesnos
+
+
+Serie H6
+Séria H6
+
+
+DKA
+DKA
+
+
+Strassenfahrt
+Jazda na komunikácii
+
+
+Ee Hv Alt
+Ee Hv Alt
+
+
+Elektronik Alt
+Elektronika Alt
+
+
+Ticket Id
+Id tiketu
+
+
+Analysezeit SB
+Èas analızy SB
+
+
+Analysezeit Prüfer
+Èas analızy - kontrolór
+
+
+Verursacher
+Spôsobite¾
+
+
+Datum Abschluss
+Dátum ukonèenia
+
+
+Jahr
+Rok
+
+
+Ticket Serienart
+Tiket druhu série
+
+
+Ergebniss
+Vısledok
+
+
+Fachbereich (aus Cluster)
+Odborné oddelenie (z klastra)
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Fehleransprache
+Prejav chyby
+
+
+Modell
+Model
+
+
+Mod Kuerzel
+Skratka Mod 
+
+
+Fahrzeug
+Vozidlo
+
+
+Hinweise
+Upozornenia
+
+
+Ticketart
+Druh tiketu
+
+
+Ticketart
+Druh tiketu
+
+
+Analyse
+Analıza
+
+
+Interieur/Exterieur
+Interiér/exteriér
+
+
+E/E/HV
+E/E/HV
+
+
+Fahrwerk / Aggregate
+Podvozok / agregáty
+
+
+Akustik
+Akustika
+
+
+Komfortkräfte
+Komfortné sily
+
+
+Dichtigkeit
+Tesnos
+
+
+Serie H6
+Séria H6
+
+
+DKA
+DKA
+
+
+Strassenfahrt
+Jazda na komunikácii
+
+
+EE/HV (alt)
+EE/HV (alt)
+
+
+Elektronik(alt)
+Elektronika (alt)
+
+
+Ticket Id
+Id tiketu
+
+
+Einbauprobe lfd. Nr.
+Skúška zabudovania - prieb. è.
+
+
+Einbauprobe Lang
+Skúška zabudovania - dlhá
+
+
+Ticket Datum Abschluss
+Tiket - dátum ukonèenia
+
+
+Jahr
+Rok
+
+
+Ticketart
+Druh tiketu
+
+
+Ergebnis
+Vısledok
+
+
+Fb Kuerzel
+Skratka Fb
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Fehleransprache
+Prejav chyby
+
+
+Modell
+Model
+
+
+Mod Kuerzel
+Skratka Mod
+
+
+Fahrzeug
+Vozidlo
+
+
+Hinweise Prüfergebniss
+Odkazy na vısledok kontroly
+
+
+Mod Id
+Mod Id
+
+
+Modell
+Model
+
+
+Ta
+Ta
+
+
+Ticketart
+Druh tiketu
+
+
+Analyse
+Analıza
+
+
+Interieur / Exterieur
+Interiér / exteriér
+
+
+E/E/HV
+E/E/HV
+
+
+Fahrwerk / Aggregate
+Podvozok / agregáty
+
+
+Akustik
+Akustika
+
+
+Komfortkräfte
+Komfortné sily
+
+
+Serie H6
+Séria H6
+
+
+DKA
+DKA
+
+
+Strassenfahrt
+Jazda na komunikácii
+
+
+Pfa Fans Id
+Pfa Fans Id
+
+
+Mp Id
+Mp Id
+
+
+Einsatzdatum
+Dátum nasadenia
+
+
+Bemerkung
+Poznámka
+
+
+Anzeige
+Zobrazenie
+
+
+PrNummer 02
+Èíslo Pr 02
+
+
+PrNummer 03
+Èíslo Pr 03
+
+
+PrNummer 04
+Èíslo Pr 04
+
+
+PrNummer 05
+Èíslo Pr 05
+
+
+PrNummer 06
+Èíslo Pr 06
+
+
+PrNummer 07
+Èíslo Pr 07
+
+
+PrNummer 08
+Èíslo Pr 08
+
+
+PrNummer 09
+Èíslo Pr 09
+
+
+PrNummer 10
+Èíslo Pr 10
+
+
+Kpm Url
+Kpm Url
+
+
+Kpmcfs Url
+Kpmcfs Url
+
+
+Pr Nummern Kombination
+Pr. Nr. èísla- kombinácia 
+
+
+Pr Nummern Kombination
+Pr. Nr. èísla - kombinácie
+
+
+Ma Pl Id Liste
+Zoznam Ma Pl Id
+
+
+Ma Prueflisten
+Kontrolné zoznamy Ma 
+
+
+Scheinwerfer
+Svetlomety
+
+
+Scheinwerfer
+Svetlomety
+
+
+Scheinwerfer
+Svetlomety
+
+
+Scheinwerfer
+Svetlomety
+
+
+in Reports drucken? 
+vytlaèi v reportoch?
+
+
+
+in Reports ausdrucken?
+   vytlaèi v reportoch?
+
+
+Aktiv?
+Aktívny?
+
+
+Ticket Nr.
+Tiket è.
+
+
+Ticket Nr.
+Tiket è.
+
+
+Ticket Nr.
+Tiket è.
+
+
+Prüfliste 01
+Kontrolnı zoznam 01
+
+
+Prüfliste 02
+Kontrolnı zoznam 02
+
+
+Prüfliste 03
+Kontrolnı zoznam 03
+
+
+Prüfliste 04
+Kontrolnı zoznam 04
+
+
+Prüfliste 05
+Kontrolnı zoznam 05
+
+
+Bezeichnung
+Oznaèenie
+
+
+&nbsp;
+&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Fb Id
+Fb Id
+
+
+Kürzel
+Skratka
+
+
+Bezeichnung
+Oznaèenie
+
+
+Fb Email
+Fb – e-mail
+
+
+Modell
+Model
+
+
+Analyse EE
+Analıza EE
+
+
+Analyse FW
+Analıza FW
+
+
+Analyse KK
+Analıza KK
+
+
+Analyse DK
+Analıza DK
+
+
+Analyse AK
+Analıza AK
+
+
+KK - lang
+KK - dlhé
+
+
+KK - kurz
+KK - krátke
+
+
+SW-Prüfung
+Kontrola SW
+
+
+PTC-Prüfung
+Kontrola PTC
+
+
+Standhöhe/Gewichte
+Vıšky/ Váhy
+
+
+HV-Check
+HV-Check
+
+
+DK
+DK
+
+
+KPM / KPMCFS
+KPM / KPMCFS
+
+
+KPM / KPMCFS
+KPM / KPMCFS
+
+
+Ticket Nr.
+Tiket è.
+
+
+Ticket Nr.
+Tiket è.
+
+
+Ticket ID
+Tiket ID
+
+
+Fehleransprache
+Prejav chyby
+
+
+Massnahme
+Opatrenie
+
+
+Verantwortlicher
+Zodpovedná osoba
+
+
+Termin
+Termín
+
+
+Fehlerart
+Druh chyby
+
+
+Perg Datum
+Perg - dátum
+
+
+Ps Datum Freigabe
+Ps - dátum uvo¾nenia
+
+
+Kalenderwoche
+Kalendárny tıdeò
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+VBV
+VBV
+
+
+Fans Flag Top Verfolgung
+Fans Flag Top sledovanie
+
+
+Fans Flag Top Woche
+Fans Flag Top tıdeò
+
+
+Pl Fb Id
+Pl Fb Id
+
+
+Ticket Serienart
+Tiket - druh série
+
+
+Ticket Vbv Id
+Tiket Vbv Id
+
+
+Ticket Mod Id
+Tiket Mod Id
+
+
+Ps Pl Id
+Ps Pl Id
+
+
+Psk Pc Id
+Psk Pc Id
+
+
+Ticket ID
+Tiket ID
+
+
+Fehleransprache
+Prejav chyby
+
+
+Massnahme
+Opatrenie
+
+
+Verantwortlicher
+Zodpovedná osoba
+
+
+Termin
+Termín
+
+
+Fehlerart
+Druh chyby
+
+
+Perg Datum
+Perg - dátum
+
+
+Ps Datum Freigabe
+Ps - dátum uvo¾nenia
+
+
+Kalenderwoche
+Kalendárny tıdeò
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+VBV
+VBV
+
+
+Fans Flag Top Verfolgung
+Fans Flag Top sledovanie
+
+
+Fans Flag Top Woche
+Fans Flag Top tıdeò
+
+
+Pl Fb Id
+Pl Fb Id
+
+
+Ticket Serienart
+Tiket - druh série
+
+
+Ticket Vbv Id
+Tiket Vbv Id
+
+
+Ticket Mod Id
+Tiket Mod Id
+
+
+Ps Pl Id
+Ps Pl Id
+
+
+Psk Pc Id
+Psk Pc Id
+
+
+Kalendertag
+Kalendárny deò
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Kennnummer
+Identifikaèné èíslo
+
+
+Wochentag
+Deò v tıdni
+
+
+Kalenderwoche
+Kalendárny tıdeò
+
+
+Kalenderwoche Label
+Kalendárny tıdeò - label
+
+
+Kalendermonat
+Kalendárny mesiac
+
+
+Monat
+Mesiac
+
+
+Jahr
+Rok
+
+
+Serienart
+Druh série
+
+
+VBV
+VBV
+
+
+Modell
+Model
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Ps Ticket Id
+Ps Tiket Id
+
+
+Fehler
+Chyba
+
+
+Prüfliste geändert am
+Kontrolnı zoznam zmenenı dòa
+
+
+Fachbereich geändert am
+Odborné oddelenie zmenené dòa
+
+
+Prüfliste freigegeben
+Kontrolnı zoznam schválenı
+
+
+Hochvolt
+Vysoké napätie
+
+
+Klappern
+Chrastenie
+
+
+Karosserie
+Karoséria
+
+
+TypPrüfLand
+Krajina typovej skúšky
+
+
+Analyse?
+Analıza?
+
+
+Modellpflege?
+       Modellpflege? 
+
+Einbauprobe?
+Skúška zabudovania?
+
+
+Sichtbar?
+Vidite¾né?
+
+
+Vorserie <br><br>Kennnummer
+Predséria <br><br>Identifikaèné èíslo
+
+
+Serie <br>Kennnummer
+Séria <br>Identifikaèné èíslo
+
+
+Analyse <br>Kennnummer
+Analıza <br>Identifikaèné èíslo
+
+
+Analyse <br>Bemerkung
+Analıza <br>Poznámka
+
+
+Analyse <br>Beschreibung
+Analıza <br>Popis
+
+
+Ticket ungesehen flag
+Tiket nevidenı flag
+
+
+(Prüf)-Datum
+(Kontrolnı) Dátum
+
+
+druckbar?
+mono vytlaèi?
+
+
+Beschreibung
+Popis
+
+
+Ma id
+Ma id
+
+
+Ma2rol Id
+Ma2rol Id
+
+
+Mitarbeiter
+Zamestnanec
+
+
+Rolle
+Rola
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Mitarbeiter
+Zamestnanec
+
+
+Verw Id
+Verw Id
+
+
+Ident
+Ident
+
+
+Bezeichnung
+Oznaèenie
+
+
+Lin Id
+Lin Id
+
+
+Ident
+Ident
+
+
+Bezeichnung
+Oznaèenie
+
+
+Var Id
+Var Id
+
+
+Ident
+Ident
+
+
+Bezeichnung
+Oznaèenie
+
+
+Bst Id
+Bst Id
+
+
+Baustufe Ident
+Baustufe - ident
+
+
+Baustufe Bezeichnung
+Baustufe - oznaèenie
+
+
+Mod Id
+Mod Id
+
+
+Kürzel
+Skratka
+
+
+Bezeichnung
+Oznaèenie
+
+
+Fans Id
+Fans Id
+
+
+Fehlerbeschreibung
+Popis chyby
+
+
+PrNummer 01
+Èíslo Pr 01
+
+
+Modell
+Model
+
+
+Psk Id
+Psk Id
+
+
+Bezeichnung
+Oznaèenie
+
+
+&nbsp;
+&nbsp;
+
+
+Beschreibung
+Popis
+
+
+Bemerkung
+Poznámka
+
+
+&nbsp;
+&nbsp;
+
+
+Fahrzeug
+Vozidlo
+
+
+Elektrik / HV
+Elektrika / HV
+
+
+Fahrwerk
+Podvozok
+
+
+Dichtigkeit
+Tesnos
+
+
+Komfortkräfte
+Komfortné sily
+
+
+Straßenfahrt
+Jazda na komunikácii
+
+
+ticket id
+tiket id
+
+
+Ticket-Nr.
+Tiket è.
+
+
+Fahrzeug
+Vozidlo
+
+
+Ersteller
+Vytvoril
+
+
+Status
+Status
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Beschreibung (Fachbereich)
+Popis (odborné oddelenie)
+
+
+&nbsp;
+&nbsp;
+
+
+Ticket-Nr.
+Tiket è.
+
+
+Fahrzeug
+Vozidlo
+
+
+Ersteller
+Vytvoril
+
+
+Status
+Status
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Beschreibung (Fachbereich)
+Popis (odborné oddelenie)
+
+
+Ticket Id
+Id tiketu
+
+
+Ticket-Nr.
+Tiket è.
+
+
+Fahrzeug
+Vozidlo
+
+
+Ersteller
+Vytvoril
+
+
+Status
+Status
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Beschreibung (Fachbereich)
+Popis (odborné oddelenie)
+
+
+Ticket Id
+Tiket Id
+
+
+Ticket-Nr.
+Tiket è.
+
+
+Fahrzeug
+Vozidlo
+
+
+Ersteller
+Vytvoril
+
+
+Status
+Status
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Beschreibung<br>(Fachbereich)
+Popis<br>(odborné oddelenie)
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Ticket id
+Ticket id
+
+
+Produktreferenzen (PR-Nummern)
+Produktové referencie (Pr. Nr. èísla)
+
+
+&nbsp;
+&nbsp;
+
+
+Ticket Nr.
+Tiket è.
+
+
+Prüfnummern
+Kontrolné èísla
+
+
+Ma Id
+Ma Id
+
+
+Ident
+Ident
+
+
+Name
+Meno
+
+
+E-Mail
+E-mail
+
+
+Ma Letzte Anmeldung
+Ma - posledné prihlásenie
+
+
+Rol Id
+Rol Id
+
+
+Ident
+Ident
+
+
+Beschreibung
+Popis
+
+
+Fzg Id
+Vozidlo - Id
+
+
+Modell
+Model
+
+
+Ident
+Ident
+
+
+Fahrzeugsteuerer
+Vodiè vozidla
+
+
+Modell Kürzel
+Model - skratka
+
+
+Ma Ident
+Ma - ident
+
+
+Kennnummer
+Identifikaèné èíslo
+
+
+Modelljahr
+Modelovı rok
+
+
+Sollbaujahr
+Plánovanı rok vıroby
+
+
+VIN
+VIN
+
+
+Linie
+Linka
+
+
+Verwendung
+Pouitie
+
+
+Fb Id
+Fb Id
+
+
+Kürzel
+Skratka
+
+
+Bezeichnung
+Oznaèenie
+
+
+Emailadresse
+E-mailová adresa
+
+
+ID
+ID
+
+
+Text
+Text
+
+
+Datum
+Dátum
+
+
+Art
+Druh
+
+
+Modul
+Modul
+
+
+APEX-Seite
+Strana v APEX
+
+
+Prot Nummer
+Prot - èíslo
+
+
+User
+Uívate¾
+
+
+Anzahl
+Poèet
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Fehleransprache
+Prejav chyby
+
+
+Anzahl
+Poèet
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Fehleransprache
+Prejav chyby
+
+
+Pv Id
+Pv Id
+
+
+Anz. Tickets je Tag
+Poèet tiketov za deò
+
+
+Anz. Tickets je Woche
+Poèet tiketov za tıdeò
+
+
+Anz. Tickets je Quartal
+Poèet tiketov za kvartál
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Psk Id
+Psk Id
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Baustufe
+Baustufe
+
+
+laufende Nummer
+priebené èíslo
+
+
+Analyse Gewichtung
+Analıza závanosti
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Massnahme
+Opatrenie
+
+
+Termin für Massnahme
+Termín na opatrenie
+
+
+Status
+Status
+
+
+Messwert Obergrenze
+Nameraná hodnota - horná hranica
+
+
+Messwert Untergrenze
+Nameraná hodnota - dolná hranica
+
+
+Elektronik
+Elektronika
+
+
+Akustik
+Akustika
+
+
+Mess Id
+ID merania
+
+
+Bezeichnung
+Oznaèenie
+
+
+Beschreibung
+Popis
+
+
+&nbsp;
+&nbsp;
+
+
+Fehleransprache
+Prejav chyby
+
+
+Massnahme
+Opatrenie
+
+
+Termin zur Massnahme
+Termín na opatrenie
+
+
+Status
+Status
+
+
+neuer Fehler
+nová chyba
+
+
+Fzg. gesamt
+Vozidlá spolu
+
+
+Fzg. geprüft
+Kontrolované vozidlá
+
+Fzg. mit Fehler
+Vozidlá s chybou
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Modell
+Model
+
+
+Ul Id
+Ul Id
+
+
+Verwendungszweck
+Úèel pouitia
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Status
+Status
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Pl Id
+Pl Id
+
+
+Bezeichnung
+Oznaèenie
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Pc Id
+Pc Id
+
+
+Bezeichnung
+Oznaèenie
+
+
+Ident
+Ident
+
+
+Kennnummer
+Identifikaèné èíslo
+
+
+Modelljahr
+Modelovı rok
+
+
+PrNummern FIS
+Pr. èísla - FIS
+
+
+Lfd.-Nr.
+Lfd.-Nr.
+
+
+Analyse Gewichtung
+Analıza závanosti
+
+
+DKA
+DKA
+
+
+Serie Halle 6
+Séria Hala 6
+
+
+Sortierreihenfolge
+Poradie triedenia
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Modelle
+Modely
+
+
+Psk id2
+Psk id2
+
+
+Fachbereiche (IDs)
+Odborné oddelenia (IDs)
+
+
+Wichtung
+Závanos
+
+
+Attachment
+Príloha
+
+
+Termin überschritten
+Termín prekroèenı
+
+
+PR Nummer
+Pr. èíslo
+
+
+Wichtung
+Závanos
+
+
+Wichtung
+Závanos
+
+
+Wichtung
+Závanos
+
+
+Anzahl
+Poèet
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Fehleransprache
+Prejav chyby
+
+
+Wichtung
+Závanos
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Pl id
+Pl id
+
+
+Ml id
+Ml id
+
+
+Ml pr id
+Ml pr id
+
+
+PR.-Nr.
+PR.-Nr.
+
+
+Ml mod id
+Ml mod id
+
+
+Modell
+Model
+
+
+Ml anhang
+Ml - príloha
+
+
+Anhang
+Príloha
+
+
+Fehleranzahl
+Poèet chıb
+
+
+Serienart
+Druh série
+
+
+Serienart
+Druh série
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Gültig ab
+Platí od
+
+
+Gültig bis
+Platí do
+
+
+je Modell?
+pod¾a modelu?
+
+
+je Linie?
+pod¾a linky?
+
+
+je Variante?
+pod¾a variantu?
+
+
+Fans Id
+Fans Id
+
+
+Kürzel
+Skratka
+
+
+Massnahme
+Opatrenie
+
+
+Termin
+Termín
+
+
+Status
+Status
+
+
+Art
+Druh
+
+
+PEVA
+PEVA
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Modell
+Model
+
+
+Fb Liste
+Fb  - zoznam
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Prüflisten
+Kontrolné zoznamy
+
+
+Psk Id
+Psk Id
+
+
+Psk Pc Id
+Psk Pc Id
+
+
+Mod Id
+Mod Id
+
+
+Rohbau Pin
+Rohbau Pin
+
+
+Typprüfland
+Krajina typovej skúšky
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Col3
+Col3
+
+
+Col4
+Col4
+
+
+Tpl Pr Id
+Tpl Pr Id
+
+
+Land
+Krajina
+
+
+Flagge
+Zástava
+
+
+&nbsp;
+&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+
+Status
+Status
+
+
+&
+&
+
+
+Pdok dateiname
+Pdok - názov súboru
+
+
+Pdok ticket id
+Pdok id tiketu
+
+
+<span title="#UHRZEIT#">#TICKET_ERSTELLDATUM#</span>
+<span title="#UHRZEIT#">#TICKET_ERSTELLDATUM#</span>
+
+
+<span data-style="background-color: #COLOR_FREIGABE#">#TICKET_DATUM_FREIGABE#</span>
+<span data-style="background-color: #COLOR_FREIGABE#">#TICKET_DATUM_FREIGABE#</span>
+
+
+<span #TICKET_STATUS_ANALYSE#></span>
+<span #TICKET_STATUS_ANALYSE#></span>
+
+
+#LINK#
+#LINK#
+
+
+<a href="#LINK_BUTTON#" onclick="open(this.href, '_blank', 'directories=no,titlebar=no,toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=400,height=350'); return false;">Report erzeugen</a>
+<a href="#LINK_BUTTON#" onclick="open(this.href, '_blank', 'directories=no,titlebar=no,toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=400,height=350'); return false;">Report erzeugen</a>
+
+
+<span #TICKET_STATUS_INT_EXTERIEUR#></span>
+<span #TICKET_STATUS_INT_EXTERIEUR#></span>
+
+
+<span #TICKET_STATUS_E_E_HV#></span>
+<span #TICKET_STATUS_E_E_HV#></span>
+
+
+<span data-style="background-color: #BG_COLOR_ZIELTERMIN#">#TICKET_ZIELTERMIN#</span>
+<span data-style="background-color: #BG_COLOR_ZIELTERMIN#">#TICKET_ZIELTERMIN#</span>
+
+
+<span #TICKET_STATUS_SCHEINWERFER#></span>
+<span #TICKET_STATUS_SCHEINWERFER#></span>
+
+
+<a href="javascript:apex.confirm('Wollen Sie wirklich löschen? Es werden alle Daten zum Prüfschritt gelöscht!', { request:'DELETE_PS', set:{'P4180_PSK_ID': #PSK_ID#}});">     <span class="fa fa-trash-o"></span> </a>
+<a href="javascript:apex.confirm('Wollen Sie wirklich löschen? Es werden alle Daten zum Prüfschritt gelöscht!', { request:'DELETE_PS', set:{'P4180_PSK_ID': #PSK_ID#}});">     <span class="fa fa-trash-o"></span> </a>
+
+
+<span #TICKET_STATUS_INT_HOCHVOLT#></span>
+<span #TICKET_STATUS_INT_HOCHVOLT#></span>
+
+
+<span #TICKET_STATUS_INT_KLAPPERN#></span>
+<span #TICKET_STATUS_INT_KLAPPERN#></span>
+
+
+<span #TICKET_STATUS_INT_KAROSSERIE#></span>
+<span #TICKET_STATUS_INT_KAROSSERIE#></span>
+
+
+<span #TICKET_STATUS_FAHRWERK#></span>
+<span #TICKET_STATUS_FAHRWERK#></span>
+
+
+<span #TICKET_STATUS_DICHTIGKEIT#></span>
+<span #TICKET_STATUS_DICHTIGKEIT#></span>
+
+
+<span #TICKET_STATUS_KOMFORTKRAETFE#></span>
+<span #TICKET_STATUS_KOMFORTKRAETFE#></span>
+
+
+<span #TICKET_STATUS_STRASSENFAHRT#></span>
+<span #TICKET_STATUS_STRASSENFAHRT#></span>
+
+
+#TICKET_TICKET_NR#
+#TICKET_TICKET_NR#
+
+
+<span title="#PRNUMMERN_TOOLTIP#">#PRNUMMERN#</span>
+<span title="#PRNUMMERN_TOOLTIP#">#PRNUMMERN#</span>
+
+
+<span #TICKET_STATUS_AKUSTIK#></span>
+<span #TICKET_STATUS_AKUSTIK#></span>
+
+
+<span #TICKET_STATUS_DKA#></span>
+<span #TICKET_STATUS_DKA#></span>
+
+
+<span #TICKET_STATUS_SERIE_H6#></span>
+<span #TICKET_STATUS_SERIE_H6#></span>
+
+
+<span #STATUS#>#PRUEFLISTE#</span>
+<span #STATUS#>#PRUEFLISTE#</span>
+
+
+<span class="fa fa-paperclip"></span>&nbsp;(#ANZAHL#)
+<span class="fa fa-paperclip"></span>&nbsp;(#ANZAHL#)
+
+
+#ATTACHMENT_LINK#
+#ATTACHMENT_LINK#
+
+
+#TICKET_NR#
+#TICKET_NR#
+
+
+#TICKET_NR#
+#TICKET_NR#
+
+
+#TICKET_NR#
+#TICKET_NR#
+
+
+<span class="fa fa-edit"></span>
+<span class="fa fa-edit"></span>
+
+
+<span class="fa fa-car" aria-hidden="true"></span>
+<span class="fa fa-car" aria-hidden="true"></span>
+
+
+<span class="fa fa-car" aria-hidden="true"></span>
+<span class="fa fa-car" aria-hidden="true"></span>
+
+
+<span class="fa fa-edit" style="display:#DISPLAY#" aria-hidden="true"></span>
+<span class="fa fa-edit" style="display:#DISPLAY#" aria-hidden="true"></span>
+
+
+<span class="fa fa-gears"  style="display:#DISPLAY#" aria-hidden="true"></span>
+<span class="fa fa-gears"  style="display:#DISPLAY#" aria-hidden="true"></span>
+
+
+IR Column Grouping
+IR Column Grouping
+
+
+<p>  <strong>ClariFit IR Column Grouping</strong></p> <p>  <strong>Plug-in Type</strong>: Dynamic Action<br />  <strong>Summary</strong>: Displays IR Column Groups on top of the column headers.</p> <div id="cke_pastebin">  <div id="cke_pastebin">   <strong>Depends</strong>:</div>  <div id="cke_pastebin">   &nbsp;$.console.js &nbsp;-&nbsp;<a href="http://code.google.com/p/js-console-wrapper">http://code.google.com/p/js-console-wrapper</a></div>  <div id="cke_pastebin">   &nbsp;</div>  <div id="cke_pastebin">   <strong>Contact information</strong></div>  <div id="cke_pastebin">   Developed by ClariFit Inc.</div>  <div id="cke_pastebin">   <a href="http://www.clarifit.com/">http://www.clarifit.com</a></div>  <div id="cke_pastebin">   <a href="mailto:apex@clarifit.com?subject=ClariFit%20Plug-in%3A%20From%2FTo%20Date%20Picker%20Question">apex@clarifit.com</a></div>  <div id="cke_pastebin">   &nbsp;</div>  <div>   <div id="cke_pastebin">    <em><strong>Author</strong></em></div>   <div>    Martin Giffy D&#39;Souza -&nbsp;<a href="http://dev01:8888/apex/f?p=4000:4410:3158106845696200::NO:4410:P4410_ID:2104525373596149">http://www.talkapex.com</a></div>  </div>  <div>   &nbsp;</div>  <div id="cke_pastebin">   <strong>License</strong></div>  <div id="cke_pastebin">   Licensed Under: GNU General Public License, version 3 (GPL-3.0) -<a href="http://www.opensource.org/licenses/gpl-3.0.html">http://www.opensource.org/licenses/gpl-3.0.html</a></div> </div> <p>  <strong>Configure IR Column Groups</strong></p> <p>  - Edit IR<br />  - Go to Column Groups region<br />  - Click the Add Group button<br />  - Enter group information and click the Create button<br />  - Repeat if necessary to create more groups</p> <p>  - In the Column Attributes region you can assign a group to each column.</p> <p>  <strong>How to implement the IR Column Group Plugin</strong></p> <p>  - On the page with the IR create a Dynamic Action<br />  - Select Advanced<br />  - Name: IR Column Group &nbsp;<em>(this can be whatever you want)<br />  - </em>Event: After Refresh &nbsp;(<em>under Framework Events</em>)<br />  &nbsp;&nbsp;Selection Type: DOM Object (<em>do not select region - see below</em>)<br />  &nbsp;&nbsp;DOM Object:&nbsp;apexir_REPORT &nbsp;(<em>case sensitive</em>)<br />  &nbsp;&nbsp;Condition: No Condition<br />  &nbsp;&nbsp;Click the Next button<br />  - Action: ClariFit IR Column Grouping<br />  - Selection Type: (<em>leave blank</em>)<br />  &nbsp;</p> <p>  The reason why it&#39;s recommended that you set the Selection Type to DOM object and not region, is that by default Interactive Reports region template is &quot;No Template&quot;. This means that there&#39;s no way to identify the IR using this method. Using the DOM object guarantees that the Dynamic Action will work regardless of region template.</p> <p>  <strong>How to configure for ALL Interactive Reports</strong></p> <p>  This plugin can be easily setup for all interactive reports. Just replicate the previous steps but create the Dynamic Action on Page 0.</p>
+<p>  <strong>ClariFit IR Column Grouping</strong></p> <p>  <strong>Plug-in Type</strong>: Dynamic Action<br />  <strong>Summary</strong>: Displays IR Column Groups on top of the column headers.</p> <div id="cke_pastebin">  <div id="cke_pastebin">   <strong>Depends</strong>:</div>  <div id="cke_pastebin">   &nbsp;$.console.js &nbsp;-&nbsp;<a href="http://code.google.com/p/js-console-wrapper">http://code.google.com/p/js-console-wrapper</a></div>  <div id="cke_pastebin">   &nbsp;</div>  <div id="cke_pastebin">   <strong>Contact information</strong></div>  <div id="cke_pastebin">   Developed by ClariFit Inc.</div>  <div id="cke_pastebin">   <a href="http://www.clarifit.com/">http://www.clarifit.com</a></div>  <div id="cke_pastebin">   <a href="mailto:apex@clarifit.com?subject=ClariFit%20Plug-in%3A%20From%2FTo%20Date%20Picker%20Question">apex@clarifit.com</a></div>  <div id="cke_pastebin">   &nbsp;</div>  <div>   <div id="cke_pastebin">    <em><strong>Author</strong></em></div>   <div>    Martin Giffy D&#39;Souza -&nbsp;<a href="http://dev01:8888/apex/f?p=4000:4410:3158106845696200::NO:4410:P4410_ID:2104525373596149">http://www.talkapex.com</a></div>  </div>  <div>   &nbsp;</div>  <div id="cke_pastebin">   <strong>License</strong></div>  <div id="cke_pastebin">   Licensed Under: GNU General Public License, version 3 (GPL-3.0) -<a href="http://www.opensource.org/licenses/gpl-3.0.html">http://www.opensource.org/licenses/gpl-3.0.html</a></div> </div> <p>  <strong>Configure IR Column Groups</strong></p> <p>  - Edit IR<br />  - Go to Column Groups region<br />  - Click the Add Group button<br />  - Enter group information and click the Create button<br />  - Repeat if necessary to create more groups</p> <p>  - In the Column Attributes region you can assign a group to each column.</p> <p>  <strong>How to implement the IR Column Group Plugin</strong></p> <p>  - On the page with the IR create a Dynamic Action<br />  - Select Advanced<br />  - Name: IR Column Group &nbsp;<em>(this can be whatever you want)<br />  - </em>Event: After Refresh &nbsp;(<em>under Framework Events</em>)<br />  &nbsp;&nbsp;Selection Type: DOM Object (<em>do not select region - see below</em>)<br />  &nbsp;&nbsp;DOM Object:&nbsp;apexir_REPORT &nbsp;(<em>case sensitive</em>)<br />  &nbsp;&nbsp;Condition: No Condition<br />  &nbsp;&nbsp;Click the Next button<br />  - Action: ClariFit IR Column Grouping<br />  - Selection Type: (<em>leave blank</em>)<br />  &nbsp;</p> <p>  The reason why it&#39;s recommended that you set the Selection Type to DOM object and not region, is that by default Interactive Reports region template is &quot;No Template&quot;. This means that there&#39;s no way to identify the IR using this method. Using the DOM object guarantees that the Dynamic Action will work regardless of region template.</p> <p>  <strong>How to configure for ALL Interactive Reports</strong></p> <p>  This plugin can be easily setup for all interactive reports. Just replicate the previous steps but create the Dynamic Action on Page 0.</p>
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Keine Berechtigung!
+Nemáte oprávnenie!
+
+
+Wollen Sie das Ticket wirklich abschließen?
+Chcete skutoène ukonèi tiket?
+
+
+Wollen Sie alle fehlenden Reports erzeugen?
+Chcete vytvori všetky chıbajúce reporty?
+
+
+Bitte wählen Sie einen Filter aus!
+Prosím, zvo¾te filter!
+
+
+Bitte wählen Sie Jahr und Kalenderwoche aus!
+Prosím, zvo¾te rok a kalendárny tıdeò !
+
+
+Desktop
+Desktop
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Plc Pc Id
+Plc Pc Id
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Reihenfolge
+Poradie
+
+
+PR-Nummern
+Èísla PR
+
+
+Prnummern tooltipp
+Prnummern tooltipp
+
+
+Messwert Toleranz  Min.
+Nameraná hodnota - tolerancia min.
+
+
+Messwert Toleranz Max.
+   Nameraná hodnota - tolerancia max.
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Beschreibung
+Popis
+
+
+Modell
+Model
+
+
+Status
+Status
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Modell
+Model
+
+
+Sollbauzahl
+Plánovanı poèet vyrobenıch vozidiel
+
+
+Teilestand
+Stav dielov
+
+
+Gültig ab
+Platí od
+
+
+Gültig bis
+Platí do
+
+
+Ticket
+Tiket
+
+
+Ticket Nr
+Tiket è.
+
+
+Beschreibung
+Popis
+
+
+Bemerkung
+Poznámka
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Fahrzeug
+Vozidlo
+
+
+&nbsp;
+&nbsp;
+
+
+Serienart
+Druh série
+
+
+Datum Freigabe
+Dátum uvo¾nenia
+
+
+Hütchen
+Hütchen
+
+
+Modell
+Model
+
+
+Erstelldatum
+Dátum vytvorenia
+
+
+Datum Abschluss
+Dátum ukonèenia
+
+
+Jahr
+Rok
+
+
+Modell
+Model
+
+
+Nr. 1
+È. 1
+
+
+Nr. 2
+È. 2
+
+
+Nr. 3
+È. 3
+
+
+Nr. 4
+È. 4
+
+
+Nr. 5
+È. 5
+
+
+Nr. 6
+È. 6
+
+
+Nr. 7
+È. 7
+
+
+Nr. 8
+È. 8
+
+
+Nr. 9
+È. 9
+
+
+Nr. 10
+È. 10
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+MIN
+MIN
+
+
+MAX
+MAX
+
+
+Einsatzdatum MP
+Dátum nasadenia MP
+
+
+Gültig von
+Platí od
+
+
+Gültig bis
+Platí do
+
+
+Wert
+Hodnota
+
+
+Perg Fans Id
+Perg Fans Id
+
+
+Fehleransprachen
+Prejavy chıb
+
+
+Reihenfolge
+Poradie
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Anhänge
+Prílohy
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Verwendungszweck
+Úèel pouitia
+
+
+Toleranzen
+Tolerancie
+
+
+zu messender Wert
+meraná hodnota
+
+
+Sichtbar?
+Vidite¾né?
+
+
+Sollbaujahr
+Plánovanı rok vıroby
+
+
+Fzg.-Kennnummer (7stellig)
+Voz. - identifikaèné èíslo (7-miestne)
+
+
+Bemerkung
+Poznámka
+
+
+Umrechnung Proz.?
+Prepoèet na perc.?
+
+
+Mittelwertbildung?
+Vıpoèet priemernej hodnoty?
+
+
+Werk Nr
+Závod è.
+
+
+Bezeichnung
+Oznaèenie
+
+
+Mitarbeiter
+Zamestnanec
+
+
+Kürzel
+Skratka
+
+
+Messwert (Bezeichnung)
+Meraná hodnota (oznaèenie)
+
+
+Ländergruppe
+Skupina krajín
+
+
+zgh. Typprüfland
+príslušná krajina typovej skúšky
+
+
+Hinweise zum Prüfergebnis
+Odkazy na vısledok skúšky
+
+
+Ergebnis
+Vısledok
+
+
+Messergebnis
+Vısledok merania
+
+
+Sprache
+Jazyk
+
+
+APEX-Seite
+Strana v APEX
+
+
+Attribut
+Atribút
+
+
+Original-Text
+Originálny text
+
+
+Übersetzung
+Preklad
+
+
+bereits übersetzt?
+u preloené?
+
+
+Name
+Meno
+
+
+Beschreibung
+Popis
+
+
+Routine
+Rutina
+
+
+Aktiv
+Aktívne
+
+
+Bemerkung
+Poznámka
+
+
+Start Initial
+Start Initial
+
+
+Intervall
+Interval
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+&nbsp;
+&nbsp;
+
+
+Mittelwert
+Priemerná hodnota
+
+
+Minimum
+Minimum
+
+
+Maximum
+Maximum
+
+
+Actions
+Actions
+
+
+Actions
+Actions
+
+
+Actions
+Actions
+
+
+Actions
+Actions
+
+
+Actions
+Actions
+
+
+Actions
+Actions
+
+
+Actions
+Actions
+
+
+Actions
+Actions
+
+
+<span aria-hidden="true" class="fa fa-calculator" id="LINK_MESSWERT"></span>
+<span aria-hidden="true" class="fa fa-calculator" id="LINK_MESSWERT"></span>
+
+
+<span aria-hidden="true" class="fa fa-exclamation-diamond-o" id="LINK_FA"></span>
+<span aria-hidden="true" class="fa fa-exclamation-diamond-o" id="LINK_FA"></span>
+
+
+<span style="display:&DISPLAY_ANHAENGE_PRUEFSCHRITT."><span class="fa fa-paperclip"></span>&nbsp;(&ANZ_ANHAENGE_PRUEFSCHRITT.)</span>
+<span style="display:&DISPLAY_ANHAENGE_PRUEFSCHRITT."><span class="fa fa-paperclip"></span>&nbsp;(&ANZ_ANHAENGE_PRUEFSCHRITT.)</span>
+
+
+<span class="fa fa-tags" aria-hidden="true"></span>
+<span class="fa fa-tags" aria-hidden="true"></span>
+
+
+<span class="fa fa-car" aria-hidden="true"></span>
+<span class="fa fa-car" aria-hidden="true"></span>
+
+
+<span><span class="fa fa-paperclip"></span>&nbsp;(&ANZ_ANHAENGE_PRUEFSCHRITT.)</span>
+<span><span class="fa fa-paperclip"></span>&nbsp;(&ANZ_ANHAENGE_PRUEFSCHRITT.)</span>
+
+
+<span class="fa fa-paperclip"></span><span style="display:&DISPLAY_ANHAENGE_PRUEFERGEBNIS.">&nbsp;(&ANZ_ANHAENGE_PRUEFERGEBNIS.)</span>
+<span class="fa fa-paperclip"></span><span style="display:&DISPLAY_ANHAENGE_PRUEFERGEBNIS.">&nbsp;(&ANZ_ANHAENGE_PRUEFERGEBNIS.)</span>
+
+
+Prüfnummern
+Kontrolné èísla
+
+
+Messwert Toleranzgrenze
+Nameraná hodnota – hranica tolerancie
+
+
+Stichprobenhäufigk.
+Poèet námatkovıch vzoriek
+
+
+&nbsp;
+&nbsp;
+
+
+New
+Nové
+
+
+Keine Modelle zugeordnet!
+Nie sú priradené modely!
+
+
+Keine Prüfergebnisse vorhanden!
+Skúšobné vısledky nie sú k dispozícii!
+
+
+Neue Zeile
+Novı riadok
+
+
+Anzahl Fehler / Anzahl Fzg.
+Poèet chıb / Poèet voz.
+
+
+Wochentag
+Deò v tıdni
+
+
+Durchschn. Anz. an Fehlern pro Fzg.
+Priem. poèet chıb na vozidlo
+
+
+Kalenderwochen
+Kalendárne tıdne
+
+
+Durchschn. Anz. an Fehlern pro Fzg.
+   Priem. poèet chıb na vozidlo
+
+
+Anzahl Fehler / Anzahl Fzg.
+Poèet chıb / Poèet voz.
+
+
+Kalendermonate
+Kalendárne mesiace
+
+
+Durchschn. Anz. an Fehlern pro Fzg.
+   Priem. poèet chıb na vozidlo
+
+
+Anzahl Fehler / Anzahl Fzg.
+Poèet chıb / Poèet voz.
+
+
+Messwerte
+Namerané hodnoty
+
+
+Messwerte
+Namerané hodnoty
+
+
+Messwerte
+Namerané hodnoty
+
+
+Messwerte
+Namerané hodnoty
+
+
+Minimum
+Minimum
+
+
+Maximum
+Maximum
+
+
+Minimum
+Minimum
+
+
+Maximum
+Maximum
+
+
+Minimum
+Minimum
+
+
+Maximum
+Maximum
+
+
+Minimum
+Minimum
+
+
+Maximum
+Maximum
+
+
+Anzahl Fahrzeuge
+Poèet vozidiel
+
+
+Anzahl Fehler
+Poèet chıb
+
+
+Durchschn. Anzahl an Fehlern pro Fahrzeug
+Priemernı poèet chıb na vozidlo
+
+
+Anzahl Fahrzeuge
+Poèet vozidiel
+
+
+Durchschn. Anzahl an Fehlern pro Fahrzeug
+Priemernı poèet chıb na vozidlo
+
+
+Anzahl Fehler
+Poèet chıb
+
+
+Anzahl Fahrzeuge
+Poèet vozidiel
+
+
+Anzahl Fehler
+Poèet chıb
+
+
+Durchschn. Anzahl an Fehlern pro Fahrzeug
+   Priemernı poèet chıb na vozidlo
+
+<span style="color:red;font-weight:bold;font-size: 20px;">Es wurde noch kein Fahrzeug erfasst!</span>
+<span style="color:red;font-weight:bold;font-size: 20px;">Es wurde noch kein Fahrzeug erfasst!</span>
+
+
+<span style="color:red;font-weight:bold;font-size: 20px;">Es wurde noch kein Modell erfasst!</span>
+<span style="color:red;font-weight:bold;font-size: 20px;">Es wurde noch kein Modell erfasst!</span>
+
+
+<span style="color:red;font-weight:bold;font-size: 20px;">Bearbeitung des Tickets nicht möglich!</span>
+<span style="color:red;font-weight:bold;font-size: 20px;">Bearbeitung des Tickets nicht möglich!</span>
+
+
+<style> .ui-dialog.ui-dialog--notification .ui-dialog-content {   padding: 10px; } </style>
+<style> .ui-dialog.ui-dialog--notification .ui-dialog-content {   padding: 10px; } </style>
+
+
+<span style="color:red"> Achtung! Daten sind vertraulich!!! Freitextfelder dürfen keine personenbezogenen Daten enthalten!</span>
+<span style="color:red"> Achtung! Daten sind vertraulich!!! Freitextfelder dürfen keine personenbezogenen Daten enthalten!</span>
+
+
+Bemerkung
+Poznámka
+
+
+Reihenfolge
+Poradie
+
+
+Verwendungszweck
+Úèel pouitia
+
+
+Messwert vorhanden
+Nameraná hodnota je k dispozícii
+
+
+Stichprobenhäufigkeit
+Poèet námatkovıch vzoriek
+
+
+Bezeichnung Prüfschritt
+Oznaèenie kontrolného kroku
+
+
+Modelle
+Modely
+
+
+Pr.-Nummern
+Èísla Pr.
+
+
+Toleranzgrenze MIN
+Hranica tolerancie MIN
+
+
+Toleranzgrenze MAX
+Hranica tolerancie MAX
+
+
+Wert
+Hodnota
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Datum Abschluss Prüfliste von
+Dátum ukonèenia kontrolného zoznamu od
+
+
+Datum Abschluss Prüfliste bis
+Dátum ukonèenia kontrolného zoznamu do
+
+
+Modell
+Model
+
+
+VBV
+VBV
+
+
+Ausdruck im Fehlerprotokoll unterbinden?
+Zakáza vıraz v chybovom protokole?
+
+
+Top Woche?
+Top tıdeò?
+
+
+Ticketart
+Druh tiketu
+
+
+Ticketart
+Druh tiketu
+
+
+Ticket Serienart
+Tiket - druh série
+
+
+Bezeichnung
+Oznaèenie
+
+
+Bezeichnung
+Oznaèenie
+
+
+Bemerkung
+Poznámka
+
+
+Prüfschrittergebnisse
+Vısledky kontrolného kroku
+
+
+nur Summenzeile
+iba súètovı riadok
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Sortierung
+Triedenie
+
+
+Auftraggeber
+Objednávate¾
+
+
+Auftraggeber
+Objednávate¾
+
+
+Fahrzeugverwendung
+Pouitie vozidla
+
+
+proz. Anteil an Stückzahl vom Vortag
+perc. podiel na poète voz. z predch. dòa
+
+
+Prüfcluster neu
+Kontrolnı klaster - novı
+
+
+Zeitraum von
+Obdobie od
+
+
+Zeitraum bis
+Obdobie do
+
+
+ungültig ab
+neplatné od
+
+
+Zugang gesperrt ab
+Prístup blokovanı od
+
+
+KPM
+KPM
+
+
+KPMcfs
+KPMcfs
+
+
+Sichtbar?
+Vidite¾né?
+
+
+Analysezeit SB
+Èas analızy SB
+
+
+Analysezeit Prüfer
+Èas analızy - Prüfer
+
+
+PR-Familie
+Pr- rodina
+
+
+PR-Nummer
+Pr-èíslo
+
+
+Beschreibung
+Popis
+
+
+Nenngröße Kwh
+   Menovitá velièina Kwh
+
+New
+Nové
+
+
+Ident
+Ident
+
+
+Name
+Meno
+
+
+Email
+E-mail
+
+
+Auto Refresh Dashboard
+Auto Refresh Dashboard
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Dateiname
+Názov súboru
+
+
+Datei auswählen
+Vybra súbor
+
+
+Drucken im Anhang
+Tlaè v prílohe
+
+
+Beschreibung
+Popis
+
+
+Dateiname
+Názov súboru
+
+
+Datei auswählen
+   Vybra súbor
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Modell
+Model
+
+
+Verantwortlicher
+Zodpovedná osoba
+
+
+Name
+Meno
+
+
+Wert (alphanumerisch)
+Hodnota (alfanumerická)
+
+
+Wert (numerisch)
+Hodnota (numerická)
+
+
+Wert (Datum)
+Hodnota (dátum)
+
+
+Bemerkung
+Poznámka
+
+
+Modell
+Model
+
+
+Modell
+Model
+
+
+Ticketart
+Druh tiketu
+
+
+Verwendungszweck
+Úèel pouitia
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Kennnummer
+Identifikaèné èíslo
+
+
+Werk
+Závod
+
+
+SPJ
+SPJ
+
+
+Fahrzeug
+Vozidlo
+
+
+Fachbereichsauswahl
+Vıber odborného oddelenia
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Hütchen
+Hütchen
+
+
+Hütchen
+Hütchen
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Hütchen
+Hütchen
+
+
+Werk Nr.
+Závod è.
+
+
+Bezeichnung
+Oznaèenie
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Rolle
+Rola
+
+
+Ident
+Ident
+
+
+Beschreibung
+Popis
+
+
+Hinweis Auswertung
+Odkaz na vyhodnotenie
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Tickets
+Tikety
+
+
+Ident
+Ident
+
+
+Name
+Meno
+
+
+Email
+E-mail
+
+
+Gesperrt ab
+Blokované od
+
+
+Prüflisten
+Kontrolné zoznamy
+
+
+Rolle
+Rola
+
+
+Werke
+Závody
+
+
+ungültig ab
+neplatné od
+
+
+Refresh Dashboard
+Refresh Dashboard
+
+
+Datum Abschluss
+Dátum ukonèenia
+
+
+Modellpflege
+       Modellpflege
+
+aktuelle Werkszuordnung
+aktuálne priradenie závodu
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Jahr
+Rok
+
+
+Verursacher
+Spôsobite¾
+
+
+Bemerkung
+Poznámka
+
+
+Ticketart
+Druh tiketu
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Ticketart
+Druh tiketu
+
+
+Verursacher
+Spôsobite¾
+
+
+Verursacher
+Spôsobite¾
+
+
+Messbezeichnung
+Oznaèenie merania
+
+
+Messwert 1
+Nameraná hodnota 1
+
+
+Messwert 2
+Nameraná hodnota 2
+
+
+Messwert 3
+Nameraná hodnota 3
+
+
+Fehleransprache
+Prejav chyby
+
+
+Fehleransprache Freitext
+Prejav chyby – vo¾nı text 
+
+
+Verursacher
+Spôsobite¾
+
+
+Bemerkung
+Poznámka
+
+
+Ticketart
+Druh tiketu
+
+
+Modell
+Model
+
+
+Zeitraum von
+Obdobie od
+
+
+Zeitraum bis
+Obdobie do
+
+
+Zeitraum von
+Obdobie od
+
+
+Zeitraum bis
+Obdobie do
+
+
+Zeitraum von
+Obdobie od
+
+
+Zeitraum bis
+Obdobie do
+
+
+Einsatzdatum
+Dátum nasadenia
+
+
+Bemerkung
+Poznámka
+
+
+Anzeige?
+Oznam?
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+nach Model
+pod¾a modelu
+
+
+neuer Prüfschritt
+novı kontrolnı krok
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Messbezeichnung
+Oznaèenie merania
+
+
+Messwert 1
+Nameraná hodnota 1
+
+
+Messwert 2
+Nameraná hodnota 2
+
+
+Messwert 3
+Nameraná hodnota 3
+
+
+Datei
+Súbor
+
+
+Kürzel
+Skratka
+
+
+Modell
+Model
+
+
+Produktreferenz 02
+Produktová referencia  02
+
+
+Produktreferenz 03
+Produktová referencia 03
+
+
+Produktreferenz 04
+Produktová referencia 04
+
+
+Produktreferenz 05
+Produktová referencia 05
+
+
+Produktreferenz 06
+Produktová referencia 06
+
+
+Produktreferenz 07
+Produktová referencia 07
+
+
+Produktreferenz 08
+Produktová referencia 08
+
+
+Produktreferenz 09
+Produktová referencia 09
+
+
+Produktreferenz 10
+Produktová referencia 10
+
+
+Druck in Reports?
+Tlaè do reportov?
+
+
+in Reports audrucken?
+vytlaèi v reportoch?
+
+
+Aktiv?
+aktívne?
+
+
+Bemerkung Fzg-Vormerkung
+Poznámka k zápisu vozidla
+
+
+Prüfliste 02
+Kontrolnı zoznam 02
+
+
+Prüfliste 03
+Kontrolnı zoznam 03
+
+
+Prüfliste 04
+Kontrolnı zoznam 04
+
+
+Prüfliste 05
+Kontrolnı zoznam 05
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+<a href="javascript:location.href='f?p=&APP_ID.:4165:&APP_SESSION.:APPLICATION_PROCESS=DOWNLOAD_BLOB_FEHLERANSPRACHE:::FANS_ID: &P4165_FANS_ID.'">&P4165_FANS_DATEINAME.</a>
+<a href="javascript:location.href='f?p=&APP_ID.:4165:&APP_SESSION.:APPLICATION_PROCESS=DOWNLOAD_BLOB_FEHLERANSPRACHE:::FANS_ID: &P4165_FANS_ID.'">&P4165_FANS_DATEINAME.</a>
+
+
+ungültig ab
+neplatné od
+
+
+Bezeichnung
+Oznaèenie
+
+
+Einbauproben
+Skúšky zabudovania
+
+
+Datei auswählen
+Vybra súbor
+
+
+Dateiname
+Názov súboru
+
+
+druckbar?
+mono vytlaèi?
+
+
+Beschreibung
+Popis
+
+
+Kürzel
+Skratka
+
+
+Bezeichnung
+Oznaèenie
+
+
+ungueltig ab
+neplatné od
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Modell
+Model
+
+
+Modell
+Model
+
+
+Zeitraum von
+Obdobie od
+
+
+bis
+do
+
+
+Eingang Vorserie
+Vstup - predséria
+
+
+Eingang Serie
+Vstup - séria
+
+
+Eingang Analyse / EBP
+Vstup – analıza / EBP
+
+
+Ausgang Vorserie
+Vıstup - predséria
+
+
+Ausgang Serie
+Vıstup - séria
+
+
+Umlauf Vorserie
+Obeh - predséria
+
+
+Ausgang Analyse / EBP
+Vıstup - analıza / EBP
+
+
+Umlauf Analysen / EBP
+Obeh – analızy / EBP
+
+
+Umlauf Serie
+Obeh - séria
+
+- 
+Jahr
+Rok
+
+
+Kalenderwoche
+Kalendárny tıdeò
+
+
+Ticketart
+Druh tiketu
+
+
+Prüflisten
+Kontrolné zoznamy
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+VBV
+VBV
+
+
+Werk / Mandant
+Werk / Mandant
+
+
+KNr.
+KNr.
+
+
+FIS Response
+FIS Response
+
+
+Jahr
+Rok
+
+
+Werk
+Závod
+
+
+Return Value
+Return Value
+
+
+Zeitraum bis
+Obdobie do
+
+
+Ticketart
+Druh tiketu
+
+
+Modell
+Model
+
+
+Prüfschritte
+Kontrolné kroky
+
+
+Zeitraum von
+Obdobie od
+
+
+Bezeichnung
+Oznaèenie
+
+
+Baustufe
+Baustufe
+
+
+Variante
+Variante
+
+
+TypPrüfLand
+Krajina typovej skúšky
+
+
+TypPrüfland
+   Krajina typovej skúšky
+
+Typprüfland
+Krajina typovej skúšky
+
+
+Sichtbar?
+Vidite¾né?
+
+
+Analyse?
+Analıza?
+
+
+Einbauprobe
+Skúška zabudovania
+
+
+Modellpflege
+       Modellpflege
+
+Rohbau-PIN
+Rohbau-PIN
+
+
+Title 1
+Title 1
+
+
+Prüfschritt:
+Kontrolnı krok:
+
+
+Drucken im Anhang
+Tlaèi v prílohe
+
+
+Beschreibung
+Popis
+
+
+Mitarbeiter
+Zamestnanec
+
+
+Fachbereiche
+Odborné oddelenia
+
+
+Mitarbeiter
+Zamestnanec
+
+
+Rolle
+Rola
+
+
+Modell
+Model
+
+
+Werk
+Závod
+
+
+username
+uívate¾ské meno
+
+
+password
+heslo
+
+
+Ident
+Ident
+
+
+Bezeichnung
+Oznaèenie
+
+
+Ident
+Ident
+
+
+Bezeichnung
+Oznaèenie
+
+
+Ident
+Ident
+
+
+Bezeichnung
+Oznaèenie
+
+
+Ident
+Ident
+
+
+Bezeichnung
+Oznaèenie
+
+
+Kürzel
+Skratka
+
+
+Bezeichnung
+Oznaèenie
+
+
+Fehlerbeschreibung
+Popis chyby
+
+
+Produktreferenz 01
+Produktová referencia 01
+
+
+Modell
+Model
+
+
+Bezeichnung
+Oznaèenie
+
+
+New
+Nové
+
+
+Ticket:
+Tiket:
+
+
+Ticket Nr
+Tiket è.
+
+
+Fahrzeug
+Vozidlo
+
+
+Status
+Status
+
+
+Erstellt am
+Vytvorené dòa
+
+
+Modell
+Model
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Baustufe
+Stupeò zabudovania
+
+
+Linie
+Linka
+
+
+Variante
+Variant
+
+
+Beschreibung
+Popis
+
+
+Bemerkung
+Poznámka
+
+
+Produktreferenzen (PR-Nummern)
+Produktové referencie (Pr. èísla)
+
+
+SPJ
+SPJ
+
+
+Werk
+Závod
+
+
+Verwendungszweck
+Úèel pouitia
+
+
+Kennnummer
+Identifikaèné èíslo
+
+
+Ident
+Ident
+
+
+Name
+Meno
+
+
+E-Mail
+E-Mail
+
+
+Ident
+Ident
+
+
+Beschreibung
+Popis
+
+
+Modell
+Model
+
+
+Ident
+Ident
+
+
+Kennnummer
+Identifikaèné èíslo
+
+
+SPJ
+SPJ
+
+
+Linie
+Linka
+
+
+Verwendung
+Pouitie
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Toleranzgrenze (Min.)
+Hranica tolerancie (min.)
+
+
+Toleranzgrenze (Max.)
+Hranica tolerancie (max.)
+
+
+Häufigkeit der Stichprobe (%)
+Poèetnos námatkovej vzorky (%)
+
+
+Messwert
+Nameraná hodnota
+
+
+Auftraggeber
+Objednávate¾
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Baustufe
+Baustufe
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Massnahme
+Opatrenie
+
+
+Termin für Massnahme
+Termín na opatrenie
+
+
+Status
+Status
+
+
+Fehlerart
+Druh chyby
+
+
+Messwert Untergrenze
+Nameraná hodnota - dolná hranica
+
+
+Messwert Obergrenze
+Nameraná hodnota - horná hranica
+
+
+Bezeichnung
+Oznaèenie
+
+
+Beschreibung
+Popis
+
+
+Verwendungszweck
+Úèel pouitia
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Status
+Status
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Bezeichnung
+Oznaèenie
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Bezeichnung
+Oznaèenie
+
+
+Sortierreihenfolge
+Poradie triedenia
+
+
+Wichtung
+Závanos
+
+
+Top Verfolgung?
+Top sledovanie?
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Beschreibung
+Popis
+
+
+Bemerkung
+Poznámka
+
+
+Baustufe
+Baustufe
+
+
+Serienart
+Druh série
+
+
+Serienart
+Druh série
+
+
+Kennnummer
+Identifikaèné èíslo
+
+
+Werk
+Závod
+
+
+SPJ
+SPJ
+
+
+Zieltermin
+Cie¾ovı termín
+
+
+Beschreibung
+Popis
+
+
+Bemerkung
+Poznámka
+
+
+Status
+Status
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfdatum
+Dátum kontroly
+
+
+Stichprobe Häufigkeit
+Poèetnos skúšanej vzorky
+
+
+Messung
+Meranie
+
+
+Messwert Toleranz Min.
+Nameraná hodnota min. tolerancie
+
+
+Messwert Toleranz Max.
+Nameraná hodnota max. tolerancie
+
+
+Reihenfolge
+Poradie
+
+
+Freigabedatum
+Dátum uvo¾nenia
+
+
+Anhang
+Príloha
+
+
+PR-Nr.
+PR-è.
+
+
+Modell
+Model
+
+
+Anhang
+Príloha
+
+
+Anhang Link
+Príloha - link
+
+
+Gültig ab
+Platí od
+
+
+Gültig bis
+Platí do
+
+
+Prüfcluster
+Kontrolnı klaster
+
+
+Prüfliste
+Kontrolnı zoznam
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Reihenfolge
+Poradie
+
+
+Fachbereich
+Odborné oddelenie
+
+
+Prüfliste 01
+Kontrolnı zoznam 01
+
+
+Anz. Tickets je Tag
+Poèet tiketov za deò
+
+
+Anz. Tickets je Woche
+Poèet tiketov za tıdeò
+
+
+Anz. Tickets je Quartal
+Poèet tiketov za kvartál
+
+
+je Modell?
+pod¾a modelu?
+
+
+je Linie?
+pod¾a linky?
+
+
+je Variante?
+pod¾a variantu?
+
+
+Messung
+Meranie
+
+
+Mitarbeiter
+Zamestnanec
+
+
+Hinweise zum Prüfergebnis
+Odkazy k vısledku skúšky
+
+
+Ergebnis
+Vısledok
+
+
+Messwert
+Nameraná hodnota
+
+
+Fehlermeldung
+Chybové hlásenie
+
+
+Prüfschritt
+Kontrolnı krok
+
+
+Prüfdatum
+Dátum kontroly
+
+
+Wichtung
+Závanos
+
+
+KPM
+KPM
+
+
+KPMCFS
+KPMCFS
+
+
+PrNummer
+Èíslo Pr
+
+
+und PrNummer
+a èíslo Pr
+
+
+und PrNummer
+a èíslo Pr
+
+
+VBV
+VBV
+
+
+Land
+Krajina
+
+
+Flagge
+Zástava
+
+
+Abteilungsspezifische Informationen
+Informácie špecifické pre oddelenie
+
+
+Title 1
+Title 1
+
+
+Abteilungsspezifische Informationen
+Informácie špecifické pre oddelenie
+
+
+Fehleransprache alt
+Prejav chyby po starom
+
+
+Fehleransprache neu
+Prejav chyby po novom
+
+
+Ticket:
+Tiket:
+
+
+Dateiname
+Názov súboru
+
+
+Dokument auswählen
+Vybra dokument
+
+
+<span class="t-Login-iconValidation a-Icon icon-check"></span>
+<span class="t-Login-iconValidation a-Icon icon-check"></span>
+
+
+<span class="t-Login-iconValidation a-Icon icon-check"></span>
+<span class="t-Login-iconValidation a-Icon icon-check"></span>
+
+
+- bitte wählen -
+- zvo¾te, prosím -
+
+
+- bitte wählen -
+- zvo¾te, prosím -
+
+
+--- alle ---
+--- všetky ---
+
+
+--- alle ---
+--- všetky ---
+
+
+- bitte auswählen -
+- vyberte, prosím -
+
+
+- bitte auswählen -
+- vyberte, prosím -
+
+
+--- alle ---
+--- všetky ---
+
+
+--- alle ---
+--- všetky ---
+
+
+<a id="anhang" href="javascript:javascript:apex.confirm(htmldb_delete_message,'DELETE_ATTACHMENT');" id="delete" title="Anhang löschen" style="margin-left: 10px;color:red;font-size:20px;">x</a>
+<a id="anhang" href="javascript:javascript:apex.confirm(htmldb_delete_message,'DELETE_ATTACHMENT');" id="delete" title="Anhang löschen" style="margin-left: 10px;color:red;font-size:20px;">x</a>
+
+
+username
+username
+
+
+password
+password
+
+
+ab wann soll der Prüfschritt nicht mehr zu Tickets zugeordnet werden?
+odkedy sa kontrolnı krok u nemá priradi k tiketom?
+
+
+
+
+
+
+
