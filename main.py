@@ -23,12 +23,10 @@ lines = original.readlines()
 for i in range(1, len(lines)):
     if lines[i].startswith(('<target>', "</target>")):
         l = lines[i].strip()[8:-9]
+        l = l.lstrip()
         if l in dict.keys():
-            print(" " * len("Writing translation: ") + f" [{l}]  -->  [{dict[l]}]", end="")
-            print("\r", end="")
-            print("Writing translation: ")
-            
-            lines[i] = f"<target>{dict[l]}</target>"
+            print(f"Writing translation: [{l}]  -->  [{dict[l]}]")
+            lines[i] = f"<target>{dict[l]}</target>\n"
             
         else:
             print(f"Translation for {l} not in dictionary, skipping...")
